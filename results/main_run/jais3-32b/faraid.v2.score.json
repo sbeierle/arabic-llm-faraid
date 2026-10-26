@@ -1,0 +1,485 @@
+{
+  "input": "/tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/jais3-32b/faraid.v2.jsonl",
+  "total": 50,
+  "groups": {
+    "faraid_core": {
+      "CORRECT": 20,
+      "FAIL_VALUE": 10
+    },
+    "faraid_disputed": {
+      "CORRECT_VARIANT": 20
+    }
+  },
+  "headline": {
+    "faraid_core": {
+      "k": 20,
+      "n": 30,
+      "rate": 0.6666666666666666,
+      "ci95": [
+        0.48779725813830266,
+        0.807697044731538
+      ]
+    },
+    "faraid_disputed": {
+      "k": 20,
+      "n": 20,
+      "rate": 1.0,
+      "ci95": [
+        0.8388698745050667,
+        1.0
+      ]
+    }
+  },
+  "details": [
+    {
+      "item_id": "FAR008",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 177.9,
+      "completion_tokens": 1065
+    },
+    {
+      "item_id": "FAR009",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 86.48,
+      "completion_tokens": 2769
+    },
+    {
+      "item_id": "FAR005",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 182.6,
+      "completion_tokens": 3991
+    },
+    {
+      "item_id": "FAR002",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 140.65,
+      "completion_tokens": 4598
+    },
+    {
+      "item_id": "FAR007",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 179.04,
+      "completion_tokens": 4738
+    },
+    {
+      "item_id": "FAR004",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 184.09,
+      "completion_tokens": 4750
+    },
+    {
+      "item_id": "FAR011",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.6,
+      "ttft_ms": 88.34,
+      "completion_tokens": 1381
+    },
+    {
+      "item_id": "FAR003",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 185.86,
+      "completion_tokens": 5725
+    },
+    {
+      "item_id": "FAR001",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 188.4,
+      "completion_tokens": 5957
+    },
+    {
+      "item_id": "FAR006",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 180.24,
+      "completion_tokens": 6742
+    },
+    {
+      "item_id": "FAR013",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 86.69,
+      "completion_tokens": 3041
+    },
+    {
+      "item_id": "FAR012",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 67.54,
+      "completion_tokens": 4311
+    },
+    {
+      "item_id": "FAR010",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 87.79,
+      "completion_tokens": 5234
+    },
+    {
+      "item_id": "FAR016",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 63.87,
+      "completion_tokens": 3457
+    },
+    {
+      "item_id": "FAR018",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.2,
+      "ttft_ms": 82.86,
+      "completion_tokens": 3281
+    },
+    {
+      "item_id": "FAR017",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 63.21,
+      "completion_tokens": 4393
+    },
+    {
+      "item_id": "FAR015",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 65.77,
+      "completion_tokens": 5266
+    },
+    {
+      "item_id": "FAR014",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.2,
+      "ttft_ms": 63.69,
+      "completion_tokens": 6083
+    },
+    {
+      "item_id": "FAR025",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.333,
+      "ttft_ms": 62.88,
+      "completion_tokens": 1533
+    },
+    {
+      "item_id": "FAR020",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 89.26,
+      "completion_tokens": 4201
+    },
+    {
+      "item_id": "FAR024",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 64.37,
+      "completion_tokens": 2939
+    },
+    {
+      "item_id": "FAR022",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 63.94,
+      "completion_tokens": 4123
+    },
+    {
+      "item_id": "FAR019",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 65.27,
+      "completion_tokens": 5686
+    },
+    {
+      "item_id": "FAR026",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.6,
+      "ttft_ms": 62.48,
+      "completion_tokens": 3032
+    },
+    {
+      "item_id": "FAR027",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.5,
+      "ttft_ms": 66.28,
+      "completion_tokens": 1695
+    },
+    {
+      "item_id": "FAR021",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 64.8,
+      "completion_tokens": 5121
+    },
+    {
+      "item_id": "FAR031",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 63.15,
+      "completion_tokens": 1076
+    },
+    {
+      "item_id": "FAR023",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 65.96,
+      "completion_tokens": 4583
+    },
+    {
+      "item_id": "FAR029",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.5,
+      "ttft_ms": 65.85,
+      "completion_tokens": 1435
+    },
+    {
+      "item_id": "FAR033",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 63.81,
+      "completion_tokens": 976
+    },
+    {
+      "item_id": "FAR028",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.6,
+      "ttft_ms": 68.02,
+      "completion_tokens": 2442
+    },
+    {
+      "item_id": "FAR036",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.4,
+      "ttft_ms": 61.96,
+      "completion_tokens": 1156
+    },
+    {
+      "item_id": "FAR032",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 84.45,
+      "completion_tokens": 1990
+    },
+    {
+      "item_id": "FAR030",
+      "category": "faraid_core",
+      "verdict": "FAIL_VALUE",
+      "reason": "Anteile weichen ab",
+      "heir_accuracy": 0.5,
+      "ttft_ms": 64.22,
+      "completion_tokens": 2986
+    },
+    {
+      "item_id": "FAR035",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 85.54,
+      "completion_tokens": 2271
+    },
+    {
+      "item_id": "FAR042",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 84.98,
+      "completion_tokens": 1664
+    },
+    {
+      "item_id": "FAR043",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 85.37,
+      "completion_tokens": 2497
+    },
+    {
+      "item_id": "FAR044",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 88.55,
+      "completion_tokens": 1434
+    },
+    {
+      "item_id": "FAR041",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 63.61,
+      "completion_tokens": 3588
+    },
+    {
+      "item_id": "FAR037",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 64.1,
+      "completion_tokens": 6209
+    },
+    {
+      "item_id": "FAR034",
+      "category": "faraid_core",
+      "verdict": "CORRECT",
+      "reason": "alle Anteile exakt",
+      "heir_accuracy": 1.0,
+      "ttft_ms": 63.17,
+      "completion_tokens": 7908
+    },
+    {
+      "item_id": "FAR038",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=all",
+      "variant": "blocks|radd=all",
+      "ttft_ms": 83.09,
+      "completion_tokens": 7624
+    },
+    {
+      "item_id": "FAR046",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 68.05,
+      "completion_tokens": 3245
+    },
+    {
+      "item_id": "FAR040",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 83.53,
+      "completion_tokens": 7134
+    },
+    {
+      "item_id": "FAR039",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=blood",
+      "variant": "blocks|radd=blood",
+      "ttft_ms": 80.52,
+      "completion_tokens": 7407
+    },
+    {
+      "item_id": "FAR047",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 65.11,
+      "completion_tokens": 4040
+    },
+    {
+      "item_id": "FAR045",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=blood",
+      "variant": "blocks|radd=blood",
+      "ttft_ms": 87.56,
+      "completion_tokens": 5960
+    },
+    {
+      "item_id": "FAR048",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante blocks|radd=none",
+      "variant": "blocks|radd=none",
+      "ttft_ms": 88.39,
+      "completion_tokens": 5059
+    },
+    {
+      "item_id": "FAR049",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 65.54,
+      "completion_tokens": 5244
+    },
+    {
+      "item_id": "FAR050",
+      "category": "faraid_disputed",
+      "verdict": "CORRECT_VARIANT",
+      "reason": "passt auf Regelvariante muqasama|radd=all",
+      "variant": "muqasama|radd=all",
+      "ttft_ms": 64.49,
+      "completion_tokens": 5369
+    }
+  ]
+}

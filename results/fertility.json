@@ -1,0 +1,186 @@
+{
+  "korpora": {
+    "quran_mit_tashkeel": 6236,
+    "quran_ohne_tashkeel": 6236,
+    "bukhari_1500": 1500,
+    "faraid_prompt_ar": 50,
+    "faraid_prompt_en": 50
+  },
+  "modelle": {
+    "qwen3-30b-a3b": {
+      "tokenizer": {
+        "repo": "Qwen/Qwen3-30B-A3B",
+        "vocab_size": 151669,
+        "klasse": "Qwen2Tokenizer"
+      },
+      "quran_mit_tashkeel": {
+        "docs": 6236,
+        "tokens": 558915,
+        "words": 78248,
+        "chars": 611297,
+        "tokens_per_word": 7.142866271342399,
+        "tpw_ci95": [
+          7.121996111599028,
+          7.163153422237449
+        ],
+        "tokens_per_100chars": 91.43100653201309
+      },
+      "quran_ohne_tashkeel": {
+        "docs": 6236,
+        "tokens": 162656,
+        "words": 78248,
+        "chars": 332837,
+        "tokens_per_word": 2.0787240568449032,
+        "tpw_ci95": [
+          2.0706477560817937,
+          2.0869876382020713
+        ],
+        "tokens_per_100chars": 48.869566784942776
+      },
+      "bukhari_1500": {
+        "docs": 1500,
+        "tokens": 687939,
+        "words": 113935,
+        "chars": 770735,
+        "tokens_per_word": 6.037995348224865,
+        "tpw_ci95": [
+          6.007765014399165,
+          6.066027332415879
+        ],
+        "tokens_per_100chars": 89.25752690613506
+      },
+      "faraid_prompt_ar": {
+        "docs": 50,
+        "tokens": 7640,
+        "words": 3157,
+        "chars": 16476,
+        "tokens_per_word": 2.420019005384859,
+        "tpw_ci95": [
+          2.408570995394647,
+          2.4318562782594415
+        ],
+        "tokens_per_100chars": 46.37047827142511
+      },
+      "faraid_prompt_en": {
+        "docs": 50,
+        "tokens": 7366,
+        "words": 5120,
+        "chars": 25702,
+        "tokens_per_word": 1.438671875,
+        "tpw_ci95": [
+          1.4303390078915073,
+          1.4473750503588967
+        ],
+        "tokens_per_100chars": 28.659248307524706
+      },
+      "ar_zu_en_tokenverhaeltnis_faraid": 1.0371979364648385
+    },
+    "jais3-mova": {
+      "tokenizer": {
+        "repo": "inception42/Jais-3-MoVA-36B-A4B",
+        "vocab_size": 250624,
+        "klasse": "TokenizersBackend"
+      },
+      "quran_mit_tashkeel": {
+        "docs": 6236,
+        "tokens": 301558,
+        "words": 78248,
+        "chars": 611297,
+        "tokens_per_word": 3.8538748594213272,
+        "tpw_ci95": [
+          3.840912859659322,
+          3.8666018080333973
+        ],
+        "tokens_per_100chars": 49.330848998113844
+      },
+      "quran_ohne_tashkeel": {
+        "docs": 6236,
+        "tokens": 107959,
+        "words": 78248,
+        "chars": 332837,
+        "tokens_per_word": 1.3797029956037214,
+        "tpw_ci95": [
+          1.374493078017926,
+          1.3846696111855459
+        ],
+        "tokens_per_100chars": 32.435997199830545
+      },
+      "bukhari_1500": {
+        "docs": 1500,
+        "tokens": 360931,
+        "words": 113935,
+        "chars": 770735,
+        "tokens_per_word": 3.1678676438320097,
+        "tpw_ci95": [
+          3.1482113312186732,
+          3.185744183811781
+        ],
+        "tokens_per_100chars": 46.829455000746044
+      },
+      "faraid_prompt_ar": {
+        "docs": 50,
+        "tokens": 5545,
+        "words": 3157,
+        "chars": 16476,
+        "tokens_per_word": 1.7564143173899271,
+        "tpw_ci95": [
+          1.746114246221539,
+          1.7665698300645873
+        ],
+        "tokens_per_100chars": 33.655013352755525
+      },
+      "faraid_prompt_en": {
+        "docs": 50,
+        "tokens": 7366,
+        "words": 5120,
+        "chars": 25702,
+        "tokens_per_word": 1.438671875,
+        "tpw_ci95": [
+          1.4303390078915073,
+          1.4473750503588967
+        ],
+        "tokens_per_100chars": 28.659248307524706
+      },
+      "ar_zu_en_tokenverhaeltnis_faraid": 0.7527830572902525
+    }
+  },
+  "paarweise": {
+    "qwen3-30b-a3b/jais3-mova": {
+      "quran_mit_tashkeel": {
+        "ratio": 1.8534245485113974,
+        "ci95": [
+          1.8500013644658817,
+          1.8564475059183176
+        ]
+      },
+      "quran_ohne_tashkeel": {
+        "ratio": 1.5066460415528118,
+        "ci95": [
+          1.502508659659987,
+          1.5106366844146843
+        ]
+      },
+      "bukhari_1500": {
+        "ratio": 1.9060125065455724,
+        "ci95": [
+          1.9021210026027104,
+          1.9100843536142573
+        ]
+      },
+      "faraid_prompt_ar": {
+        "ratio": 1.3778178539224526,
+        "ci95": [
+          1.373568576411069,
+          1.3821093697368185
+        ]
+      },
+      "faraid_prompt_en": {
+        "ratio": 1.0,
+        "ci95": [
+          1.0,
+          1.0
+        ]
+      }
+    }
+  }
+}

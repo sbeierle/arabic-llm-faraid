@@ -1,0 +1,19 @@
+==================================================================
+ REPORT: results_ext/qwen3-30b-a3b/faraid_en.jsonl  (50 Items, Modell: qwen3-30b-a3b)
+==================================================================
+
+[faraid_core]  n=30
+   CORRECT                3  ( 10.0%)
+   FAIL_VALUE            27  ( 90.0%)
+   => Exakt richtig: 3/30 = 10.0%  (95%-CI Wilson 3.5-25.6%)
+
+[faraid_disputed]  n=20
+   CORRECT_VARIANT        3  ( 15.0%)
+   FAIL_VALUE            17  ( 85.0%)
+   => Irgendeine Variante: 3/20 = 15.0%  (95%-CI Wilson 5.2-36.0%)
+
+[!] 1 Fara'id-Antworten mit Summe != 1 (unplausibel)
+
+==================================================================
+[+] JSON: results_ext/qwen3-30b-a3b/faraid_en.score.json
+[+] Audit-CSV (manuell stichprobenartig pruefen): results_ext/qwen3-30b-a3b/faraid_en.audit.csv

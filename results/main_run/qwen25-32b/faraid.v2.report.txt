@@ -1,0 +1,17 @@
+==================================================================
+ REPORT: /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/qwen25-32b/faraid.v2.jsonl  (50 Items, Modell: qwen25-32b)
+==================================================================
+
+[faraid_core]  n=30
+   FAIL_VALUE            30  (100.0%)
+   => Exakt richtig: 0/30 = 0.0%  (95%-CI Wilson 0.0-11.4%)
+
+[faraid_disputed]  n=20
+   FAIL_VALUE            20  (100.0%)
+   => Irgendeine Variante: 0/20 = 0.0%  (95%-CI Wilson 0.0-16.1%)
+
+[!] 20 Fara'id-Antworten mit Summe != 1 (unplausibel)
+
+==================================================================
+[+] JSON: /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/qwen25-32b/faraid.v2.score.json
+[+] Audit-CSV (manuell stichprobenartig pruefen): /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/qwen25-32b/faraid.v2.audit.csv

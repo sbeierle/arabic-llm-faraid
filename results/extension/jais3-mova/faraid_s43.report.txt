@@ -1,0 +1,17 @@
+==================================================================
+ REPORT: results_ext/jais3-mova/faraid_s43.jsonl  (50 Items, Modell: jais3-mova)
+==================================================================
+
+[faraid_core]  n=30
+   CORRECT               24  ( 80.0%)
+   FAIL_VALUE             6  ( 20.0%)
+   => Exakt richtig: 24/30 = 80.0%  (95%-CI Wilson 62.7-90.5%)
+
+[faraid_disputed]  n=20
+   CORRECT_VARIANT       16  ( 80.0%)
+   FAIL_VALUE             4  ( 20.0%)
+   => Irgendeine Variante: 16/20 = 80.0%  (95%-CI Wilson 58.4-91.9%)
+
+==================================================================
+[+] JSON: results_ext/jais3-mova/faraid_s43.score.json
+[+] Audit-CSV (manuell stichprobenartig pruefen): results_ext/jais3-mova/faraid_s43.audit.csv

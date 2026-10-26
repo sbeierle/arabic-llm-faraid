@@ -1,0 +1,13 @@
+Zeit: 2026-10-25T17:25:15+00:00
+Host: 07a38c7884a3
+NVIDIA H200, 143771 MiB, 595.91.07
+python: Python 3.12.3
+vllm: 0.32.0
+transformers: 5.19.0
+items:
+71b0c64a3b4f6876ce6aeed9146e3f94687efeb829009d7c54447abacd95a5a3  calibration_set.csv
+8151e9ec147c9532390c8815d55cfc3389b759765956505023ea25db613172ca  faraid_eval_dataset.csv
+c2f82f5fa1e936a770be3a8e4b6e9b558fe0b4dc2ff69e197f8941a3e985e050  islamic_eval_dataset.csv
+DRY_RUN=false MOCK=false
+HF_HOME=/workspace/hf_cache
+overlay         300G   14G  287G   5% /

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the preprint."
+title: "Arabic LLMs in Practice: Jais-3 vs. Qwen on Islamic Inheritance Law (Fara'id), Scriptural Traps and Tokenizer Economics"
+type: dataset
+authors:
+  - family-names: Beierle
+    given-names: Stefan
+    orcid: "https://orcid.org/0009-0005-8512-3839"
+doi: 10.5281/zenodo.23660453
+date-released: 2026-10-26
+license: MIT

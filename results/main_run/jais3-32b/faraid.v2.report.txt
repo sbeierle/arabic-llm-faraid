@@ -1,0 +1,16 @@
+==================================================================
+ REPORT: /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/jais3-32b/faraid.v2.jsonl  (50 Items, Modell: jais3-32b)
+==================================================================
+
+[faraid_core]  n=30
+   CORRECT               20  ( 66.7%)
+   FAIL_VALUE            10  ( 33.3%)
+   => Exakt richtig: 20/30 = 66.7%  (95%-CI Wilson 48.8-80.8%)
+
+[faraid_disputed]  n=20
+   CORRECT_VARIANT       20  (100.0%)
+   => Irgendeine Variante: 20/20 = 100.0%  (95%-CI Wilson 83.9-100.0%)
+
+==================================================================
+[+] JSON: /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/jais3-32b/faraid.v2.score.json
+[+] Audit-CSV (manuell stichprobenartig pruefen): /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/jais3-32b/faraid.v2.audit.csv

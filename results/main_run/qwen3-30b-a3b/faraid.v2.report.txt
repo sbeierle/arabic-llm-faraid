@@ -1,0 +1,19 @@
+==================================================================
+ REPORT: /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/qwen3-30b-a3b/faraid.v2.jsonl  (50 Items, Modell: qwen3-30b-a3b)
+==================================================================
+
+[faraid_core]  n=30
+   CORRECT                5  ( 16.7%)
+   FAIL_VALUE            25  ( 83.3%)
+   => Exakt richtig: 5/30 = 16.7%  (95%-CI Wilson 7.3-33.6%)
+
+[faraid_disputed]  n=20
+   CORRECT_VARIANT        4  ( 20.0%)
+   FAIL_VALUE            16  ( 80.0%)
+   => Irgendeine Variante: 4/20 = 20.0%  (95%-CI Wilson 8.1-41.6%)
+
+[!] 2 Fara'id-Antworten mit Summe != 1 (unplausibel)
+
+==================================================================
+[+] JSON: /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/qwen3-30b-a3b/faraid.v2.score.json
+[+] Audit-CSV (manuell stichprobenartig pruefen): /tmp/claude-0/-home-claude/2e7ffbb0-e902-54d2-816b-c834d8f536a2/scratchpad/res_v2/qwen3-30b-a3b/faraid.v2.audit.csv

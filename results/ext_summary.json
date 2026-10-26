@@ -1,0 +1,53 @@
+{
+  "tests": [
+    {
+      "name": "qwen3-30b-a3b: englisch vs arabisch (seed 42)",
+      "p": 0.75390625
+    },
+    {
+      "name": "qwen3-30b-a3b: seed 43 vs seed 42 (arabisch)",
+      "p": 0.7265625
+    },
+    {
+      "name": "jais3-mova: englisch vs arabisch (seed 42)",
+      "p": 0.1796875
+    },
+    {
+      "name": "jais3-mova: seed 43 vs seed 42 (arabisch)",
+      "p": 1.0
+    },
+    {
+      "name": "Modellvergleich Fara'id arabisch s42: MoVA vs Qwen3",
+      "p": 1.941225491464138e-08
+    },
+    {
+      "name": "Modellvergleich Fara'id arabisch s43: MoVA vs Qwen3",
+      "p": 1.1641532182693481e-10
+    },
+    {
+      "name": "Modellvergleich Fara'id englisch: MoVA vs Qwen3",
+      "p": 3.725290298461914e-09
+    },
+    {
+      "name": "Fallen: MoVA vs Qwen3",
+      "p": 1.5497207641601562e-06
+    },
+    {
+      "name": "qwen3-30b-a3b: ohne vs mit Tashkeel",
+      "p": 1.0
+    },
+    {
+      "name": "jais3-mova: ohne vs mit Tashkeel",
+      "p": 0.30175781249999994
+    },
+    {
+      "name": "Modellvergleich Verse mit Tashkeel: MoVA vs Qwen3",
+      "p": 9.313225746154785e-10
+    },
+    {
+      "name": "Modellvergleich Verse ohne Tashkeel: MoVA vs Qwen3",
+      "p": 2.9802322387695312e-08
+    }
+  ],
+  "bonferroni_alpha": 0.004166666666666667
+}
