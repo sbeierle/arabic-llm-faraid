@@ -10,42 +10,42 @@ The work was prepared with Claude (Anthropic) as an agent under the author's dir
 ## Evaluation Results & Visualizations
 
 ### 1. Model Architecture & Core Performance
-Comparison of dense and mixture-of-experts architectures against ground-truth inheritance calculations (Fara'id, $n=50$, Key v2) and scripture quotation fidelity[cite: 6, 7].
+Comparison of dense and mixture-of-experts architectures against ground-truth inheritance calculations (Fara'id, $n=50$, Key v2) and scripture quotation fidelity.
 
 ![Main Run Model Comparison](assets/img/01_main_run_models.png)
 
 ---
 
 ### 2. Breakdown by Juristic Rule Group
-Performance across specific inheritance mechanics (*'Awl*, *Radd*, *Hajb*, *'Asaba*, and the *'Umarī* cases)[cite: 10, 11, 13].
+Performance across specific inheritance mechanics (*'Awl*, *Radd*, *Hajb*, *'Asaba*, and the *'Umarī* cases).
 
 ![Rule Groups Breakdown](assets/img/02_rule_groups.png)
 
 ---
 
 ### 3. Language & Seed Robustness
-Testing the mixture-of-experts pair under prompt language variation (Arabic vs. English) and multi-seed sampling[cite: 13, 14].
+Testing the mixture-of-experts pair under prompt language variation (Arabic vs. English) and multi-seed sampling.
 
 ![Language and Seed Consistency](assets/img/03_language_seed.png)
 
 ---
 
 ### 4. Scaled Citation Traps (Non-Existent Source Numbers)
-Manual audit of 100 responses across 50 out-of-bounds citations (Hadith and Quranic verse/sura numbers), detailing clean refusals vs. hallucinated replacements[cite: 15, 16].
+Manual audit of 100 responses across 50 out-of-bounds citations (Hadith and Quranic verse/sura numbers), detailing clean refusals vs. hallucinated replacements.
 
 ![Citation Traps Manual Audit](assets/img/04_citation_traps.png)
 
 ---
 
 ### 5. Tokenizer Economics & Inference Footprint
-Tokens per word across scriptural datasets, illustrating context window compression and inference cost disparities[cite: 18, 19, 20].
+Tokens per word across scriptural datasets, illustrating context window compression and inference cost disparities.
 
 ![Tokenizer Fertility Comparison](assets/img/05_tokenizer_fertility.png)
 
 ---
 
 ### 6. Statistical Significance & Multiple-Test Correction
-Exact McNemar tests across paired conditions against the Bonferroni significance threshold ($\alpha = 0.0042$)[cite: 19, 20].
+Exact McNemar tests across paired conditions against the Bonferroni significance threshold ($\alpha = 0.0042$).
 
 ![Statistical Tests & Bonferroni Threshold](assets/img/06_paired_tests_bonferroni.png)
 
