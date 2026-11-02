@@ -97,6 +97,11 @@ Extension 5 is new in v1.2 and lives in [`fiqh_v12/`](fiqh_v12/README.md). Ten d
 
 Sample evaluation, not a benchmark. The answer key was built by the author with Claude and not scored blind; no scholar and no native speaker reviewed it. Anyone who wants to check or add questions is welcome (see `fiqh_v12/README.md`). Recompute all tables without a GPU: `bash fiqh_v12/reproduce_scoring.sh`.
 
+## Respect note
+
+The 30 Quran number traps ask only for verse or sura numbers that do not exist; no Quran text was altered. Quran text in the tasks is taken unchanged from the Tanzil file. One variant of the verse-completion task strips vowel marks from the prompt only; the gold text is unchanged.
+
+The first test set (v1.0) also contains prompts with invented text, used only to check whether a model refuses to confirm fabricated text: 2 short verse-like phrases (1 test, 1 calibration) and 5 invented hadith attributions (2 test, 3 calibration). Inside the test they are shown to the model as if genuine; that is the trap. They are not published as genuine text anywhere, they are labelled as trap items, and no model answer to them is published.
 ## Known limits
 
 - Small samples (n = 20 to 75 tasks); Wilson intervals are wide.
