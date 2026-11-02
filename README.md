@@ -91,6 +91,12 @@ The run scripts expect a pod layout (`/workspace`); adjust paths for your machin
 
 Reference setup of the reported runs: one NVIDIA H200, vLLM 0.32.0, transformers 5.19.0, bf16, 25 October 2026.
 
+## Round 2 (v1.2): fiqh disagreement and context test
+
+Extension 5 is new in v1.2 and lives in [`fiqh_v12/`](fiqh_v12/README.md). Ten disputed fiqh questions were asked for the four Sunni schools, Ibn Bāz and Ibn ʿUthaymīn to Jais-3-MoVA-36B-A4B and Qwen3-30B-A3B (3 runs, T 0.7). Without source text Jais-3-MoVA is right in 118 of 144 graded cells (82%) and Qwen3 in 65 of 121 (54%). With the matching passage in the prompt both reach 94 to 96%; that is reading a passage the answer key comes from, not evidence that retrieval closes the gap. Given passages for other questions, Qwen3 answers 45 of 162 slots, Jais-3-MoVA 13 of 162.
+
+Sample evaluation, not a benchmark. The answer key was built by the author with Claude and not scored blind; no scholar and no native speaker reviewed it. Anyone who wants to check or add questions is welcome (see `fiqh_v12/README.md`). Recompute all tables without a GPU: `bash fiqh_v12/reproduce_scoring.sh`.
+
 ## Known limits
 
 - Small samples (n = 20 to 75 tasks); Wilson intervals are wide.

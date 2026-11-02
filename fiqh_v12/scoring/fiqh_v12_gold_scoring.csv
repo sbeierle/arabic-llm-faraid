@@ -1,0 +1,1297 @@
+﻿Modell;Bedingung;ID;Stimme;Lauf;Urteil;Ruling
+jais;ORACLE;FIQH_001;hanafi;1;N;None
+jais;ORACLE;FIQH_001;maliki;1;N;None
+jais;ORACLE;FIQH_001;shafii;1;R;ينقض وضوء اللامس عند التقاء بشرتي رجل وامرأة أجنبية تشتهى
+jais;ORACLE;FIQH_001;hanbali;1;N;None
+jais;ORACLE;FIQH_001;ibn_baz;1;R;لا ينقض الوضوء مطلقًا في أصح أقوال أهل العلم
+jais;ORACLE;FIQH_001;ibn_uthaymin;1;N;None
+jais;RET_TOP3;FIQH_001;hanafi;1;R;لا ينقض الوضوء مطلقًا
+jais;RET_TOP3;FIQH_001;maliki;1;N;None
+jais;RET_TOP3;FIQH_001;shafii;1;R;ينقض الوضوء إذا التقت بشرة رجل وامرأة أجنبية تشتهى
+jais;RET_TOP3;FIQH_001;hanbali;1;R;ينقض الوضوء مع الشهوة
+jais;RET_TOP3;FIQH_001;ibn_baz;1;R;لا ينقض الوضوء مطلقًا
+jais;RET_TOP3;FIQH_001;ibn_uthaymin;1;N;None
+jais;WRONG;FIQH_001;hanafi;1;N;None
+jais;WRONG;FIQH_001;maliki;1;N;None
+jais;WRONG;FIQH_001;shafii;1;N;None
+jais;WRONG;FIQH_001;hanbali;1;N;None
+jais;WRONG;FIQH_001;ibn_baz;1;N;None
+jais;WRONG;FIQH_001;ibn_uthaymin;1;N;None
+jais;NO_CTX;FIQH_001;hanafi;1;R;لا ينقض
+jais;NO_CTX;FIQH_001;maliki;1;R;ينقض إذا كان بشهوة
+jais;NO_CTX;FIQH_001;shafii;1;R;ينقض
+jais;NO_CTX;FIQH_001;hanbali;1;R;ينقض
+jais;NO_CTX;FIQH_001;ibn_baz;1;F;ينقض
+jais;NO_CTX;FIQH_001;ibn_uthaymin;1;F;ينقض
+jais;NO_CTX;FIQH_002;hanafi;1;?;سنة
+jais;NO_CTX;FIQH_002;maliki;1;?;سنة
+jais;NO_CTX;FIQH_002;shafii;1;R;فرض
+jais;NO_CTX;FIQH_002;hanbali;1;R;فرض
+jais;NO_CTX;FIQH_002;ibn_baz;1;R;فرض
+jais;NO_CTX;FIQH_003;maliki;1;R;يجوز أكل الجمبري وجميع كائنات البحر
+jais;NO_CTX;FIQH_003;shafii;1;R;الجمبري حلال لأنه من السمك، أما الكائنات البحرية غير السمك ففيها خلاف
+jais;NO_CTX;FIQH_003;ibn_baz;1;R;يجوز أكل الجمبري وكل ما في البحر
+jais;NO_CTX;FIQH_003;ibn_uthaymin;1;R;يجوز أكل الجمبري وجميع الكائنات البحرية
+jais;ORACLE;FIQH_002;hanafi;1;?;سنة
+jais;ORACLE;FIQH_002;maliki;1;?;سنة
+jais;ORACLE;FIQH_002;shafii;1;R;فرض
+jais;ORACLE;FIQH_002;hanbali;1;R;فرض
+jais;ORACLE;FIQH_002;ibn_baz;1;N;None
+jais;RET_TOP3;FIQH_002;hanafi;1;R;سنة (ليس فرضا)
+jais;RET_TOP3;FIQH_002;maliki;1;R;سنة (ليس فرضا)
+jais;RET_TOP3;FIQH_002;shafii;1;R;فرض
+jais;RET_TOP3;FIQH_002;hanbali;1;R;فرض
+jais;RET_TOP3;FIQH_002;ibn_baz;1;N;None
+jais;ORACLE;FIQH_003;maliki;1;R;مباح
+jais;ORACLE;FIQH_003;shafii;1;R;مباح
+jais;ORACLE;FIQH_003;ibn_baz;1;R;حلال
+jais;ORACLE;FIQH_003;ibn_uthaymin;1;N;None
+jais;RET_TOP3;FIQH_003;maliki;1;R;مباح
+jais;RET_TOP3;FIQH_003;shafii;1;N;None
+jais;RET_TOP3;FIQH_003;ibn_baz;1;N;None
+jais;RET_TOP3;FIQH_003;ibn_uthaymin;1;N;None
+jais;WRONG;FIQH_003;maliki;1;N;None
+jais;WRONG;FIQH_003;shafii;1;N;None
+jais;WRONG;FIQH_003;ibn_baz;1;N;None
+jais;WRONG;FIQH_003;ibn_uthaymin;1;N;None
+jais;WRONG;FIQH_002;hanafi;1;N;None
+jais;WRONG;FIQH_002;maliki;1;N;None
+jais;WRONG;FIQH_002;shafii;1;N;None
+jais;WRONG;FIQH_002;hanbali;1;N;None
+jais;WRONG;FIQH_002;ibn_baz;1;N;None
+jais;NO_CTX;FIQH_004;hanafi;1;P;يجوز
+jais;NO_CTX;FIQH_004;maliki;1;R;حرام
+jais;NO_CTX;FIQH_004;shafii;1;R;يجوز
+jais;NO_CTX;FIQH_004;hanbali;1;R;يجوز
+jais;NO_CTX;FIQH_004;ibn_baz;1;R;يجوز
+jais;WRONG;FIQH_004;hanafi;1;N;None
+jais;WRONG;FIQH_004;maliki;1;N;None
+jais;WRONG;FIQH_004;shafii;1;N;None
+jais;WRONG;FIQH_004;hanbali;1;N;None
+jais;WRONG;FIQH_004;ibn_baz;1;N;None
+jais;ORACLE;FIQH_004;hanafi;1;N;None
+jais;ORACLE;FIQH_004;maliki;1;R;حرام
+jais;ORACLE;FIQH_004;shafii;1;N;None
+jais;ORACLE;FIQH_004;hanbali;1;N;None
+jais;ORACLE;FIQH_004;ibn_baz;1;R;مباح
+jais;NO_CTX;FIQH_005;hanafi;1;R;تُقرأ سراً (لا يجهر بها)
+jais;NO_CTX;FIQH_005;maliki;1;R;لا تُقرأ في الصلاة المفروضة
+jais;NO_CTX;FIQH_005;shafii;1;R;تُقرأ جهراً
+jais;NO_CTX;FIQH_005;hanbali;1;R;تُقرأ سراً
+jais;NO_CTX;FIQH_005;ibn_baz;1;R;تُقرأ سراً
+jais;NO_CTX;FIQH_005;ibn_uthaymin;1;R;تُقرأ سراً
+jais;RET_TOP3;FIQH_004;hanafi;1;P;مباح
+jais;RET_TOP3;FIQH_004;maliki;1;R;حرام
+jais;RET_TOP3;FIQH_004;shafii;1;R;مباح
+jais;RET_TOP3;FIQH_004;hanbali;1;R;مباح
+jais;RET_TOP3;FIQH_004;ibn_baz;1;R;مباح
+jais;ORACLE;FIQH_005;hanafi;1;N;None
+jais;ORACLE;FIQH_005;maliki;1;N;None
+jais;ORACLE;FIQH_005;shafii;1;N;None
+jais;ORACLE;FIQH_005;hanbali;1;N;None
+jais;ORACLE;FIQH_005;ibn_baz;1;R;لا مانع من الجهر بالبسملة، ولكن السر بها أفضل
+jais;ORACLE;FIQH_005;ibn_uthaymin;1;R;الراجح أن الجهر بالبسملة لا ينبغي وأن السنة الإسرار بها، ولكن لا حرج في الجهر به
+jais;NO_CTX;FIQH_006;hanafi;1;R;يجوز للمرأة البالغة العاقلة أن تزوج نفسها بلا ولي، مع استحباب وجود الولي.
+jais;NO_CTX;FIQH_006;maliki;1;R;لا يجوز، فالنكاح بدون ولي باطل.
+jais;NO_CTX;FIQH_006;shafii;1;R;لا يجوز، فالولي شرط لصحة النكاح.
+jais;NO_CTX;FIQH_006;hanbali;1;R;لا يجوز، فالولي ركن من أركان النكاح أو شرط لصحته.
+jais;NO_CTX;FIQH_006;ibn_baz;1;R;لا يجوز، ولا يصح نكاح المرأة بلا ولي.
+jais;NO_CTX;FIQH_006;ibn_uthaymin;1;R;لا يجوز، ويشترط وجود الولي لصحة النكاح.
+jais;RET_TOP3;FIQH_005;hanafi;1;N;None
+jais;RET_TOP3;FIQH_005;maliki;1;N;None
+jais;RET_TOP3;FIQH_005;shafii;1;R;يستحب الجهر بها مطلقا
+jais;RET_TOP3;FIQH_005;hanbali;1;F;عدم الجهر بها بكل حال
+jais;RET_TOP3;FIQH_005;ibn_baz;1;N;None
+jais;RET_TOP3;FIQH_005;ibn_uthaymin;1;N;None
+jais;WRONG;FIQH_006;hanafi;1;N;None
+jais;WRONG;FIQH_006;maliki;1;N;None
+jais;WRONG;FIQH_006;shafii;1;N;None
+jais;WRONG;FIQH_006;hanbali;1;N;None
+jais;WRONG;FIQH_006;ibn_baz;1;N;None
+jais;WRONG;FIQH_006;ibn_uthaymin;1;N;None
+jais;NO_CTX;FIQH_007;hanafi;1;F;يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;maliki;1;R;لا يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;shafii;1;R;يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;hanbali;1;R;يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;ibn_baz;1;R;يثبت خيار المجلس
+jais;WRONG;FIQH_005;hanafi;1;N;None
+jais;WRONG;FIQH_005;maliki;1;N;None
+jais;WRONG;FIQH_005;shafii;1;N;None
+jais;WRONG;FIQH_005;hanbali;1;N;None
+jais;WRONG;FIQH_005;ibn_baz;1;R;يجب على المأموم قراءة الفاتحة خلف الإمام، ثم ينصت ولا يزيد عليها إلا في السرية
+jais;WRONG;FIQH_005;ibn_uthaymin;1;?;تُقرأ الفاتحة عند سكتات الإمام
+jais;ORACLE;FIQH_006;hanafi;1;INVALID;
+jais;ORACLE;FIQH_006;maliki;1;INVALID;
+jais;ORACLE;FIQH_006;shafii;1;INVALID;
+jais;ORACLE;FIQH_006;hanbali;1;INVALID;
+jais;ORACLE;FIQH_006;ibn_baz;1;INVALID;
+jais;ORACLE;FIQH_006;ibn_uthaymin;1;INVALID;
+jais;RET_TOP3;FIQH_007;hanafi;1;N;None
+jais;RET_TOP3;FIQH_007;maliki;1;N;None
+jais;RET_TOP3;FIQH_007;shafii;1;N;None
+jais;RET_TOP3;FIQH_007;hanbali;1;N;None
+jais;RET_TOP3;FIQH_007;ibn_baz;1;N;None
+jais;RET_TOP3;FIQH_006;hanafi;1;INVALID;
+jais;RET_TOP3;FIQH_006;maliki;1;INVALID;
+jais;RET_TOP3;FIQH_006;shafii;1;INVALID;
+jais;RET_TOP3;FIQH_006;hanbali;1;INVALID;
+jais;RET_TOP3;FIQH_006;ibn_baz;1;INVALID;
+jais;RET_TOP3;FIQH_006;ibn_uthaymin;1;INVALID;
+jais;WRONG;FIQH_007;hanafi;1;N;None
+jais;WRONG;FIQH_007;maliki;1;N;None
+jais;WRONG;FIQH_007;shafii;1;N;None
+jais;WRONG;FIQH_007;hanbali;1;N;None
+jais;WRONG;FIQH_007;ibn_baz;1;N;None
+jais;ORACLE;FIQH_007;hanafi;1;N;None
+jais;ORACLE;FIQH_007;maliki;1;N;None
+jais;ORACLE;FIQH_007;shafii;1;N;None
+jais;ORACLE;FIQH_007;hanbali;1;N;None
+jais;ORACLE;FIQH_007;ibn_baz;1;R;يثبت خيار المجلس للمشتري والبائع حتى يتفرقا، ما لم يشترطا ترك الخيار
+jais;NO_CTX;FIQH_008;hanafi;1;R;واجب (فرض)
+jais;NO_CTX;FIQH_008;maliki;1;R;سنة (مستحب)
+jais;NO_CTX;FIQH_008;shafii;1;R;سنة (مستحب)
+jais;NO_CTX;FIQH_008;hanbali;1;F;واجب
+jais;NO_CTX;FIQH_008;ibn_uthaymin;1;F;واجب
+jais;WRONG;FIQH_008;hanafi;1;N;None
+jais;WRONG;FIQH_008;maliki;1;N;None
+jais;WRONG;FIQH_008;shafii;1;N;None
+jais;WRONG;FIQH_008;hanbali;1;N;None
+jais;WRONG;FIQH_008;ibn_uthaymin;1;N;None
+jais;NO_CTX;FIQH_009;hanafi;1;R;نجس لعابه وطاهر شعره وبدنه
+jais;NO_CTX;FIQH_009;maliki;1;R;طاهر
+jais;NO_CTX;FIQH_009;shafii;1;R;نجس
+jais;NO_CTX;FIQH_009;hanbali;1;R;نجس
+jais;NO_CTX;FIQH_009;ibn_baz;1;R;نجس
+jais;NO_CTX;FIQH_009;ibn_uthaymin;1;R;نجس
+jais;RET_TOP3;FIQH_009;hanafi;1;N;None
+jais;RET_TOP3;FIQH_009;maliki;1;F;الكلب نجس في نفسه، وأمر الغسل بسبب الطب لا النجاسة الحقيقية
+jais;RET_TOP3;FIQH_009;shafii;1;N;None
+jais;RET_TOP3;FIQH_009;hanbali;1;N;None
+jais;RET_TOP3;FIQH_009;ibn_baz;1;R;الكلب نجس، ولعابه وعرقه وبوله وغائطه نجس، وجلده ينجس إذا كانت فيه رطوبة
+jais;RET_TOP3;FIQH_009;ibn_uthaymin;1;N;None
+jais;RET_TOP3;FIQH_008;hanafi;1;R;واجب
+jais;RET_TOP3;FIQH_008;maliki;1;F;سنة (غير واجب) ويجوز الإتمام
+jais;RET_TOP3;FIQH_008;shafii;1;F;سنة (غير واجب) ويجوز الإتمام
+jais;RET_TOP3;FIQH_008;hanbali;1;F;سنة (غير واجب) ويجوز الإتمام
+jais;RET_TOP3;FIQH_008;ibn_uthaymin;1;N;None
+jais;ORACLE;FIQH_008;hanafi;1;N;None
+jais;ORACLE;FIQH_008;maliki;1;N;None
+jais;ORACLE;FIQH_008;shafii;1;N;None
+jais;ORACLE;FIQH_008;hanbali;1;N;None
+jais;ORACLE;FIQH_008;ibn_uthaymin;1;N;None
+jais;ORACLE;FIQH_009;hanafi;1;R;طاهر
+jais;ORACLE;FIQH_009;maliki;1;R;طاهر
+jais;ORACLE;FIQH_009;shafii;1;R;نجس
+jais;ORACLE;FIQH_009;hanbali;1;R;نجس
+jais;ORACLE;FIQH_009;ibn_baz;1;R;نجس
+jais;ORACLE;FIQH_009;ibn_uthaymin;1;N;None
+jais;WRONG;FIQH_009;hanafi;1;N;None
+jais;WRONG;FIQH_009;maliki;1;N;None
+jais;WRONG;FIQH_009;shafii;1;N;None
+jais;WRONG;FIQH_009;hanbali;1;N;None
+jais;WRONG;FIQH_009;ibn_baz;1;?;جميع حيوانات البحر حلال مطلقًا، مع استحباب ترك ما يشبه المحرمات في البر (كالكلب 
+jais;WRONG;FIQH_009;ibn_uthaymin;1;N;None
+jais;NO_CTX;FIQH_010;hanafi;1;R;لا تجب قراءة الفاتحة على المأموم في أي صلاة، سواء كانت سرية أو جهرية، لأن قراءة 
+jais;NO_CTX;FIQH_010;maliki;1;N;None
+jais;NO_CTX;FIQH_010;shafii;1;R;تجب قراءة الفاتحة على المأموم في كل صلاة، سرية كانت أو جهرية، وهو ركن من أركان ا
+jais;NO_CTX;FIQH_010;hanbali;1;?;تجب قراءة الفاتحة في الصلاة السرية، أما في الصلاة الجهرية فلا تجب بل يجب الإنصات
+jais;NO_CTX;FIQH_010;ibn_baz;1;F;لا تجب قراءة الفاتحة على المأموم خلف الإمام، وقراءة الإمام له قراءة.
+jais;NO_CTX;FIQH_010;ibn_uthaymin;1;F;لا تجب قراءة الفاتحة على المأموم في الصلاة الجهرية، بل يُسقط عنه وجوب القراءة لس
+jais;RET_TOP3;FIQH_010;hanafi;1;N;None
+jais;RET_TOP3;FIQH_010;maliki;1;R;لا تجب القراءة على المأموم
+jais;RET_TOP3;FIQH_010;shafii;1;N;None
+jais;RET_TOP3;FIQH_010;hanbali;1;R;لا تجب القراءة على المأموم
+jais;RET_TOP3;FIQH_010;ibn_baz;1;R;تجب قراءة الفاتحة خلف الإمام
+jais;RET_TOP3;FIQH_010;ibn_uthaymin;1;N;None
+jais;WRONG;FIQH_010;hanafi;1;N;None
+jais;WRONG;FIQH_010;maliki;1;N;None
+jais;WRONG;FIQH_010;shafii;1;N;None
+jais;WRONG;FIQH_010;hanbali;1;N;None
+jais;WRONG;FIQH_010;ibn_baz;1;N;None
+jais;WRONG;FIQH_010;ibn_uthaymin;1;N;None
+jais;ORACLE;FIQH_010;hanafi;1;N;None
+jais;ORACLE;FIQH_010;maliki;1;R;لا تجب القراءة على المأموم خلف الإمام
+jais;ORACLE;FIQH_010;shafii;1;N;None
+jais;ORACLE;FIQH_010;hanbali;1;R;لا تجب القراءة على المأموم خلف الإمام
+jais;ORACLE;FIQH_010;ibn_baz;1;F;تجب قراءة الفاتحة على المأموم، ولا يجب على الإمام السكوت؛ يقرأها في سكتات الإمام
+jais;ORACLE;FIQH_010;ibn_uthaymin;1;N;None
+jais;ORACLE;FIQH_001;hanafi;2;N;None
+jais;ORACLE;FIQH_001;maliki;2;N;None
+jais;ORACLE;FIQH_001;shafii;2;F;ينتقض وضوء اللامس عند التقاء بشرة رجل بامرأة أجنبية تشتهى، سواء كان اللمس بشهوة 
+jais;ORACLE;FIQH_001;hanbali;2;N;None
+jais;ORACLE;FIQH_001;ibn_baz;2;R;لا ينقض الوضوء مطلقًا في أصح أقوال أهل العلم.
+jais;ORACLE;FIQH_001;ibn_uthaymin;2;N;None
+jais;NO_CTX;FIQH_001;hanafi;2;R;لا ينقض
+jais;NO_CTX;FIQH_001;maliki;2;R;ينقض إذا كان بشهوة
+jais;NO_CTX;FIQH_001;shafii;2;R;ينقض
+jais;NO_CTX;FIQH_001;hanbali;2;R;ينقض إذا كان بشهوة
+jais;NO_CTX;FIQH_001;ibn_baz;2;F;ينقض
+jais;NO_CTX;FIQH_001;ibn_uthaymin;2;R;لا ينقض
+jais;RET_TOP3;FIQH_001;hanafi;2;R;لا ينقض الوضوء مطلقًا
+jais;RET_TOP3;FIQH_001;maliki;2;N;None
+jais;RET_TOP3;FIQH_001;shafii;2;R;ينقض الوضوء إذا التقت بشرة رجل وامرأة أجنبية تشتهى، أي بلا حائل
+jais;RET_TOP3;FIQH_001;hanbali;2;R;ينقض الوضوء إذا كان اللمس بتلذذ وشهوة
+jais;RET_TOP3;FIQH_001;ibn_baz;2;R;لا ينقض الوضوء مطلقًا
+jais;RET_TOP3;FIQH_001;ibn_uthaymin;2;N;None
+jais;WRONG;FIQH_001;hanafi;2;N;None
+jais;WRONG;FIQH_001;maliki;2;N;None
+jais;WRONG;FIQH_001;shafii;2;N;None
+jais;WRONG;FIQH_001;hanbali;2;N;None
+jais;WRONG;FIQH_001;ibn_baz;2;N;None
+jais;WRONG;FIQH_001;ibn_uthaymin;2;N;None
+jais;NO_CTX;FIQH_002;hanafi;2;?;سنة
+jais;NO_CTX;FIQH_002;maliki;2;F;فرض
+jais;NO_CTX;FIQH_002;shafii;2;R;فرض
+jais;NO_CTX;FIQH_002;hanbali;2;R;فرض
+jais;NO_CTX;FIQH_002;ibn_baz;2;R;فرض
+jais;RET_TOP3;FIQH_002;hanafi;2;?;سنة
+jais;RET_TOP3;FIQH_002;maliki;2;?;سنة
+jais;RET_TOP3;FIQH_002;shafii;2;R;فرض
+jais;RET_TOP3;FIQH_002;hanbali;2;R;فرض
+jais;RET_TOP3;FIQH_002;ibn_baz;2;N;None
+jais;NO_CTX;FIQH_003;maliki;2;R;يجوز أكل جميع كائنات البحر، بما في ذلك الجمبري والأخطبوط والسرطان وغيرها، فكل ما
+jais;NO_CTX;FIQH_003;shafii;2;R;يجوز أكل جميع كائنات البحر، والجمبري وغيره من غير السمك حلال.
+jais;NO_CTX;FIQH_003;ibn_baz;2;R;يجوز أكل الجمبري وكل ما في البحر من حيوانات بحرية، ولا فرق بين السمك وغيره.
+jais;NO_CTX;FIQH_003;ibn_uthaymin;2;R;يجوز أكل جميع كائنات البحر بما فيها الجمبري والسرطان والأخطبوط، ولا دليل على تحر
+jais;ORACLE;FIQH_002;hanafi;2;R;سنة (ليس فرضاً)
+jais;ORACLE;FIQH_002;maliki;2;R;سنة (ليس فرضاً)
+jais;ORACLE;FIQH_002;shafii;2;R;فرض
+jais;ORACLE;FIQH_002;hanbali;2;R;فرض
+jais;ORACLE;FIQH_002;ibn_baz;2;N;None
+jais;WRONG;FIQH_003;maliki;2;N;None
+jais;WRONG;FIQH_003;shafii;2;N;None
+jais;WRONG;FIQH_003;ibn_baz;2;N;None
+jais;WRONG;FIQH_003;ibn_uthaymin;2;N;None
+jais;WRONG;FIQH_002;hanafi;2;?;لا ينقض الوضوء
+jais;WRONG;FIQH_002;maliki;2;N;None
+jais;WRONG;FIQH_002;shafii;2;?;ينقض الوضوء بمجرد التلامس
+jais;WRONG;FIQH_002;hanbali;2;?;ينقض مع الشهوة والتلذذ
+jais;WRONG;FIQH_002;ibn_baz;2;?;عرض الخلاف بين العلماء دون ترجيح صريح في النص
+jais;NO_CTX;FIQH_004;hanafi;2;P;يجوز
+jais;NO_CTX;FIQH_004;maliki;2;R;لا يجوز
+jais;NO_CTX;FIQH_004;shafii;2;R;يجوز
+jais;NO_CTX;FIQH_004;hanbali;2;F;لا يجوز (في المشهور)
+jais;NO_CTX;FIQH_004;ibn_baz;2;R;يجوز
+jais;RET_TOP3;FIQH_003;maliki;2;R;مباح
+jais;RET_TOP3;FIQH_003;shafii;2;N;None
+jais;RET_TOP3;FIQH_003;ibn_baz;2;N;None
+jais;RET_TOP3;FIQH_003;ibn_uthaymin;2;N;None
+jais;WRONG;FIQH_004;hanafi;2;N;None
+jais;WRONG;FIQH_004;maliki;2;N;None
+jais;WRONG;FIQH_004;shafii;2;N;None
+jais;WRONG;FIQH_004;hanbali;2;N;None
+jais;WRONG;FIQH_004;ibn_baz;2;N;None
+jais;ORACLE;FIQH_003;maliki;2;R;مباح
+jais;ORACLE;FIQH_003;shafii;2;N;None
+jais;ORACLE;FIQH_003;ibn_baz;2;R;حلال على العموم
+jais;ORACLE;FIQH_003;ibn_uthaymin;2;N;None
+jais;NO_CTX;FIQH_005;hanafi;2;R;تُقرأ سراً في جميع الصلوات
+jais;NO_CTX;FIQH_005;maliki;2;R;لا تُقرأ في الصلاة المفروضة
+jais;NO_CTX;FIQH_005;shafii;2;R;تُقرأ جهراً في الصلاة الجهرية (الفجر، المغرب، العشاء) وسراً في الصلاة السرية (ال
+jais;NO_CTX;FIQH_005;hanbali;2;R;لا تُقرأ في المعتمد، وقيل تُقرأ سراً
+jais;NO_CTX;FIQH_005;ibn_baz;2;F;لا تُقرأ في الصلاة المفروضة
+jais;NO_CTX;FIQH_005;ibn_uthaymin;2;R;تُقرأ سراً في جميع الصلوات
+jais;RET_TOP3;FIQH_004;hanafi;2;N;None
+jais;RET_TOP3;FIQH_004;maliki;2;R;محرم
+jais;RET_TOP3;FIQH_004;shafii;2;N;None
+jais;RET_TOP3;FIQH_004;hanbali;2;N;None
+jais;RET_TOP3;FIQH_004;ibn_baz;2;R;مباح
+jais;ORACLE;FIQH_004;hanafi;2;P;مباح
+jais;ORACLE;FIQH_004;maliki;2;R;حرام
+jais;ORACLE;FIQH_004;shafii;2;R;مباح
+jais;ORACLE;FIQH_004;hanbali;2;R;مباح
+jais;ORACLE;FIQH_004;ibn_baz;2;R;مباح
+jais;RET_TOP3;FIQH_005;hanafi;2;N;None
+jais;RET_TOP3;FIQH_005;maliki;2;N;None
+jais;RET_TOP3;FIQH_005;shafii;2;R;يستحب الجهر بالبسملة مطلقاً
+jais;RET_TOP3;FIQH_005;hanbali;2;F;المذهب عدم الجهر بالبسملة بكل حال، سواء قِيل إنها من الفاتحة أو لا
+jais;RET_TOP3;FIQH_005;ibn_baz;2;N;None
+jais;RET_TOP3;FIQH_005;ibn_uthaymin;2;N;None
+jais;NO_CTX;FIQH_006;hanafi;2;R;يجوز للمرأة البالغة العاقلة أن تزوج نفسها بدون ولي
+jais;NO_CTX;FIQH_006;maliki;2;R;لا يصح النكاح إلا بولي، ونكاح المرأة بدون ولي باطل
+jais;NO_CTX;FIQH_006;shafii;2;R;لا يصح النكاح إلا بولي
+jais;NO_CTX;FIQH_006;hanbali;2;R;لا يصح النكاح إلا بولي
+jais;NO_CTX;FIQH_006;ibn_baz;2;R;لا يصح النكاح بدون ولي
+jais;NO_CTX;FIQH_006;ibn_uthaymin;2;R;لا يصح النكاح بدون ولي
+jais;ORACLE;FIQH_005;hanafi;2;N;None
+jais;ORACLE;FIQH_005;maliki;2;N;None
+jais;ORACLE;FIQH_005;shafii;2;N;None
+jais;ORACLE;FIQH_005;hanbali;2;N;None
+jais;ORACLE;FIQH_005;ibn_baz;2;R;لا مانع من الجهر بالبسملة، ولكن الإسرار بها أفضل، ويجوز الجهر أحياناً.
+jais;ORACLE;FIQH_005;ibn_uthaymin;2;R;الجهر بالبسملة لا ينبغي، والسنة الإسرار بها، ولو جهر بها فلا حرج.
+jais;WRONG;FIQH_006;hanafi;2;N;None
+jais;WRONG;FIQH_006;maliki;2;N;None
+jais;WRONG;FIQH_006;shafii;2;N;None
+jais;WRONG;FIQH_006;hanbali;2;N;None
+jais;WRONG;FIQH_006;ibn_baz;2;N;None
+jais;WRONG;FIQH_006;ibn_uthaymin;2;N;None
+jais;NO_CTX;FIQH_007;hanafi;2;F;يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;maliki;2;R;لا يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;shafii;2;R;يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;hanbali;2;R;يثبت خيار المجلس
+jais;NO_CTX;FIQH_007;ibn_baz;2;R;يثبت
+jais;WRONG;FIQH_005;hanafi;2;N;None
+jais;WRONG;FIQH_005;maliki;2;N;None
+jais;WRONG;FIQH_005;shafii;2;N;None
+jais;WRONG;FIQH_005;hanbali;2;N;None
+jais;WRONG;FIQH_005;ibn_baz;2;?;يجب على المأموم قراءة الفاتحة خلف الإمام
+jais;WRONG;FIQH_005;ibn_uthaymin;2;?;تُقرأ الفاتحة عند سكتات الإمام
+jais;RET_TOP3;FIQH_006;hanafi;2;N;None
+jais;RET_TOP3;FIQH_006;maliki;2;R;لا يصح
+jais;RET_TOP3;FIQH_006;shafii;2;R;لا يصح
+jais;RET_TOP3;FIQH_006;hanbali;2;R;لا يصح
+jais;RET_TOP3;FIQH_006;ibn_baz;2;R;لا يصح؛ إذ لا بد من ولي وشاهدين
+jais;RET_TOP3;FIQH_006;ibn_uthaymin;2;R;الصحيح أنه لا يصح لخلوه عن الولي، مع وجود قول لبعض العلماء بصحته
+jais;ORACLE;FIQH_006;hanafi;2;INVALID;
+jais;ORACLE;FIQH_006;maliki;2;INVALID;
+jais;ORACLE;FIQH_006;shafii;2;INVALID;
+jais;ORACLE;FIQH_006;hanbali;2;INVALID;
+jais;ORACLE;FIQH_006;ibn_baz;2;INVALID;
+jais;ORACLE;FIQH_006;ibn_uthaymin;2;INVALID;
+jais;WRONG;FIQH_007;hanafi;2;N;None
+jais;WRONG;FIQH_007;maliki;2;N;None
+jais;WRONG;FIQH_007;shafii;2;N;None
+jais;WRONG;FIQH_007;hanbali;2;N;None
+jais;WRONG;FIQH_007;ibn_baz;2;N;None
+jais;ORACLE;FIQH_007;hanafi;2;N;None
+jais;ORACLE;FIQH_007;maliki;2;N;None
+jais;ORACLE;FIQH_007;shafii;2;N;None
+jais;ORACLE;FIQH_007;hanbali;2;N;None
+jais;ORACLE;FIQH_007;ibn_baz;2;R;يثبت خيار المجلس للمشتري والبائع ما لم يتفرقا، إلا إذا اشترط ترك الخيار
+jais;NO_CTX;FIQH_008;hanafi;2;R;واجب
+jais;NO_CTX;FIQH_008;maliki;2;?;رخصة
+jais;NO_CTX;FIQH_008;shafii;2;?;سنة
+jais;NO_CTX;FIQH_008;hanbali;2;F;واجب
+jais;NO_CTX;FIQH_008;ibn_uthaymin;2;?;رخصة
+jais;WRONG;FIQH_008;hanafi;2;N;None
+jais;WRONG;FIQH_008;maliki;2;N;None
+jais;WRONG;FIQH_008;shafii;2;N;None
+jais;WRONG;FIQH_008;hanbali;2;N;None
+jais;WRONG;FIQH_008;ibn_uthaymin;2;N;None
+jais;RET_TOP3;FIQH_008;hanafi;2;R;واجب: قصر الصلاة الرباعية في السفر واجب عند الحنفية ولا يجوز الإتمام
+jais;RET_TOP3;FIQH_008;maliki;2;F;سنة: القصر سنة غير واجبة ويجوز للمسافر الإتمام
+jais;RET_TOP3;FIQH_008;shafii;2;F;سنة: القصر سنة غير واجبة ويجوز الإتمام
+jais;RET_TOP3;FIQH_008;hanbali;2;?;خيار/سنة: المشهور عن أحمد أن المسافر إن شاء قصّر وإن شاء أتم
+jais;RET_TOP3;FIQH_008;ibn_uthaymin;2;N;None
+jais;RET_TOP3;FIQH_007;hanafi;2;INVALID;
+jais;RET_TOP3;FIQH_007;maliki;2;INVALID;
+jais;RET_TOP3;FIQH_007;shafii;2;INVALID;
+jais;RET_TOP3;FIQH_007;hanbali;2;INVALID;
+jais;RET_TOP3;FIQH_007;ibn_baz;2;INVALID;
+jais;NO_CTX;FIQH_009;hanafi;2;F;نجس
+jais;NO_CTX;FIQH_009;maliki;2;R;طاهر
+jais;NO_CTX;FIQH_009;shafii;2;R;نجس
+jais;NO_CTX;FIQH_009;hanbali;2;R;نجس
+jais;NO_CTX;FIQH_009;ibn_baz;2;R;نجس
+jais;NO_CTX;FIQH_009;ibn_uthaymin;2;R;نجس
+jais;RET_TOP3;FIQH_009;hanafi;2;N;None
+jais;RET_TOP3;FIQH_009;maliki;2;F;يرى الإمام مالك أن الأمر بغسل الإناء من ولوغ الكلب هو لأجل الطب لا للنجاسة، مع ا
+jais;RET_TOP3;FIQH_009;shafii;2;N;None
+jais;RET_TOP3;FIQH_009;hanbali;2;N;None
+jais;RET_TOP3;FIQH_009;ibn_baz;2;R;الكلب نجس، ونجاسته تعم كل جسده بما في ذلك لعابه وعرقه وشعره إذا كان رطبًا، أما إ
+jais;RET_TOP3;FIQH_009;ibn_uthaymin;2;N;None
+jais;WRONG;FIQH_009;hanafi;2;N;None
+jais;WRONG;FIQH_009;maliki;2;N;None
+jais;WRONG;FIQH_009;shafii;2;N;None
+jais;WRONG;FIQH_009;hanbali;2;N;None
+jais;WRONG;FIQH_009;ibn_baz;2;?;جميع حيوانات البحر حلال مطلقًا
+jais;WRONG;FIQH_009;ibn_uthaymin;2;N;None
+jais;NO_CTX;FIQH_010;hanafi;2;R;لا تجب
+jais;NO_CTX;FIQH_010;maliki;2;R;لا تجب
+jais;NO_CTX;FIQH_010;shafii;2;R;تجب
+jais;NO_CTX;FIQH_010;hanbali;2;?;تجب في الصلاة السرية ويسمع في الجهرية
+jais;NO_CTX;FIQH_010;ibn_baz;2;F;لا تجب
+jais;NO_CTX;FIQH_010;ibn_uthaymin;2;R;تجب
+jais;ORACLE;FIQH_008;hanafi;2;INVALID;
+jais;ORACLE;FIQH_008;maliki;2;INVALID;
+jais;ORACLE;FIQH_008;shafii;2;INVALID;
+jais;ORACLE;FIQH_008;hanbali;2;INVALID;
+jais;ORACLE;FIQH_008;ibn_uthaymin;2;INVALID;
+jais;WRONG;FIQH_010;hanafi;2;N;None
+jais;WRONG;FIQH_010;maliki;2;N;None
+jais;WRONG;FIQH_010;shafii;2;N;None
+jais;WRONG;FIQH_010;hanbali;2;N;None
+jais;WRONG;FIQH_010;ibn_baz;2;N;None
+jais;WRONG;FIQH_010;ibn_uthaymin;2;N;None
+jais;ORACLE;FIQH_009;hanafi;2;INVALID;
+jais;ORACLE;FIQH_009;maliki;2;INVALID;
+jais;ORACLE;FIQH_009;shafii;2;INVALID;
+jais;ORACLE;FIQH_009;hanbali;2;INVALID;
+jais;ORACLE;FIQH_009;ibn_baz;2;INVALID;
+jais;ORACLE;FIQH_009;ibn_uthaymin;2;INVALID;
+jais;RET_TOP3;FIQH_010;hanafi;2;N;None
+jais;RET_TOP3;FIQH_010;maliki;2;R;لا تجب قراءة المأموم خلف الإمام، سواء كانت الصلاة جهرية أو سرية
+jais;RET_TOP3;FIQH_010;shafii;2;N;None
+jais;RET_TOP3;FIQH_010;hanbali;2;R;لا تجب قراءة المأموم خلف الإمام، مع اشتراط صحة صلاة الإمام عند ابن قنبدس
+jais;RET_TOP3;FIQH_010;ibn_baz;2;R;تجب قراءة الفاتحة على المأموم خلف الإمام
+jais;RET_TOP3;FIQH_010;ibn_uthaymin;2;N;None
+jais;ORACLE;FIQH_010;hanafi;2;N;None
+jais;ORACLE;FIQH_010;maliki;2;R;لا تجب القراءة على المأموم سواء كانت الصلاة جهرية أو سرية.
+jais;ORACLE;FIQH_010;shafii;2;N;None
+jais;ORACLE;FIQH_010;hanbali;2;R;لا تجب القراءة على المأموم في الأصل، لكن إذا كانت صلاة الإمام غير صحيحة وجب على 
+jais;ORACLE;FIQH_010;ibn_baz;2;?;يقرأ المأموم الفاتحة في سكتات الإمام، فإن لم يتيسر قرأها سرًا ولو كان الإمام يقر
+jais;ORACLE;FIQH_010;ibn_uthaymin;2;N;None
+jais;ORACLE;FIQH_001;hanafi;3;N;None
+jais;ORACLE;FIQH_001;maliki;3;N;None
+jais;ORACLE;FIQH_001;shafii;3;R;ينقض الوضوء
+jais;ORACLE;FIQH_001;hanbali;3;N;None
+jais;ORACLE;FIQH_001;ibn_baz;3;R;لا ينقض الوضوء
+jais;ORACLE;FIQH_001;ibn_uthaymin;3;N;None
+jais;WRONG;FIQH_001;hanafi;3;N;None
+jais;WRONG;FIQH_001;maliki;3;N;None
+jais;WRONG;FIQH_001;shafii;3;N;None
+jais;WRONG;FIQH_001;hanbali;3;N;None
+jais;WRONG;FIQH_001;ibn_baz;3;N;None
+jais;WRONG;FIQH_001;ibn_uthaymin;3;N;None
+jais;NO_CTX;FIQH_002;hanafi;3;?;سنة
+jais;NO_CTX;FIQH_002;maliki;3;?;سنة
+jais;NO_CTX;FIQH_002;shafii;3;R;فرض
+jais;NO_CTX;FIQH_002;hanbali;3;R;فرض
+jais;NO_CTX;FIQH_002;ibn_baz;3;R;فرض
+jais;RET_TOP3;FIQH_001;hanafi;3;R;لا ينقض الوضوء
+jais;RET_TOP3;FIQH_001;maliki;3;N;None
+jais;RET_TOP3;FIQH_001;shafii;3;R;ينقض الوضوء
+jais;RET_TOP3;FIQH_001;hanbali;3;R;ينقض مع الشهوة (إذا كان اللمس بتلذذ)
+jais;RET_TOP3;FIQH_001;ibn_baz;3;R;لا ينقض الوضوء مطلقًا
+jais;RET_TOP3;FIQH_001;ibn_uthaymin;3;N;None
+jais;ORACLE;FIQH_002;hanafi;3;R;الترتيب بين أعضاء الوضوء سنة وليس فرضا
+jais;ORACLE;FIQH_002;maliki;3;R;الترتيب بين أعضاء الوضوء سنة وليس فرضا
+jais;ORACLE;FIQH_002;shafii;3;R;الترتيب بين أعضاء الوضوء فرض
+jais;ORACLE;FIQH_002;hanbali;3;R;الترتيب بين أعضاء الوضوء فرض
+jais;ORACLE;FIQH_002;ibn_baz;3;N;None
+jais;NO_CTX;FIQH_001;hanafi;3;F;ينقض الوضوء
+jais;NO_CTX;FIQH_001;maliki;3;F;لا ينقض الوضوء
+jais;NO_CTX;FIQH_001;shafii;3;R;ينقض الوضوء
+jais;NO_CTX;FIQH_001;hanbali;3;F;لا ينقض الوضوء (في المذهب المشهور)
+jais;NO_CTX;FIQH_001;ibn_baz;3;F;ينقض الوضوء
+jais;NO_CTX;FIQH_001;ibn_uthaymin;3;F;ينقض الوضوء
+jais;RET_TOP3;FIQH_002;hanafi;3;R;سنة وليس فرضا
+jais;RET_TOP3;FIQH_002;maliki;3;?;سنة
+jais;RET_TOP3;FIQH_002;shafii;3;R;فرض
+jais;RET_TOP3;FIQH_002;hanbali;3;R;فرض (واجب)
+jais;RET_TOP3;FIQH_002;ibn_baz;3;N;None
+jais;RET_TOP3;FIQH_003;maliki;3;R;مباح
+jais;RET_TOP3;FIQH_003;shafii;3;N;None
+jais;RET_TOP3;FIQH_003;ibn_baz;3;N;None
+jais;RET_TOP3;FIQH_003;ibn_uthaymin;3;N;None
+jais;NO_CTX;FIQH_003;maliki;3;R;يجوز أكل الجمبري وجميع كائنات البحر
+jais;NO_CTX;FIQH_003;shafii;3;R;يجوز (وهو المعتمد)، مع وجود قول بأن السمك فقط هو الحلال
+jais;NO_CTX;FIQH_003;ibn_baz;3;R;يجوز أكل الجمبري وجميع كائنات البحر
+jais;NO_CTX;FIQH_003;ibn_uthaymin;3;R;يجوز أكل الجمبري وجميع كائنات البحر
+jais;ORACLE;FIQH_003;maliki;3;R;مباح
+jais;ORACLE;FIQH_003;shafii;3;N;None
+jais;ORACLE;FIQH_003;ibn_baz;3;R;حلال على العموم
+jais;ORACLE;FIQH_003;ibn_uthaymin;3;N;None
+jais;WRONG;FIQH_003;maliki;3;N;None
+jais;WRONG;FIQH_003;shafii;3;N;None
+jais;WRONG;FIQH_003;ibn_baz;3;N;None
+jais;WRONG;FIQH_003;ibn_uthaymin;3;N;None
+jais;RET_TOP3;FIQH_004;hanafi;3;N;None
+jais;RET_TOP3;FIQH_004;maliki;3;R;محرم
+jais;RET_TOP3;FIQH_004;shafii;3;N;None
+jais;RET_TOP3;FIQH_004;hanbali;3;N;None
+jais;RET_TOP3;FIQH_004;ibn_baz;3;R;مباح
+jais;NO_CTX;FIQH_004;hanafi;3;P;يجوز
+jais;NO_CTX;FIQH_004;maliki;3;R;مكروه
+jais;NO_CTX;FIQH_004;shafii;3;R;يجوز
+jais;NO_CTX;FIQH_004;hanbali;3;R;يجوز
+jais;NO_CTX;FIQH_004;ibn_baz;3;R;يجوز
+jais;WRONG;FIQH_002;hanafi;3;INVALID;
+jais;WRONG;FIQH_002;maliki;3;INVALID;
+jais;WRONG;FIQH_002;shafii;3;INVALID;
+jais;WRONG;FIQH_002;hanbali;3;INVALID;
+jais;WRONG;FIQH_002;ibn_baz;3;INVALID;
+jais;WRONG;FIQH_004;hanafi;3;N;None
+jais;WRONG;FIQH_004;maliki;3;N;None
+jais;WRONG;FIQH_004;shafii;3;N;None
+jais;WRONG;FIQH_004;hanbali;3;N;None
+jais;WRONG;FIQH_004;ibn_baz;3;N;None
+jais;ORACLE;FIQH_004;hanafi;3;N;None
+jais;ORACLE;FIQH_004;maliki;3;R;حرام
+jais;ORACLE;FIQH_004;shafii;3;N;None
+jais;ORACLE;FIQH_004;hanbali;3;N;None
+jais;ORACLE;FIQH_004;ibn_baz;3;R;مباح
+jais;NO_CTX;FIQH_005;hanafi;3;R;تستحب قراءتها سراً قبل الفاتحة، ولا يجهر بها.
+jais;NO_CTX;FIQH_005;maliki;3;R;لا تُقرأ البسملة في الصلاة المفروضة على القول المعتمد، وبالتالي لا يجهر بها.
+jais;NO_CTX;FIQH_005;shafii;3;R;واجبة لأنها آية من الفاتحة، وتُقرأ جهراً في الصلاة الجهرية وسراً في الصلاة السري
+jais;NO_CTX;FIQH_005;hanbali;3;R;مستحبة قراءتها سراً قبل الفاتحة، ولا يجهر بها.
+jais;NO_CTX;FIQH_005;ibn_baz;3;R;لا يجهر بالبسملة في الصلاة المفروضة، بل تُقرأ سراً أو تترك.
+jais;NO_CTX;FIQH_005;ibn_uthaymin;3;R;لا يجهر بها، بل تُقرأ سراً إذا اختار المصلي قراءتها.
+jais;WRONG;FIQH_005;hanafi;3;N;None
+jais;WRONG;FIQH_005;maliki;3;N;None
+jais;WRONG;FIQH_005;shafii;3;N;None
+jais;WRONG;FIQH_005;hanbali;3;N;None
+jais;WRONG;FIQH_005;ibn_baz;3;?;يجب على المأموم قراءة الفاتحة خلف الإمام، وهي واجبة في حقه بخلاف الإمام والمنفرد
+jais;WRONG;FIQH_005;ibn_uthaymin;3;?;تُقرأ الفاتحة عند سكتات الإمام
+jais;RET_TOP3;FIQH_005;hanafi;3;N;None
+jais;RET_TOP3;FIQH_005;maliki;3;N;None
+jais;RET_TOP3;FIQH_005;shafii;3;R;يستحب الجهر بالبسملة مطلقا
+jais;RET_TOP3;FIQH_005;hanbali;3;R;لا يجهر بالبسملة في كل حال، حتى لو قيل إنها من الفاتحة
+jais;RET_TOP3;FIQH_005;ibn_baz;3;N;None
+jais;RET_TOP3;FIQH_005;ibn_uthaymin;3;R;تُقرأ البسملة قبل الفاتحة، والأولى الإسرار بها ولا ينبغي الجهر، لكن لو جهر فلا ح
+jais;ORACLE;FIQH_005;hanafi;3;N;None
+jais;ORACLE;FIQH_005;maliki;3;N;None
+jais;ORACLE;FIQH_005;shafii;3;N;None
+jais;ORACLE;FIQH_005;hanbali;3;N;None
+jais;ORACLE;FIQH_005;ibn_baz;3;R;الجهر بالبسملة جائز، لكن الإسرار بها أفضل، ولا حرج في الجهر أحياناً.
+jais;ORACLE;FIQH_005;ibn_uthaymin;3;R;الجهر بالبسملة لا ينبغي، والسنة الإسرار بها، ومع ذلك لا حرج في الجهر تأليفاً لمذ
+jais;NO_CTX;FIQH_006;hanafi;3;R;صحيح
+jais;NO_CTX;FIQH_006;maliki;3;R;غير صحيح
+jais;NO_CTX;FIQH_006;shafii;3;R;غير صحيح
+jais;NO_CTX;FIQH_006;hanbali;3;R;غير صحيح
+jais;NO_CTX;FIQH_006;ibn_baz;3;R;غير صحيح
+jais;NO_CTX;FIQH_006;ibn_uthaymin;3;R;غير صحيح
+jais;WRONG;FIQH_006;hanafi;3;N;None
+jais;WRONG;FIQH_006;maliki;3;N;None
+jais;WRONG;FIQH_006;shafii;3;N;None
+jais;WRONG;FIQH_006;hanbali;3;N;None
+jais;WRONG;FIQH_006;ibn_baz;3;N;None
+jais;WRONG;FIQH_006;ibn_uthaymin;3;N;None
+jais;NO_CTX;FIQH_007;hanafi;3;F;ثابت
+jais;NO_CTX;FIQH_007;maliki;3;F;ثابت
+jais;NO_CTX;FIQH_007;shafii;3;R;ثابت
+jais;NO_CTX;FIQH_007;hanbali;3;R;ثابت
+jais;NO_CTX;FIQH_007;ibn_baz;3;R;ثابت
+jais;RET_TOP3;FIQH_007;hanafi;3;N;None
+jais;RET_TOP3;FIQH_007;maliki;3;N;None
+jais;RET_TOP3;FIQH_007;shafii;3;N;None
+jais;RET_TOP3;FIQH_007;hanbali;3;N;None
+jais;RET_TOP3;FIQH_007;ibn_baz;3;N;None
+jais;ORACLE;FIQH_007;hanafi;3;N;None
+jais;ORACLE;FIQH_007;maliki;3;N;None
+jais;ORACLE;FIQH_007;shafii;3;N;None
+jais;ORACLE;FIQH_007;hanbali;3;R;نعم، يثبت خيار المجلس للمتبايعين ما لم يتفرقا ما لم يشترطا ترك الخيار
+jais;ORACLE;FIQH_007;ibn_baz;3;R;نعم، يثبت خيار المجلس للمشتري والبائع في المجلس ما لم يتفرقا
+jais;ORACLE;FIQH_006;hanafi;3;INVALID;
+jais;ORACLE;FIQH_006;maliki;3;INVALID;
+jais;ORACLE;FIQH_006;shafii;3;INVALID;
+jais;ORACLE;FIQH_006;hanbali;3;INVALID;
+jais;ORACLE;FIQH_006;ibn_baz;3;INVALID;
+jais;ORACLE;FIQH_006;ibn_uthaymin;3;INVALID;
+jais;RET_TOP3;FIQH_006;hanafi;3;INVALID;
+jais;RET_TOP3;FIQH_006;maliki;3;INVALID;
+jais;RET_TOP3;FIQH_006;shafii;3;INVALID;
+jais;RET_TOP3;FIQH_006;hanbali;3;INVALID;
+jais;RET_TOP3;FIQH_006;ibn_baz;3;INVALID;
+jais;RET_TOP3;FIQH_006;ibn_uthaymin;3;INVALID;
+jais;WRONG;FIQH_007;hanafi;3;N;None
+jais;WRONG;FIQH_007;maliki;3;N;None
+jais;WRONG;FIQH_007;shafii;3;N;None
+jais;WRONG;FIQH_007;hanbali;3;N;None
+jais;WRONG;FIQH_007;ibn_baz;3;N;None
+jais;WRONG;FIQH_008;hanafi;3;N;None
+jais;WRONG;FIQH_008;maliki;3;N;None
+jais;WRONG;FIQH_008;shafii;3;N;None
+jais;WRONG;FIQH_008;hanbali;3;N;None
+jais;WRONG;FIQH_008;ibn_uthaymin;3;N;None
+jais;NO_CTX;FIQH_008;hanafi;3;R;واجب
+jais;NO_CTX;FIQH_008;maliki;3;?;سنة (رخصة)
+jais;NO_CTX;FIQH_008;shafii;3;?;سنة (رخصة)
+jais;NO_CTX;FIQH_008;hanbali;3;?;سنة (رخصة)
+jais;NO_CTX;FIQH_008;ibn_uthaymin;3;?;رخصة وسنة
+jais;NO_CTX;FIQH_009;hanafi;3;F;نجس
+jais;NO_CTX;FIQH_009;maliki;3;R;طاهر
+jais;NO_CTX;FIQH_009;shafii;3;R;نجس
+jais;NO_CTX;FIQH_009;hanbali;3;R;نجس
+jais;NO_CTX;FIQH_009;ibn_baz;3;R;نجس
+jais;NO_CTX;FIQH_009;ibn_uthaymin;3;R;نجس
+jais;RET_TOP3;FIQH_008;hanafi;3;R;واجب
+jais;RET_TOP3;FIQH_008;maliki;3;F;سنة (غير واجب)
+jais;RET_TOP3;FIQH_008;shafii;3;F;سنة (غير واجب)
+jais;RET_TOP3;FIQH_008;hanbali;3;N;None
+jais;RET_TOP3;FIQH_008;ibn_uthaymin;3;N;None
+jais;RET_TOP3;FIQH_009;hanafi;3;N;None
+jais;RET_TOP3;FIQH_009;maliki;3;F;الكلب نجس في نفسه، ولكن أمر الغسل سبع مرات سببه الطب لا النجاسة
+jais;RET_TOP3;FIQH_009;shafii;3;N;None
+jais;RET_TOP3;FIQH_009;hanbali;3;N;None
+jais;RET_TOP3;FIQH_009;ibn_baz;3;R;الكلب نجس، ونجاسته تعم كل جسده بما في ذلك لعابه وعرقُه، أما شعره/جلده فإن كان رط
+jais;RET_TOP3;FIQH_009;ibn_uthaymin;3;N;None
+jais;WRONG;FIQH_009;hanafi;3;N;None
+jais;WRONG;FIQH_009;maliki;3;N;None
+jais;WRONG;FIQH_009;shafii;3;N;None
+jais;WRONG;FIQH_009;hanbali;3;N;None
+jais;WRONG;FIQH_009;ibn_baz;3;?;جميع حيوانات البحر حلال مطلقًا، مع استحباب اجتناب ما يشبه محرمات البر احتياطًا
+jais;WRONG;FIQH_009;ibn_uthaymin;3;N;None
+jais;NO_CTX;FIQH_010;hanafi;3;R;لا تجب قراءة الفاتحة على المأموم، بل قراءة الإمام تكفي عنه
+jais;NO_CTX;FIQH_010;maliki;3;R;لا تجب على المأموم قراءة الفاتحة، بل يكتفي بسماع قراءة الإمام
+jais;NO_CTX;FIQH_010;shafii;3;R;تجب قراءة الفاتحة على المأموم في كل ركعة، سواء كانت الصلاة سرية أو جهرية
+jais;NO_CTX;FIQH_010;hanbali;3;?;تجب في الصلاة السرية، أما في الجهرية فيجب الإنصات لقراءة الإمام ولا يقرأ المأموم
+jais;NO_CTX;FIQH_010;ibn_baz;3;?;لا تجب قراءة الفاتحة على المأموم إذا كان الإمام يجهر بالقراءة، بل يجب عليه الإنص
+jais;NO_CTX;FIQH_010;ibn_uthaymin;3;?;لا تجب على المأموم في الصلاة الجهرية بل ينصت، وتجب في السرية
+jais;ORACLE;FIQH_008;hanafi;3;INVALID;
+jais;ORACLE;FIQH_008;maliki;3;INVALID;
+jais;ORACLE;FIQH_008;shafii;3;INVALID;
+jais;ORACLE;FIQH_008;hanbali;3;INVALID;
+jais;ORACLE;FIQH_008;ibn_uthaymin;3;INVALID;
+jais;WRONG;FIQH_010;hanafi;3;N;None
+jais;WRONG;FIQH_010;maliki;3;N;None
+jais;WRONG;FIQH_010;shafii;3;N;None
+jais;WRONG;FIQH_010;hanbali;3;N;None
+jais;WRONG;FIQH_010;ibn_baz;3;N;None
+jais;WRONG;FIQH_010;ibn_uthaymin;3;N;None
+jais;ORACLE;FIQH_010;hanafi;3;N;None
+jais;ORACLE;FIQH_010;maliki;3;R;لا تجب القراءة على المأموم خلف الإمام سواء كانت الصلاة جهرية أو سرية
+jais;ORACLE;FIQH_010;shafii;3;N;None
+jais;ORACLE;FIQH_010;hanbali;3;R;لا تجب القراءة على المأموم خلف الإمام، مع أن قراءة الإمام تقوم عنه إذا كانت صلاة
+jais;ORACLE;FIQH_010;ibn_baz;3;?;يشرع للمأموم قراءة الفاتحة في سكتات الإمام، فإن لم يتيسر قرأها سراً ولو كان الإم
+jais;ORACLE;FIQH_010;ibn_uthaymin;3;N;None
+jais;ORACLE;FIQH_009;hanafi;3;INVALID;
+jais;ORACLE;FIQH_009;maliki;3;INVALID;
+jais;ORACLE;FIQH_009;shafii;3;INVALID;
+jais;ORACLE;FIQH_009;hanbali;3;INVALID;
+jais;ORACLE;FIQH_009;ibn_baz;3;INVALID;
+jais;ORACLE;FIQH_009;ibn_uthaymin;3;INVALID;
+jais;RET_TOP3;FIQH_010;hanafi;3;N;None
+jais;RET_TOP3;FIQH_010;maliki;3;R;لا تجب القراءة على المأموم خلف الإمام، سواء كانت الصلاة جهرية أو سرية.
+jais;RET_TOP3;FIQH_010;shafii;3;N;None
+jais;RET_TOP3;FIQH_010;hanbali;3;R;لا تجب القراءة على المأموم إذا كانت صلاة الإمام صحيحة، وتجب إذا كانت صلاة الإمام
+jais;RET_TOP3;FIQH_010;ibn_baz;3;R;تجب قراءة الفاتحة على المأموم خلف الإمام، مع الاكتفاء بها في الصلاة الجهرية والا
+jais;RET_TOP3;FIQH_010;ibn_uthaymin;3;N;None
+qwen;NO_CTX;FIQH_001;hanafi;1;F;يُنقض الوضوء
+qwen;NO_CTX;FIQH_001;maliki;1;F;لا ينقض الوضوء
+qwen;NO_CTX;FIQH_001;shafii;1;R;يُنقض الوضوء
+qwen;NO_CTX;FIQH_001;hanbali;1;R;يُنقض الوضوء
+qwen;NO_CTX;FIQH_001;ibn_baz;1;F;يُنقض الوضوء
+qwen;NO_CTX;FIQH_001;ibn_uthaymin;1;F;يُنقض الوضوء
+qwen;WRONG;FIQH_001;hanafi;1;?;صحيح
+qwen;WRONG;FIQH_001;maliki;1;?;غير صحيح
+qwen;WRONG;FIQH_001;shafii;1;?;غير صحيح
+qwen;WRONG;FIQH_001;hanbali;1;?;غير صحيح
+qwen;WRONG;FIQH_001;ibn_baz;1;N;null
+qwen;WRONG;FIQH_001;ibn_uthaymin;1;N;null
+qwen;ORACLE;FIQH_001;hanafi;1;N;null
+qwen;ORACLE;FIQH_001;maliki;1;N;null
+qwen;ORACLE;FIQH_001;shafii;1;R;ينقض
+qwen;ORACLE;FIQH_001;hanbali;1;N;null
+qwen;ORACLE;FIQH_001;ibn_baz;1;R;لا ينقض
+qwen;ORACLE;FIQH_001;ibn_uthaymin;1;N;null
+qwen;NO_CTX;FIQH_002;hanafi;1;?;سنة
+qwen;NO_CTX;FIQH_002;maliki;1;?;سنة
+qwen;NO_CTX;FIQH_002;shafii;1;R;فرض
+qwen;NO_CTX;FIQH_002;hanbali;1;R;فرض
+qwen;NO_CTX;FIQH_002;ibn_baz;1;?;سنة
+qwen;ORACLE;FIQH_002;hanafi;1;?;سنة
+qwen;ORACLE;FIQH_002;maliki;1;?;سنة
+qwen;ORACLE;FIQH_002;shafii;1;R;فرض
+qwen;ORACLE;FIQH_002;hanbali;1;R;فرض
+qwen;ORACLE;FIQH_002;ibn_baz;1;N;null
+qwen;RET_TOP3;FIQH_001;hanafi;1;R;لا ينقض
+qwen;RET_TOP3;FIQH_001;maliki;1;N;null
+qwen;RET_TOP3;FIQH_001;shafii;1;R;ينقض
+qwen;RET_TOP3;FIQH_001;hanbali;1;R;ينقض
+qwen;RET_TOP3;FIQH_001;ibn_baz;1;R;لا ينقض
+qwen;RET_TOP3;FIQH_001;ibn_uthaymin;1;N;null
+qwen;RET_TOP3;FIQH_002;hanafi;1;?;سنة
+qwen;RET_TOP3;FIQH_002;maliki;1;?;سنة
+qwen;RET_TOP3;FIQH_002;shafii;1;R;فرض
+qwen;RET_TOP3;FIQH_002;hanbali;1;R;فرض
+qwen;RET_TOP3;FIQH_002;ibn_baz;1;N;null
+qwen;WRONG;FIQH_002;hanafi;1;N;null
+qwen;WRONG;FIQH_002;maliki;1;N;null
+qwen;WRONG;FIQH_002;shafii;1;?;ينقض الوضوء
+qwen;WRONG;FIQH_002;hanbali;1;?;ينقض الوضوء مع القصد أو اللذة
+qwen;WRONG;FIQH_002;ibn_baz;1;N;null
+qwen;RET_TOP3;FIQH_003;maliki;1;R;مباح
+qwen;RET_TOP3;FIQH_003;shafii;1;N;None
+qwen;RET_TOP3;FIQH_003;ibn_baz;1;N;None
+qwen;RET_TOP3;FIQH_003;ibn_uthaymin;1;N;None
+qwen;WRONG;FIQH_003;maliki;1;N;null
+qwen;WRONG;FIQH_003;shafii;1;N;null
+qwen;WRONG;FIQH_003;ibn_baz;1;N;null
+qwen;WRONG;FIQH_003;ibn_uthaymin;1;N;null
+qwen;NO_CTX;FIQH_004;hanafi;1;F;حرام
+qwen;NO_CTX;FIQH_004;maliki;1;R;حرام
+qwen;NO_CTX;FIQH_004;shafii;1;F;حرام
+qwen;NO_CTX;FIQH_004;hanbali;1;F;حرام
+qwen;NO_CTX;FIQH_004;ibn_baz;1;F;حرام
+qwen;NO_CTX;FIQH_003;maliki;1;F;حرام
+qwen;NO_CTX;FIQH_003;shafii;1;F;حرام
+qwen;NO_CTX;FIQH_003;ibn_baz;1;R;حلال
+qwen;NO_CTX;FIQH_003;ibn_uthaymin;1;R;حلال
+qwen;ORACLE;FIQH_003;maliki;1;R;مباح
+qwen;ORACLE;FIQH_003;shafii;1;N;null
+qwen;ORACLE;FIQH_003;ibn_baz;1;R;مباح
+qwen;ORACLE;FIQH_003;ibn_uthaymin;1;N;null
+qwen;WRONG;FIQH_004;hanafi;1;N;null
+qwen;WRONG;FIQH_004;maliki;1;N;null
+qwen;WRONG;FIQH_004;shafii;1;N;null
+qwen;WRONG;FIQH_004;hanbali;1;N;null
+qwen;WRONG;FIQH_004;ibn_baz;1;N;null
+qwen;ORACLE;FIQH_004;hanafi;1;N;None
+qwen;ORACLE;FIQH_004;maliki;1;?;حرمة
+qwen;ORACLE;FIQH_004;shafii;1;N;None
+qwen;ORACLE;FIQH_004;hanbali;1;N;None
+qwen;ORACLE;FIQH_004;ibn_baz;1;R;مباح
+qwen;ORACLE;FIQH_005;hanafi;1;N;null
+qwen;ORACLE;FIQH_005;maliki;1;N;null
+qwen;ORACLE;FIQH_005;shafii;1;N;null
+qwen;ORACLE;FIQH_005;hanbali;1;N;null
+qwen;ORACLE;FIQH_005;ibn_baz;1;R;لا مانع من الجهر بالبسملة، ولكن السر بها أفضل
+qwen;ORACLE;FIQH_005;ibn_uthaymin;1;R;الراجح أن الجهر بالبسملة لا ينبغي، وأن السنة الإسرار بها لأنها ليست من الفاتحة
+qwen;RET_TOP3;FIQH_005;hanafi;1;R;الإسرار بها
+qwen;RET_TOP3;FIQH_005;maliki;1;R;الإسرار بها
+qwen;RET_TOP3;FIQH_005;shafii;1;R;الجهر بها
+qwen;RET_TOP3;FIQH_005;hanbali;1;R;الإسرار بها
+qwen;RET_TOP3;FIQH_005;ibn_baz;1;N;null
+qwen;RET_TOP3;FIQH_005;ibn_uthaymin;1;N;null
+qwen;NO_CTX;FIQH_005;hanafi;1;F;لا تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة
+qwen;NO_CTX;FIQH_005;maliki;1;R;لا تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة
+qwen;NO_CTX;FIQH_005;shafii;1;R;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;hanbali;1;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;ibn_baz;1;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;ibn_uthaymin;1;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;WRONG;FIQH_005;hanafi;1;N;null
+qwen;WRONG;FIQH_005;maliki;1;N;null
+qwen;WRONG;FIQH_005;shafii;1;N;null
+qwen;WRONG;FIQH_005;hanbali;1;N;null
+qwen;WRONG;FIQH_005;ibn_baz;1;?;وجوب قراءتها خلف الإمام
+qwen;WRONG;FIQH_005;ibn_uthaymin;1;?;يجوز قراءتها في سكتات الإمام
+qwen;NO_CTX;FIQH_006;hanafi;1;F;لا يصح
+qwen;NO_CTX;FIQH_006;maliki;1;F;يصح في بعض الأحيان
+qwen;NO_CTX;FIQH_006;shafii;1;R;لا يصح
+qwen;NO_CTX;FIQH_006;hanbali;1;R;لا يصح
+qwen;NO_CTX;FIQH_006;ibn_baz;1;R;لا يصح
+qwen;NO_CTX;FIQH_006;ibn_uthaymin;1;R;لا يصح
+qwen;RET_TOP3;FIQH_004;hanafi;1;N;null
+qwen;RET_TOP3;FIQH_004;maliki;1;R;حرام
+qwen;RET_TOP3;FIQH_004;shafii;1;N;null
+qwen;RET_TOP3;FIQH_004;hanbali;1;N;null
+qwen;RET_TOP3;FIQH_004;ibn_baz;1;R;حلال
+qwen;WRONG;FIQH_006;hanafi;1;N;null
+qwen;WRONG;FIQH_006;maliki;1;N;null
+qwen;WRONG;FIQH_006;shafii;1;N;null
+qwen;WRONG;FIQH_006;hanbali;1;N;null
+qwen;WRONG;FIQH_006;ibn_baz;1;N;null
+qwen;WRONG;FIQH_006;ibn_uthaymin;1;N;null
+qwen;NO_CTX;FIQH_007;hanafi;1;R;لا
+qwen;NO_CTX;FIQH_007;maliki;1;R;لا
+qwen;NO_CTX;FIQH_007;shafii;1;R;نعم
+qwen;NO_CTX;FIQH_007;hanbali;1;F;لا
+qwen;NO_CTX;FIQH_007;ibn_baz;1;F;لا
+qwen;ORACLE;FIQH_006;hanafi;1;N;null
+qwen;ORACLE;FIQH_006;maliki;1;R;لا ينعقد النكاح، ويُفسخ مطلقاً
+qwen;ORACLE;FIQH_006;shafii;1;R;لا ينعقد النكاح
+qwen;ORACLE;FIQH_006;hanbali;1;R;لا ينعقد النكاح
+qwen;ORACLE;FIQH_006;ibn_baz;1;R;لا يصح النكاح بدون ولي وشهود
+qwen;ORACLE;FIQH_006;ibn_uthaymin;1;R;لا يصح النكاح بلا ولي
+qwen;ORACLE;FIQH_007;hanafi;1;N;null
+qwen;ORACLE;FIQH_007;maliki;1;N;null
+qwen;ORACLE;FIQH_007;shafii;1;N;null
+qwen;ORACLE;FIQH_007;hanbali;1;N;null
+qwen;ORACLE;FIQH_007;ibn_baz;1;?;البيعان بالخيار حتى يتفرقا ما لم يشترطا ترك الخيار
+qwen;RET_TOP3;FIQH_007;hanafi;1;F;يُثبَّت
+qwen;RET_TOP3;FIQH_007;maliki;1;F;يُثبَّت
+qwen;RET_TOP3;FIQH_007;shafii;1;R;يُثبَّت
+qwen;RET_TOP3;FIQH_007;hanbali;1;R;يُثبَّت
+qwen;RET_TOP3;FIQH_007;ibn_baz;1;N;null
+qwen;RET_TOP3;FIQH_006;hanafi;1;N;null
+qwen;RET_TOP3;FIQH_006;maliki;1;R;لا ينعقد النكاح بالكتابة، ويُشترط الولي والشهود
+qwen;RET_TOP3;FIQH_006;shafii;1;R;لا ينعقد النكاح بالكتابة، ويُشترط الولي والشهود
+qwen;RET_TOP3;FIQH_006;hanbali;1;R;لا ينعقد النكاح بالكتابة، ويُشترط الولي والشهود
+qwen;RET_TOP3;FIQH_006;ibn_baz;1;?;يُشترط وجود الولي والشهود في عقد النكاح
+qwen;RET_TOP3;FIQH_006;ibn_uthaymin;1;?;يُشترط وجود الولي والشهود في عقد النكاح
+qwen;NO_CTX;FIQH_008;hanafi;1;?;سنة
+qwen;NO_CTX;FIQH_008;maliki;1;?;سنة
+qwen;NO_CTX;FIQH_008;shafii;1;?;سنة
+qwen;NO_CTX;FIQH_008;hanbali;1;?;سنة
+qwen;NO_CTX;FIQH_008;ibn_uthaymin;1;?;سنة
+qwen;WRONG;FIQH_008;hanafi;1;N;null
+qwen;WRONG;FIQH_008;maliki;1;N;null
+qwen;WRONG;FIQH_008;shafii;1;N;null
+qwen;WRONG;FIQH_008;hanbali;1;N;null
+qwen;WRONG;FIQH_008;ibn_uthaymin;1;N;null
+qwen;RET_TOP3;FIQH_008;hanafi;1;R;واجب
+qwen;RET_TOP3;FIQH_008;maliki;1;?;سنة
+qwen;RET_TOP3;FIQH_008;shafii;1;?;سنة
+qwen;RET_TOP3;FIQH_008;hanbali;1;N;null
+qwen;RET_TOP3;FIQH_008;ibn_uthaymin;1;N;null
+qwen;WRONG;FIQH_007;hanafi;1;N;null
+qwen;WRONG;FIQH_007;maliki;1;?;فسخ
+qwen;WRONG;FIQH_007;shafii;1;?;فسخ
+qwen;WRONG;FIQH_007;hanbali;1;?;فسخ
+qwen;WRONG;FIQH_007;ibn_baz;1;?;فسخ
+qwen;NO_CTX;FIQH_009;hanafi;1;F;نجس
+qwen;NO_CTX;FIQH_009;maliki;1;F;نجس
+qwen;NO_CTX;FIQH_009;shafii;1;R;نجس
+qwen;NO_CTX;FIQH_009;hanbali;1;R;نجس
+qwen;NO_CTX;FIQH_009;ibn_baz;1;R;نجس
+qwen;NO_CTX;FIQH_009;ibn_uthaymin;1;R;نجس
+qwen;ORACLE;FIQH_008;hanafi;1;?;سنة مؤكدة
+qwen;ORACLE;FIQH_008;maliki;1;N;null
+qwen;ORACLE;FIQH_008;shafii;1;N;null
+qwen;ORACLE;FIQH_008;hanbali;1;N;null
+qwen;ORACLE;FIQH_008;ibn_uthaymin;1;N;null
+qwen;ORACLE;FIQH_009;hanafi;1;?;طهارة
+qwen;ORACLE;FIQH_009;maliki;1;?;طهارة
+qwen;ORACLE;FIQH_009;shafii;1;?;نجاسة
+qwen;ORACLE;FIQH_009;hanbali;1;?;نجاسة
+qwen;ORACLE;FIQH_009;ibn_baz;1;?;نجاسة
+qwen;ORACLE;FIQH_009;ibn_uthaymin;1;N;null
+qwen;RET_TOP3;FIQH_009;hanafi;1;F;نجس
+qwen;RET_TOP3;FIQH_009;maliki;1;N;null
+qwen;RET_TOP3;FIQH_009;shafii;1;R;نجس
+qwen;RET_TOP3;FIQH_009;hanbali;1;R;نجس
+qwen;RET_TOP3;FIQH_009;ibn_baz;1;R;نجس
+qwen;RET_TOP3;FIQH_009;ibn_uthaymin;1;R;نجس
+qwen;WRONG;FIQH_009;hanafi;1;N;None
+qwen;WRONG;FIQH_009;maliki;1;N;None
+qwen;WRONG;FIQH_009;shafii;1;N;None
+qwen;WRONG;FIQH_009;hanbali;1;N;None
+qwen;WRONG;FIQH_009;ibn_baz;1;?;حلال
+qwen;WRONG;FIQH_009;ibn_uthaymin;1;N;None
+qwen;NO_CTX;FIQH_010;hanafi;1;R;لا تجب قراءة الفاتحة على المأموم خلف الإمام، لأن الإيماءة تكفي.
+qwen;NO_CTX;FIQH_010;maliki;1;R;لا تجب قراءة الفاتحة على المأموم، بل يكفي أن يستمع إلى إمامه.
+qwen;NO_CTX;FIQH_010;shafii;1;F;تجب قراءة الفاتحة على المأموم في الصلاة الصامتة، لكن لا تجب في الصلاة الجهرية.
+qwen;NO_CTX;FIQH_010;hanbali;1;F;تجب قراءة الفاتحة على المأموم في جميع الأحوال.
+qwen;NO_CTX;FIQH_010;ibn_baz;1;R;تجب قراءة الفاتحة على المأموم خلف الإمام، لأنها من أركان الصلاة.
+qwen;NO_CTX;FIQH_010;ibn_uthaymin;1;R;تجب قراءة الفاتحة على المأموم، وقد أجمع الفقهاء على ذلك.
+qwen;RET_TOP3;FIQH_010;hanafi;1;N;null
+qwen;RET_TOP3;FIQH_010;maliki;1;R;لا تجب
+qwen;RET_TOP3;FIQH_010;shafii;1;N;null
+qwen;RET_TOP3;FIQH_010;hanbali;1;R;لا تجب
+qwen;RET_TOP3;FIQH_010;ibn_baz;1;R;تجب
+qwen;RET_TOP3;FIQH_010;ibn_uthaymin;1;N;null
+qwen;ORACLE;FIQH_010;hanafi;1;N;null
+qwen;ORACLE;FIQH_010;maliki;1;R;لا تجب
+qwen;ORACLE;FIQH_010;shafii;1;N;null
+qwen;ORACLE;FIQH_010;hanbali;1;R;لا تجب
+qwen;ORACLE;FIQH_010;ibn_baz;1;N;null
+qwen;ORACLE;FIQH_010;ibn_uthaymin;1;N;null
+qwen;WRONG;FIQH_010;hanafi;1;N;None
+qwen;WRONG;FIQH_010;maliki;1;N;None
+qwen;WRONG;FIQH_010;shafii;1;N;None
+qwen;WRONG;FIQH_010;hanbali;1;?;لا مانع من الجهر بالبسملة، ولكن السر بها أفضل
+qwen;WRONG;FIQH_010;ibn_baz;1;?;لا مانع من الجهر بالبسملة، ولكن السر بها أفضل
+qwen;WRONG;FIQH_010;ibn_uthaymin;1;N;None
+qwen;NO_CTX;FIQH_001;hanafi;2;F;يُنقض
+qwen;NO_CTX;FIQH_001;maliki;2;F;لا يُنقض
+qwen;NO_CTX;FIQH_001;shafii;2;R;يُنقض
+qwen;NO_CTX;FIQH_001;hanbali;2;R;يُنقض
+qwen;NO_CTX;FIQH_001;ibn_baz;2;F;يُنقض
+qwen;NO_CTX;FIQH_001;ibn_uthaymin;2;F;يُنقض
+qwen;ORACLE;FIQH_001;hanafi;2;N;null
+qwen;ORACLE;FIQH_001;maliki;2;N;null
+qwen;ORACLE;FIQH_001;shafii;2;R;ينقض
+qwen;ORACLE;FIQH_001;hanbali;2;F;لا ينقض
+qwen;ORACLE;FIQH_001;ibn_baz;2;R;لا ينقض
+qwen;ORACLE;FIQH_001;ibn_uthaymin;2;N;null
+qwen;WRONG;FIQH_001;hanafi;2;N;null
+qwen;WRONG;FIQH_001;maliki;2;N;null
+qwen;WRONG;FIQH_001;shafii;2;N;null
+qwen;WRONG;FIQH_001;hanbali;2;N;null
+qwen;WRONG;FIQH_001;ibn_baz;2;N;null
+qwen;WRONG;FIQH_001;ibn_uthaymin;2;?;غير صحيح
+qwen;RET_TOP3;FIQH_001;hanafi;2;R;لا ينقض الوضوء
+qwen;RET_TOP3;FIQH_001;maliki;2;N;null
+qwen;RET_TOP3;FIQH_001;shafii;2;R;ينقض الوضوء
+qwen;RET_TOP3;FIQH_001;hanbali;2;R;ينقض الوضوء مع الشهوة
+qwen;RET_TOP3;FIQH_001;ibn_baz;2;R;لا ينقض الوضوء
+qwen;RET_TOP3;FIQH_001;ibn_uthaymin;2;N;null
+qwen;NO_CTX;FIQH_002;hanafi;2;F;فرض
+qwen;NO_CTX;FIQH_002;maliki;2;?;سنة
+qwen;NO_CTX;FIQH_002;shafii;2;R;فرض
+qwen;NO_CTX;FIQH_002;hanbali;2;R;فرض
+qwen;NO_CTX;FIQH_002;ibn_baz;2;R;فرض
+qwen;ORACLE;FIQH_002;hanafi;2;?;سنة
+qwen;ORACLE;FIQH_002;maliki;2;?;سنة
+qwen;ORACLE;FIQH_002;shafii;2;R;فرض
+qwen;ORACLE;FIQH_002;hanbali;2;R;فرض
+qwen;ORACLE;FIQH_002;ibn_baz;2;N;null
+qwen;RET_TOP3;FIQH_002;hanafi;2;?;سنة
+qwen;RET_TOP3;FIQH_002;maliki;2;?;سنة
+qwen;RET_TOP3;FIQH_002;shafii;2;R;فرض
+qwen;RET_TOP3;FIQH_002;hanbali;2;R;فرض
+qwen;RET_TOP3;FIQH_002;ibn_baz;2;N;null
+qwen;NO_CTX;FIQH_003;maliki;2;F;حرام
+qwen;NO_CTX;FIQH_003;shafii;2;R;حلال
+qwen;NO_CTX;FIQH_003;ibn_baz;2;R;حلال
+qwen;NO_CTX;FIQH_003;ibn_uthaymin;2;R;حلال
+qwen;WRONG;FIQH_002;hanafi;2;N;null
+qwen;WRONG;FIQH_002;maliki;2;N;null
+qwen;WRONG;FIQH_002;shafii;2;?;ينقض الوضوء
+qwen;WRONG;FIQH_002;hanbali;2;?;ينقض الوضوء مع الشهوة
+qwen;WRONG;FIQH_002;ibn_baz;2;N;null
+qwen;WRONG;FIQH_003;maliki;2;N;null
+qwen;WRONG;FIQH_003;shafii;2;N;null
+qwen;WRONG;FIQH_003;ibn_baz;2;N;null
+qwen;WRONG;FIQH_003;ibn_uthaymin;2;N;null
+qwen;ORACLE;FIQH_003;maliki;2;R;مباح
+qwen;ORACLE;FIQH_003;shafii;2;N;null
+qwen;ORACLE;FIQH_003;ibn_baz;2;R;مباح
+qwen;ORACLE;FIQH_003;ibn_uthaymin;2;N;null
+qwen;RET_TOP3;FIQH_003;maliki;2;R;مباح
+qwen;RET_TOP3;FIQH_003;shafii;2;N;null
+qwen;RET_TOP3;FIQH_003;ibn_baz;2;N;null
+qwen;RET_TOP3;FIQH_003;ibn_uthaymin;2;N;null
+qwen;NO_CTX;FIQH_004;hanafi;2;?;محلل
+qwen;NO_CTX;FIQH_004;maliki;2;R;مُحْرَم
+qwen;NO_CTX;FIQH_004;shafii;2;?;محلل
+qwen;NO_CTX;FIQH_004;hanbali;2;F;مُحْرَم
+qwen;NO_CTX;FIQH_004;ibn_baz;2;?;محلل
+qwen;WRONG;FIQH_004;hanafi;2;N;null
+qwen;WRONG;FIQH_004;maliki;2;N;null
+qwen;WRONG;FIQH_004;shafii;2;N;null
+qwen;WRONG;FIQH_004;hanbali;2;N;null
+qwen;WRONG;FIQH_004;ibn_baz;2;N;null
+qwen;ORACLE;FIQH_004;hanafi;2;N;null
+qwen;ORACLE;FIQH_004;maliki;2;?;حرمة
+qwen;ORACLE;FIQH_004;shafii;2;N;null
+qwen;ORACLE;FIQH_004;hanbali;2;N;null
+qwen;ORACLE;FIQH_004;ibn_baz;2;R;مباح
+qwen;NO_CTX;FIQH_005;hanafi;2;F;لا تُقرأ البسملة منفصلةً قبل الفاتحة، بل تُعتبر جزءًا منها.
+qwen;NO_CTX;FIQH_005;maliki;2;F;تُقرأ البسملة منفصلةً قبل الفاتحة، وتجهر بها في الصلاة.
+qwen;NO_CTX;FIQH_005;shafii;2;R;تُقرأ البسملة منفصلةً قبل الفاتحة، وتجهر بها في الصلاة.
+qwen;NO_CTX;FIQH_005;hanbali;2;F;تُقرأ البسملة منفصلةً قبل الفاتحة، وتجهر بها في الصلاة.
+qwen;NO_CTX;FIQH_005;ibn_baz;2;F;تُقرأ البسملة منفصلةً قبل الفاتحة، وتجهر بها في الصلاة.
+qwen;NO_CTX;FIQH_005;ibn_uthaymin;2;F;تُقرأ البسملة منفصلةً قبل الفاتحة، وتجهر بها في الصلاة.
+qwen;ORACLE;FIQH_005;hanafi;2;N;null
+qwen;ORACLE;FIQH_005;maliki;2;N;null
+qwen;ORACLE;FIQH_005;shafii;2;N;null
+qwen;ORACLE;FIQH_005;hanbali;2;N;null
+qwen;ORACLE;FIQH_005;ibn_baz;2;R;لا بأس بالجهر بها، ولكن السر بها أفضل
+qwen;ORACLE;FIQH_005;ibn_uthaymin;2;R;الراجح أن الجهر بالبسملة لا ينبغي، وأن السنة الإسرار بها
+qwen;RET_TOP3;FIQH_004;hanafi;2;P;مباح
+qwen;RET_TOP3;FIQH_004;maliki;2;N;null
+qwen;RET_TOP3;FIQH_004;shafii;2;N;null
+qwen;RET_TOP3;FIQH_004;hanbali;2;N;null
+qwen;RET_TOP3;FIQH_004;ibn_baz;2;R;مباح
+qwen;RET_TOP3;FIQH_005;hanafi;2;R;الإسرار
+qwen;RET_TOP3;FIQH_005;maliki;2;N;null
+qwen;RET_TOP3;FIQH_005;shafii;2;R;الجهر
+qwen;RET_TOP3;FIQH_005;hanbali;2;R;الإسرار
+qwen;RET_TOP3;FIQH_005;ibn_baz;2;N;null
+qwen;RET_TOP3;FIQH_005;ibn_uthaymin;2;N;null
+qwen;NO_CTX;FIQH_006;hanafi;2;F;لا يصح
+qwen;NO_CTX;FIQH_006;maliki;2;R;لا يصح
+qwen;NO_CTX;FIQH_006;shafii;2;R;لا يصح
+qwen;NO_CTX;FIQH_006;hanbali;2;R;لا يصح
+qwen;NO_CTX;FIQH_006;ibn_baz;2;F;يصح
+qwen;NO_CTX;FIQH_006;ibn_uthaymin;2;F;يصح
+qwen;WRONG;FIQH_006;hanafi;2;N;null
+qwen;WRONG;FIQH_006;maliki;2;N;null
+qwen;WRONG;FIQH_006;shafii;2;N;null
+qwen;WRONG;FIQH_006;hanbali;2;N;null
+qwen;WRONG;FIQH_006;ibn_baz;2;N;null
+qwen;WRONG;FIQH_006;ibn_uthaymin;2;N;null
+qwen;WRONG;FIQH_005;hanafi;2;N;null
+qwen;WRONG;FIQH_005;maliki;2;N;null
+qwen;WRONG;FIQH_005;shafii;2;N;null
+qwen;WRONG;FIQH_005;hanbali;2;?;واجب
+qwen;WRONG;FIQH_005;ibn_baz;2;?;واجب
+qwen;WRONG;FIQH_005;ibn_uthaymin;2;?;يجوز
+qwen;RET_TOP3;FIQH_006;hanafi;2;F;لا ينعقد النكاح بدون ولي أو شاهدين
+qwen;RET_TOP3;FIQH_006;maliki;2;R;لا ينعقد النكاح بدون ولي أو شاهدين
+qwen;RET_TOP3;FIQH_006;shafii;2;R;لا ينعقد النكاح بدون ولي أو شاهدين
+qwen;RET_TOP3;FIQH_006;hanbali;2;R;لا ينعقد النكاح بدون ولي أو شاهدين
+qwen;RET_TOP3;FIQH_006;ibn_baz;2;R;لا يصح النكاح بدون ولي وشهود
+qwen;RET_TOP3;FIQH_006;ibn_uthaymin;2;R;لا يصح النكاح بدون ولي وشهود
+qwen;ORACLE;FIQH_006;hanafi;2;N;null
+qwen;ORACLE;FIQH_006;maliki;2;R;invalid
+qwen;ORACLE;FIQH_006;shafii;2;R;invalid
+qwen;ORACLE;FIQH_006;hanbali;2;R;invalid
+qwen;ORACLE;FIQH_006;ibn_baz;2;R;invalid
+qwen;ORACLE;FIQH_006;ibn_uthaymin;2;R;invalid
+qwen;NO_CTX;FIQH_007;hanafi;2;N;null
+qwen;NO_CTX;FIQH_007;maliki;2;N;null
+qwen;NO_CTX;FIQH_007;shafii;2;N;null
+qwen;NO_CTX;FIQH_007;hanbali;2;N;null
+qwen;NO_CTX;FIQH_007;ibn_baz;2;N;null
+qwen;ORACLE;FIQH_007;hanafi;2;?;البيعان بالخيار ما لم يتفرقا
+qwen;ORACLE;FIQH_007;maliki;2;?;البيعان بالخيار ما لم يتفرقا
+qwen;ORACLE;FIQH_007;shafii;2;?;البيعان بالخيار ما لم يتفرقا
+qwen;ORACLE;FIQH_007;hanbali;2;?;البيعان بالخيار ما لم يتفرقا
+qwen;ORACLE;FIQH_007;ibn_baz;2;?;البيعان بالخيار حتى يتفرقا ما لم يشترطا ترك الخيار
+qwen;RET_TOP3;FIQH_007;hanafi;2;N;null
+qwen;RET_TOP3;FIQH_007;maliki;2;N;null
+qwen;RET_TOP3;FIQH_007;shafii;2;N;null
+qwen;RET_TOP3;FIQH_007;hanbali;2;N;null
+qwen;RET_TOP3;FIQH_007;ibn_baz;2;N;null
+qwen;WRONG;FIQH_007;hanafi;2;?;صحيح
+qwen;WRONG;FIQH_007;maliki;2;?;غير صحيح
+qwen;WRONG;FIQH_007;shafii;2;?;غير صحيح
+qwen;WRONG;FIQH_007;hanbali;2;?;غير صحيح
+qwen;WRONG;FIQH_007;ibn_baz;2;?;غير صحيح
+qwen;NO_CTX;FIQH_008;hanafi;2;?;سنة
+qwen;NO_CTX;FIQH_008;maliki;2;?;رخصة
+qwen;NO_CTX;FIQH_008;shafii;2;?;سنة
+qwen;NO_CTX;FIQH_008;hanbali;2;?;رخصة
+qwen;NO_CTX;FIQH_008;ibn_uthaymin;2;?;سنة
+qwen;WRONG;FIQH_008;hanafi;2;N;null
+qwen;WRONG;FIQH_008;maliki;2;N;null
+qwen;WRONG;FIQH_008;shafii;2;N;null
+qwen;WRONG;FIQH_008;hanbali;2;N;null
+qwen;WRONG;FIQH_008;ibn_uthaymin;2;N;null
+qwen;RET_TOP3;FIQH_008;hanafi;2;?;وجوب
+qwen;RET_TOP3;FIQH_008;maliki;2;N;null
+qwen;RET_TOP3;FIQH_008;shafii;2;?;سنة
+qwen;RET_TOP3;FIQH_008;hanbali;2;N;null
+qwen;RET_TOP3;FIQH_008;ibn_uthaymin;2;N;null
+qwen;ORACLE;FIQH_009;hanafi;2;?;طهارة
+qwen;ORACLE;FIQH_009;maliki;2;?;طهارة
+qwen;ORACLE;FIQH_009;shafii;2;?;نجاسة
+qwen;ORACLE;FIQH_009;hanbali;2;?;نجاسة
+qwen;ORACLE;FIQH_009;ibn_baz;2;N;null
+qwen;ORACLE;FIQH_009;ibn_uthaymin;2;N;null
+qwen;ORACLE;FIQH_008;hanafi;2;?;سنة مؤكدة
+qwen;ORACLE;FIQH_008;maliki;2;N;null
+qwen;ORACLE;FIQH_008;shafii;2;N;null
+qwen;ORACLE;FIQH_008;hanbali;2;?;سنة
+qwen;ORACLE;FIQH_008;ibn_uthaymin;2;?;سنة
+qwen;NO_CTX;FIQH_010;hanafi;2;R;لا تجب على المأموم قراءة الفاتحة خلف الإمام، إذ يكفيه استماعه للإمام.
+qwen;NO_CTX;FIQH_010;maliki;2;R;لا تجب قراءة الفاتحة على المأموم، بل يكفيه استماعه للإمام.
+qwen;NO_CTX;FIQH_010;shafii;2;R;تجب قراءة الفاتحة على المأموم خلف الإمام، لقوله صلى الله عليه وسلم: «الإمام يُقر
+qwen;NO_CTX;FIQH_010;hanbali;2;F;تجب قراءة الفاتحة على المأموم خلف الإمام، إذ يُركَّز على تلاوة كل مصلٍّ.
+qwen;NO_CTX;FIQH_010;ibn_baz;2;R;تُعتبر قراءة الفاتحة على المأموم واجبة، مع اعتماد رأي الحنابلة.
+qwen;NO_CTX;FIQH_010;ibn_uthaymin;2;R;تجب قراءة الفاتحة على المأموم، ويرجع ذلك إلى خلاف بين الفقهاء.
+qwen;RET_TOP3;FIQH_009;hanafi;2;N;null
+qwen;RET_TOP3;FIQH_009;maliki;2;F;نَجِس
+qwen;RET_TOP3;FIQH_009;shafii;2;N;null
+qwen;RET_TOP3;FIQH_009;hanbali;2;N;null
+qwen;RET_TOP3;FIQH_009;ibn_baz;2;R;نَجِس
+qwen;RET_TOP3;FIQH_009;ibn_uthaymin;2;R;نَجِس
+qwen;WRONG;FIQH_009;hanafi;2;N;null
+qwen;WRONG;FIQH_009;maliki;2;N;null
+qwen;WRONG;FIQH_009;shafii;2;N;null
+qwen;WRONG;FIQH_009;hanbali;2;N;null
+qwen;WRONG;FIQH_009;ibn_baz;2;?;حلال
+qwen;WRONG;FIQH_009;ibn_uthaymin;2;N;null
+qwen;RET_TOP3;FIQH_010;hanafi;2;N;null
+qwen;RET_TOP3;FIQH_010;maliki;2;R;لا تجب
+qwen;RET_TOP3;FIQH_010;shafii;2;N;null
+qwen;RET_TOP3;FIQH_010;hanbali;2;R;لا تجب
+qwen;RET_TOP3;FIQH_010;ibn_baz;2;R;وجوب
+qwen;RET_TOP3;FIQH_010;ibn_uthaymin;2;R;وجوب
+qwen;ORACLE;FIQH_010;hanafi;2;N;null
+qwen;ORACLE;FIQH_010;maliki;2;R;لا تجبر
+qwen;ORACLE;FIQH_010;shafii;2;N;null
+qwen;ORACLE;FIQH_010;hanbali;2;R;لا تجبر
+qwen;ORACLE;FIQH_010;ibn_baz;2;F;يُستحب
+qwen;ORACLE;FIQH_010;ibn_uthaymin;2;N;null
+qwen;WRONG;FIQH_010;hanafi;2;N;null
+qwen;WRONG;FIQH_010;maliki;2;N;null
+qwen;WRONG;FIQH_010;shafii;2;N;null
+qwen;WRONG;FIQH_010;hanbali;2;N;null
+qwen;WRONG;FIQH_010;ibn_baz;2;?;جائز
+qwen;WRONG;FIQH_010;ibn_uthaymin;2;N;null
+qwen;NO_CTX;FIQH_009;hanafi;2;INVALID;
+qwen;NO_CTX;FIQH_009;maliki;2;INVALID;
+qwen;NO_CTX;FIQH_009;shafii;2;INVALID;
+qwen;NO_CTX;FIQH_009;hanbali;2;INVALID;
+qwen;NO_CTX;FIQH_009;ibn_baz;2;INVALID;
+qwen;NO_CTX;FIQH_009;ibn_uthaymin;2;INVALID;
+qwen;ORACLE;FIQH_001;hanafi;3;N;null
+qwen;ORACLE;FIQH_001;maliki;3;N;null
+qwen;ORACLE;FIQH_001;shafii;3;R;ينقض الوضوء
+qwen;ORACLE;FIQH_001;hanbali;3;N;null
+qwen;ORACLE;FIQH_001;ibn_baz;3;R;لا ينقض الوضوء
+qwen;ORACLE;FIQH_001;ibn_uthaymin;3;N;null
+qwen;NO_CTX;FIQH_001;hanafi;3;F;invalidates
+qwen;NO_CTX;FIQH_001;maliki;3;N;null
+qwen;NO_CTX;FIQH_001;shafii;3;R;invalidates
+qwen;NO_CTX;FIQH_001;hanbali;3;R;invalidates
+qwen;NO_CTX;FIQH_001;ibn_baz;3;R;does not invalidate
+qwen;NO_CTX;FIQH_001;ibn_uthaymin;3;R;does not invalidate
+qwen;WRONG;FIQH_001;hanafi;3;N;null
+qwen;WRONG;FIQH_001;maliki;3;?;لا يصح
+qwen;WRONG;FIQH_001;shafii;3;?;لا يصح
+qwen;WRONG;FIQH_001;hanbali;3;?;لا يصح
+qwen;WRONG;FIQH_001;ibn_baz;3;?;لا يصح
+qwen;WRONG;FIQH_001;ibn_uthaymin;3;N;null
+qwen;RET_TOP3;FIQH_001;hanafi;3;R;لا ينقض
+qwen;RET_TOP3;FIQH_001;maliki;3;N;null
+qwen;RET_TOP3;FIQH_001;shafii;3;R;ينقض
+qwen;RET_TOP3;FIQH_001;hanbali;3;R;ينقض مع الشهوة
+qwen;RET_TOP3;FIQH_001;ibn_baz;3;R;لا ينقض
+qwen;RET_TOP3;FIQH_001;ibn_uthaymin;3;N;null
+qwen;NO_CTX;FIQH_002;hanafi;3;?;سنة
+qwen;NO_CTX;FIQH_002;maliki;3;?;سنة
+qwen;NO_CTX;FIQH_002;shafii;3;R;فرض
+qwen;NO_CTX;FIQH_002;hanbali;3;R;فرض
+qwen;NO_CTX;FIQH_002;ibn_baz;3;?;سنة
+qwen;ORACLE;FIQH_002;hanafi;3;?;سنة
+qwen;ORACLE;FIQH_002;maliki;3;?;سنة
+qwen;ORACLE;FIQH_002;shafii;3;R;فرض
+qwen;ORACLE;FIQH_002;hanbali;3;R;فرض
+qwen;ORACLE;FIQH_002;ibn_baz;3;N;null
+qwen;RET_TOP3;FIQH_002;hanafi;3;?;سنة
+qwen;RET_TOP3;FIQH_002;maliki;3;?;سنة
+qwen;RET_TOP3;FIQH_002;shafii;3;R;فرض
+qwen;RET_TOP3;FIQH_002;hanbali;3;R;فرض
+qwen;RET_TOP3;FIQH_002;ibn_baz;3;N;null
+qwen;WRONG;FIQH_002;hanafi;3;?;لا ينقض الوضوء مطلقًا
+qwen;WRONG;FIQH_002;maliki;3;N;null
+qwen;WRONG;FIQH_002;shafii;3;?;ينقض الوضوء إذا اتصلت بشرتا رجل وامرأة أجنبية تُشتهى، سواء كان اللمس بشهوة أو لا
+qwen;WRONG;FIQH_002;hanbali;3;?;ينقض الوضوء مع الشهوة
+qwen;WRONG;FIQH_002;ibn_baz;3;?;ينقض الوضوء وفق المذهب الشافعي، ولا ينقض وفق المذهب الحنفي، ويُشترط الشهوة في ال
+qwen;NO_CTX;FIQH_003;maliki;3;N;None
+qwen;NO_CTX;FIQH_003;shafii;3;N;None
+qwen;NO_CTX;FIQH_003;ibn_baz;3;N;None
+qwen;NO_CTX;FIQH_003;ibn_uthaymin;3;N;None
+qwen;RET_TOP3;FIQH_003;maliki;3;R;مباح
+qwen;RET_TOP3;FIQH_003;shafii;3;N;null
+qwen;RET_TOP3;FIQH_003;ibn_baz;3;N;null
+qwen;RET_TOP3;FIQH_003;ibn_uthaymin;3;N;null
+qwen;WRONG;FIQH_003;maliki;3;N;null
+qwen;WRONG;FIQH_003;shafii;3;N;null
+qwen;WRONG;FIQH_003;ibn_baz;3;N;null
+qwen;WRONG;FIQH_003;ibn_uthaymin;3;N;null
+qwen;ORACLE;FIQH_003;maliki;3;R;مباح
+qwen;ORACLE;FIQH_003;shafii;3;N;null
+qwen;ORACLE;FIQH_003;ibn_baz;3;R;مباح
+qwen;ORACLE;FIQH_003;ibn_uthaymin;3;N;null
+qwen;NO_CTX;FIQH_004;hanafi;3;P;مباح
+qwen;NO_CTX;FIQH_004;maliki;3;F;مباح
+qwen;NO_CTX;FIQH_004;shafii;3;R;مباح
+qwen;NO_CTX;FIQH_004;hanbali;3;F;محرم
+qwen;NO_CTX;FIQH_004;ibn_baz;3;R;مباح
+qwen;ORACLE;FIQH_004;hanafi;3;N;null
+qwen;ORACLE;FIQH_004;maliki;3;?;حرمة
+qwen;ORACLE;FIQH_004;shafii;3;N;null
+qwen;ORACLE;FIQH_004;hanbali;3;N;null
+qwen;ORACLE;FIQH_004;ibn_baz;3;R;مباح
+qwen;WRONG;FIQH_004;hanafi;3;N;null
+qwen;WRONG;FIQH_004;maliki;3;N;null
+qwen;WRONG;FIQH_004;shafii;3;N;null
+qwen;WRONG;FIQH_004;hanbali;3;N;null
+qwen;WRONG;FIQH_004;ibn_baz;3;N;null
+qwen;RET_TOP3;FIQH_004;hanafi;3;N;null
+qwen;RET_TOP3;FIQH_004;maliki;3;R;حرام
+qwen;RET_TOP3;FIQH_004;shafii;3;N;null
+qwen;RET_TOP3;FIQH_004;hanbali;3;N;null
+qwen;RET_TOP3;FIQH_004;ibn_baz;3;R;مباح
+qwen;ORACLE;FIQH_005;hanafi;3;N;None
+qwen;ORACLE;FIQH_005;maliki;3;N;None
+qwen;ORACLE;FIQH_005;shafii;3;N;None
+qwen;ORACLE;FIQH_005;hanbali;3;N;None
+qwen;ORACLE;FIQH_005;ibn_baz;3;R;لا بأس به، ولكن الأفضل الإسرار بها
+qwen;ORACLE;FIQH_005;ibn_uthaymin;3;N;None
+qwen;WRONG;FIQH_005;hanafi;3;N;null
+qwen;WRONG;FIQH_005;maliki;3;N;null
+qwen;WRONG;FIQH_005;shafii;3;N;null
+qwen;WRONG;FIQH_005;hanbali;3;N;null
+qwen;WRONG;FIQH_005;ibn_baz;3;?;يجب
+qwen;WRONG;FIQH_005;ibn_uthaymin;3;?;يجوز
+qwen;NO_CTX;FIQH_005;hanafi;3;R;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة ولكنها تُقرأ سراً لا جهراً
+qwen;NO_CTX;FIQH_005;maliki;3;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;shafii;3;R;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;hanbali;3;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;ibn_baz;3;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_005;ibn_uthaymin;3;F;تُقرأ البسملة قبل الفاتحة في الصلاة المفروضة وتجهر بها
+qwen;NO_CTX;FIQH_006;hanafi;3;F;لا يصح
+qwen;NO_CTX;FIQH_006;maliki;3;R;لا يصح
+qwen;NO_CTX;FIQH_006;shafii;3;R;لا يصح
+qwen;NO_CTX;FIQH_006;hanbali;3;R;لا يصح
+qwen;NO_CTX;FIQH_006;ibn_baz;3;R;لا يصح
+qwen;NO_CTX;FIQH_006;ibn_uthaymin;3;R;لا يصح
+qwen;ORACLE;FIQH_006;hanafi;3;N;null
+qwen;ORACLE;FIQH_006;maliki;3;R;غير صحيح
+qwen;ORACLE;FIQH_006;shafii;3;R;غير صحيح
+qwen;ORACLE;FIQH_006;hanbali;3;R;غير صحيح
+qwen;ORACLE;FIQH_006;ibn_baz;3;R;غير صحيح
+qwen;ORACLE;FIQH_006;ibn_uthaymin;3;R;غير صحيح
+qwen;WRONG;FIQH_006;hanafi;3;N;null
+qwen;WRONG;FIQH_006;maliki;3;N;null
+qwen;WRONG;FIQH_006;shafii;3;N;null
+qwen;WRONG;FIQH_006;hanbali;3;N;null
+qwen;WRONG;FIQH_006;ibn_baz;3;N;null
+qwen;WRONG;FIQH_006;ibn_uthaymin;3;N;null
+qwen;RET_TOP3;FIQH_005;hanafi;3;N;null
+qwen;RET_TOP3;FIQH_005;maliki;3;N;null
+qwen;RET_TOP3;FIQH_005;shafii;3;R;يجهر بها
+qwen;RET_TOP3;FIQH_005;hanbali;3;R;لا يجهر بها
+qwen;RET_TOP3;FIQH_005;ibn_baz;3;N;null
+qwen;RET_TOP3;FIQH_005;ibn_uthaymin;3;N;null
+qwen;RET_TOP3;FIQH_006;hanafi;3;N;null
+qwen;RET_TOP3;FIQH_006;maliki;3;R;لا ينعقد النكاح بالكتابة، ويُفسخ مطلقاً قبل الدخول وبعده
+qwen;RET_TOP3;FIQH_006;shafii;3;R;لا ينعقد النكاح بالكتابة، ويُعتبر باطلاً إذا اختل الركن
+qwen;RET_TOP3;FIQH_006;hanbali;3;R;لا ينعقد النكاح بالكتابة، ويُعتبر باطلاً إذا اختل الركن
+qwen;RET_TOP3;FIQH_006;ibn_baz;3;R;لا يصح النكاح بدون ولي وشهود
+qwen;RET_TOP3;FIQH_006;ibn_uthaymin;3;N;null
+qwen;RET_TOP3;FIQH_007;hanafi;3;F;يثبت خيار المجلس في عقد البيع
+qwen;RET_TOP3;FIQH_007;maliki;3;N;null
+qwen;RET_TOP3;FIQH_007;shafii;3;N;null
+qwen;RET_TOP3;FIQH_007;hanbali;3;N;null
+qwen;RET_TOP3;FIQH_007;ibn_baz;3;N;null
+qwen;ORACLE;FIQH_007;hanafi;3;N;null
+qwen;ORACLE;FIQH_007;maliki;3;N;null
+qwen;ORACLE;FIQH_007;shafii;3;N;null
+qwen;ORACLE;FIQH_007;hanbali;3;N;null
+qwen;ORACLE;FIQH_007;ibn_baz;3;?;البيعان بالخيار حتى يتفرقا ما لم يشترطا ترك الخيار
+qwen;NO_CTX;FIQH_007;hanafi;3;F;يُثبت خيار المجلس في عقد البيع إذا كان العرض من البائع يسمح بذلك أو كان هناك شرط
+qwen;NO_CTX;FIQH_007;maliki;3;R;لا يثبت خيار المجلس في عقد البيع إلا إذا كان مذكورًا صريحًا في العقد.
+qwen;NO_CTX;FIQH_007;shafii;3;F;لا يثبت خيار المجلس في عقد البيع إلا إذا ورد في العقد صراحة.
+qwen;NO_CTX;FIQH_007;hanbali;3;F;لا يثبت خيار المجلس في عقد البيع إلا إذا ورد في العقد صراحة.
+qwen;NO_CTX;FIQH_007;ibn_baz;3;F;لا يثبت خيار المجلس في عقد البيع إلا إذا ورد في العقد صراحة.
+qwen;WRONG;FIQH_007;hanafi;3;?;صحيح
+qwen;WRONG;FIQH_007;maliki;3;?;غير صحيح
+qwen;WRONG;FIQH_007;shafii;3;?;غير صحيح
+qwen;WRONG;FIQH_007;hanbali;3;?;غير صحيح
+qwen;WRONG;FIQH_007;ibn_baz;3;?;غير صحيح
+qwen;NO_CTX;FIQH_008;hanafi;3;?;رخصة
+qwen;NO_CTX;FIQH_008;maliki;3;?;رخصة
+qwen;NO_CTX;FIQH_008;shafii;3;?;سنة
+qwen;NO_CTX;FIQH_008;hanbali;3;?;رخصة
+qwen;NO_CTX;FIQH_008;ibn_uthaymin;3;?;رخصة
+qwen;WRONG;FIQH_008;hanafi;3;N;None
+qwen;WRONG;FIQH_008;maliki;3;N;None
+qwen;WRONG;FIQH_008;shafii;3;N;None
+qwen;WRONG;FIQH_008;hanbali;3;N;None
+qwen;WRONG;FIQH_008;ibn_uthaymin;3;N;None
+qwen;RET_TOP3;FIQH_008;hanafi;3;R;واجب
+qwen;RET_TOP3;FIQH_008;maliki;3;N;null
+qwen;RET_TOP3;FIQH_008;shafii;3;N;null
+qwen;RET_TOP3;FIQH_008;hanbali;3;N;null
+qwen;RET_TOP3;FIQH_008;ibn_uthaymin;3;N;null
+qwen;NO_CTX;FIQH_009;hanafi;3;F;نَجِس
+qwen;NO_CTX;FIQH_009;maliki;3;F;نَجِس
+qwen;NO_CTX;FIQH_009;shafii;3;R;نَجِس
+qwen;NO_CTX;FIQH_009;hanbali;3;R;نَجِس
+qwen;NO_CTX;FIQH_009;ibn_baz;3;R;نَجِس
+qwen;NO_CTX;FIQH_009;ibn_uthaymin;3;R;نَجِس
+qwen;ORACLE;FIQH_008;hanafi;3;N;null
+qwen;ORACLE;FIQH_008;maliki;3;N;null
+qwen;ORACLE;FIQH_008;shafii;3;N;null
+qwen;ORACLE;FIQH_008;hanbali;3;N;null
+qwen;ORACLE;FIQH_008;ibn_uthaymin;3;N;null
+qwen;ORACLE;FIQH_009;hanafi;3;?;طهارة
+qwen;ORACLE;FIQH_009;maliki;3;?;طهارة
+qwen;ORACLE;FIQH_009;shafii;3;?;نجاسة
+qwen;ORACLE;FIQH_009;hanbali;3;?;نجاسة
+qwen;ORACLE;FIQH_009;ibn_baz;3;?;نجاسة
+qwen;ORACLE;FIQH_009;ibn_uthaymin;3;N;null
+qwen;WRONG;FIQH_009;hanafi;3;N;null
+qwen;WRONG;FIQH_009;maliki;3;N;null
+qwen;WRONG;FIQH_009;shafii;3;N;null
+qwen;WRONG;FIQH_009;hanbali;3;N;null
+qwen;WRONG;FIQH_009;ibn_baz;3;?;حلال
+qwen;WRONG;FIQH_009;ibn_uthaymin;3;N;null
+qwen;RET_TOP3;FIQH_009;hanafi;3;F;نجس
+qwen;RET_TOP3;FIQH_009;maliki;3;F;نجس
+qwen;RET_TOP3;FIQH_009;shafii;3;R;نجس
+qwen;RET_TOP3;FIQH_009;hanbali;3;R;نجس
+qwen;RET_TOP3;FIQH_009;ibn_baz;3;R;نجس
+qwen;RET_TOP3;FIQH_009;ibn_uthaymin;3;R;نجس
+qwen;NO_CTX;FIQH_010;hanafi;3;F;يجب
+qwen;NO_CTX;FIQH_010;maliki;3;F;يجب
+qwen;NO_CTX;FIQH_010;shafii;3;R;يجب
+qwen;NO_CTX;FIQH_010;hanbali;3;F;يجب
+qwen;NO_CTX;FIQH_010;ibn_baz;3;R;يجب
+qwen;NO_CTX;FIQH_010;ibn_uthaymin;3;R;يجب
+qwen;RET_TOP3;FIQH_010;hanafi;3;N;null
+qwen;RET_TOP3;FIQH_010;maliki;3;R;لا تجبي القراءة على المأموم
+qwen;RET_TOP3;FIQH_010;shafii;3;N;null
+qwen;RET_TOP3;FIQH_010;hanbali;3;R;لا تجبي القراءة على المأموم
+qwen;RET_TOP3;FIQH_010;ibn_baz;3;R;تجب قراءة الفاتحة على المأموم
+qwen;RET_TOP3;FIQH_010;ibn_uthaymin;3;N;null
+qwen;ORACLE;FIQH_010;hanafi;3;N;null
+qwen;ORACLE;FIQH_010;maliki;3;R;لا تجب
+qwen;ORACLE;FIQH_010;shafii;3;N;null
+qwen;ORACLE;FIQH_010;hanbali;3;R;لا تجب
+qwen;ORACLE;FIQH_010;ibn_baz;3;R;تجب
+qwen;ORACLE;FIQH_010;ibn_uthaymin;3;N;null
+qwen;WRONG;FIQH_010;hanafi;3;N;null
+qwen;WRONG;FIQH_010;maliki;3;N;null
+qwen;WRONG;FIQH_010;shafii;3;N;null
+qwen;WRONG;FIQH_010;hanbali;3;N;null
+qwen;WRONG;FIQH_010;ibn_baz;3;?;لا مانع من الجهر بالبسملة، ولكن السر بها أفضل
+qwen;WRONG;FIQH_010;ibn_uthaymin;3;N;null

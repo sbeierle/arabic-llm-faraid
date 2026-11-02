@@ -1,0 +1,2489 @@
+{
+ "note": "Passage texts are not redistributed. Rebuild with scripts/fiqh_cdp_scrape*.py and scripts/build_v12.py, then compare sha256 per passage.",
+ "passages": [
+  {
+   "index": 0,
+   "qid": "FIQH_001",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/387736/%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D8%A8%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9",
+   "chars": 802,
+   "sha256": "5272c08e2fd08aec3ba185a9158c59d086deb0a66cbf58aa565bfbe021753a20",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P000"
+  },
+  {
+   "index": 1,
+   "qid": "FIQH_001",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/387736/%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D8%A8%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9",
+   "chars": 1065,
+   "sha256": "833242659c11af3232c915201e6de095b83779744ff3c83f56e1936a63334caa",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P001"
+  },
+  {
+   "index": 2,
+   "qid": "FIQH_001",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/387736/%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D8%A8%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9",
+   "chars": 477,
+   "sha256": "2015110d4606df3d7bba9cda14164d3a2c88fd4bdb64106aad80fc73d617467b",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P002"
+  },
+  {
+   "index": 3,
+   "qid": "FIQH_001",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/index.php/book/11430/22743",
+   "chars": 706,
+   "sha256": "854190ff7cd39144151051e3ce3fee09ed0a9fdaf80655f3242e5bc6b497b529",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P003"
+  },
+  {
+   "index": 4,
+   "qid": "FIQH_001",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/index.php/book/11430/22743",
+   "chars": 826,
+   "sha256": "d8a792da06fd4abd7d0ab9772c13860ebad9274cd204f0fd09d1b3a6fd018e23",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P004"
+  },
+  {
+   "index": 5,
+   "qid": "FIQH_001",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/3748/%D9%87%D9%84-%D9%84%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D9%8A%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 614,
+   "sha256": "60b3578de6cc1487fe0039d376a97671b2f2950e3a27482bb9d305afa6500225",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P005"
+  },
+  {
+   "index": 6,
+   "qid": "FIQH_001",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/3748/%D9%87%D9%84-%D9%84%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D9%8A%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 1195,
+   "sha256": "32542e12bc7eeb14ba3dffa535ec93973c99ad4c952cc69ab521c525c05067a5",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P006"
+  },
+  {
+   "index": 7,
+   "qid": "FIQH_001",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/3748/%D9%87%D9%84-%D9%84%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D9%8A%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 499,
+   "sha256": "c6bb0313e87066fd576043deedaf66f42f2f8891dd811b835ff723cd252e48b7",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P007"
+  },
+  {
+   "index": 8,
+   "qid": "FIQH_001",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/3747/%D9%84%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%87%D9%84-%D9%8A%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 1183,
+   "sha256": "bff79186a79f485dc335355352db726800f2113a3e70892af5b3fc52d5a9f2df",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P008"
+  },
+  {
+   "index": 9,
+   "qid": "FIQH_001",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/3747/%D9%84%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%87%D9%84-%D9%8A%D9%86%D9%82%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 1108,
+   "sha256": "060c879113fce98bf942bed89ff7bd47af6b402496d6c3db1f42cabcaba25197",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P009"
+  },
+  {
+   "index": 10,
+   "qid": "FIQH_001",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/6832",
+   "chars": 778,
+   "sha256": "3cd3a770322d504d59b9d8911c94adcd0553cb89ddc34b7c05f24367f3008ef5",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P010"
+  },
+  {
+   "index": 11,
+   "qid": "FIQH_001",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/6832",
+   "chars": 1200,
+   "sha256": "3ac0c6d8727fe567bbcd6134473d31241e58b6e4937cedc836c46a0408d5da35",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P011"
+  },
+  {
+   "index": 12,
+   "qid": "FIQH_001",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/6832",
+   "chars": 1200,
+   "sha256": "f84f7c4971c020e19423cb4a433cb532f927cfcc5b6110c6877b88fee3ccf697",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P012"
+  },
+  {
+   "index": 13,
+   "qid": "FIQH_001",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/6832",
+   "chars": 1200,
+   "sha256": "a27179590a36e36c6635738fc394982276a0a99a07334612a88f3ff9c659fef6",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P013"
+  },
+  {
+   "index": 14,
+   "qid": "FIQH_001",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/6832",
+   "chars": 260,
+   "sha256": "03953599141cd1ea59bc3225165cd5f0d50613c2b8aa2ebddd37bad2df228e7d",
+   "shared": false,
+   "qids": [
+    "FIQH_001"
+   ],
+   "pid": "P014"
+  },
+  {
+   "index": 15,
+   "qid": "FIQH_002",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/159693/%D9%85%D8%B0%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D9%81%D9%8A-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D8%B1%D8%A7%D8%A6%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 1134,
+   "sha256": "be9703c62a5daf0105cb8ab15e7b67408fc00ae275cb2f0cdc5c83f80f2d4631",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P015"
+  },
+  {
+   "index": 16,
+   "qid": "FIQH_002",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/159693/%D9%85%D8%B0%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D9%81%D9%8A-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D8%B1%D8%A7%D8%A6%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 982,
+   "sha256": "1f97c84874b80b60ebba0b2e8c8751d5bf8ae61adcacc8881988ac9b8cd02a4f",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P016"
+  },
+  {
+   "index": 17,
+   "qid": "FIQH_002",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/159693/%D9%85%D8%B0%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D9%81%D9%8A-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D8%B1%D8%A7%D8%A6%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 1070,
+   "sha256": "1283b58ff68e6b601a74a28c0cbd561e3ab848234965f9b4e6f9e5be21fb1a15",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P017"
+  },
+  {
+   "index": 18,
+   "qid": "FIQH_002",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/28798",
+   "chars": 896,
+   "sha256": "e6f447f7b08e7bd80fc2a1be2812afec0335f5f0277e732b1713ed4cf8dfc5b7",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P018"
+  },
+  {
+   "index": 19,
+   "qid": "FIQH_002",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/28798",
+   "chars": 748,
+   "sha256": "b573e139aa6887409a7094b076b811ddf9e923bbcf4294888e583e62d50e4e50",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P019"
+  },
+  {
+   "index": 20,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/9708/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 1199,
+   "sha256": "a39de0663d86ae8a97a2d9b3951a6fe9c6b569bb9e1cbba785649e26e9a466f0",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P020"
+  },
+  {
+   "index": 21,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/9708/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "chars": 824,
+   "sha256": "5db2b307bd7002cf9ed4d13209f3597f648f85c50040ec2784d40778c2bf3562",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P021"
+  },
+  {
+   "index": 22,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/13505/%D9%81%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D9%88%D8%B3%D9%86%D9%86%D9%87",
+   "chars": 623,
+   "sha256": "ffaf774b96ec2847a913882675bd33c77e88e05d0e7952a1e9b1b1cd96b2ecee",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P022"
+  },
+  {
+   "index": 23,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/13505/%D9%81%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D9%88%D8%B3%D9%86%D9%86%D9%87",
+   "chars": 812,
+   "sha256": "d2fd2382fcf3ca36d469ff4d768fb1f14d4433d1c48545881a7034c2f8edcea4",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P023"
+  },
+  {
+   "index": 24,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/13505/%D9%81%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D9%88%D8%B3%D9%86%D9%86%D9%87",
+   "chars": 1181,
+   "sha256": "dea9e2c502f8c4f06ac8d3160c3a66d07c43f229fb8b51ebec61377baf66fd1f",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P024"
+  },
+  {
+   "index": 25,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/13505/%D9%81%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D9%88%D8%B3%D9%86%D9%86%D9%87",
+   "chars": 1163,
+   "sha256": "02b215343abac63c96cf94e8c2ae0ece2b4a39954875222e5156fc35bdfbb120",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P025"
+  },
+  {
+   "index": 26,
+   "qid": "FIQH_002",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/13505/%D9%81%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D9%88%D8%B3%D9%86%D9%86%D9%87",
+   "chars": 799,
+   "sha256": "6b38f478788567789da9289dc9cebf4e9739655c7a17b00a2426c170adeba785",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P026"
+  },
+  {
+   "index": 27,
+   "qid": "FIQH_002",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/10140",
+   "chars": 797,
+   "sha256": "856439eaab6d259f0e117201faf8b275f4a2130221b33713e64bb54dd8487bcb",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P027"
+  },
+  {
+   "index": 28,
+   "qid": "FIQH_002",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/10140",
+   "chars": 1199,
+   "sha256": "9dce3dd292613cad7fed0be31714e9d7e41b2d0b788c3a899734892934aeb4b8",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P028"
+  },
+  {
+   "index": 29,
+   "qid": "FIQH_002",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/10140",
+   "chars": 303,
+   "sha256": "fe3c0d9d0b585447b3cd458d8f70409e806eb9b23697ab1b4f966b0ab8207b3f",
+   "shared": false,
+   "qids": [
+    "FIQH_002"
+   ],
+   "pid": "P029"
+  },
+  {
+   "index": 30,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/78187/%D8%AD%D9%83%D9%85-%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D8%A8%D8%B1%D9%8A",
+   "chars": 1160,
+   "sha256": "eebe85d16687a3aff6a3c348a4692186d225e296ceb0ed947d7fc2517f4ceed0",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P030"
+  },
+  {
+   "index": 31,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/78187/%D8%AD%D9%83%D9%85-%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D8%A8%D8%B1%D9%8A",
+   "chars": 233,
+   "sha256": "541461731d971ee17eed7aa98afb4f299e0577072b6503aa9ba42269d0bced77",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P031"
+  },
+  {
+   "index": 32,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/27956",
+   "chars": 1168,
+   "sha256": "d43b3d4afc208ca9569cc602672de8b310c534e5e24035a184994357b4389d35",
+   "shared": true,
+   "qids": [
+    "FIQH_003",
+    "FIQH_004"
+   ],
+   "pid": "P032"
+  },
+  {
+   "index": 33,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/27956",
+   "chars": 284,
+   "sha256": "740a1c7aed5869f8dd91624b013291d4da79da7b65286bfa95208b597706a7ec",
+   "shared": true,
+   "qids": [
+    "FIQH_003",
+    "FIQH_004"
+   ],
+   "pid": "P033"
+  },
+  {
+   "index": 34,
+   "qid": "FIQH_003",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/25340/%D9%87%D9%84-%D8%AC%D9%85%D9%8A%D8%B9-%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D8%B7%D9%84%D9%82%D8%A7",
+   "chars": 1169,
+   "sha256": "7a65dbee68e82ebfd5389ff905086cf051cf8fd29474f993097e8bfc72773a72",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P034"
+  },
+  {
+   "index": 35,
+   "qid": "FIQH_003",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/25340/%D9%87%D9%84-%D8%AC%D9%85%D9%8A%D8%B9-%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D8%B7%D9%84%D9%82%D8%A7",
+   "chars": 408,
+   "sha256": "d9cca69b5085ffa1ece480dfda9a757ccdf4f9f023733e22a2ec0c658c64d370",
+   "shared": true,
+   "qids": [
+    "FIQH_003",
+    "FIQH_005"
+   ],
+   "pid": "P035"
+  },
+  {
+   "index": 36,
+   "qid": "FIQH_003",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/22251/%D8%AD%D9%83%D9%85-%D8%B1%D9%83%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D9%88%D9%85%D9%8A%D8%AA%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1",
+   "chars": 1177,
+   "sha256": "ef97050e46d7a95f67ccd86917cd54dc66a358ccad2b1af760be06e00696f813",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P036"
+  },
+  {
+   "index": 37,
+   "qid": "FIQH_003",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/22251/%D8%AD%D9%83%D9%85-%D8%B1%D9%83%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D9%88%D9%85%D9%8A%D8%AA%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1",
+   "chars": 356,
+   "sha256": "6eacee9ad4d8c24db4d29710fd43badc4d551db4225e98ae13ba49da4c832bf5",
+   "shared": true,
+   "qids": [
+    "FIQH_003",
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P037"
+  },
+  {
+   "index": 38,
+   "qid": "FIQH_003",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/3572",
+   "chars": 1191,
+   "sha256": "1b55d6ae94ce5f325747e1e2b1118a1418a395bc1b16fd61e55364d23364b306",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P038"
+  },
+  {
+   "index": 39,
+   "qid": "FIQH_004",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/6021/%D8%A3%D9%82%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%82%D9%87%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A3%D9%83%D9%84-%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D8%AE%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1",
+   "chars": 898,
+   "sha256": "76580e5dd276d0d7de7207bff8f331344b6a7107f0c85f744ba1a20ad91b7b41",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P039"
+  },
+  {
+   "index": 40,
+   "qid": "FIQH_004",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/6021/%D8%A3%D9%82%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%82%D9%87%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A3%D9%83%D9%84-%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D8%AE%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1",
+   "chars": 1095,
+   "sha256": "e854ee16200b5f8e4c01a151842c4fde2ff10697a17bea2987ae1ce452afcd3a",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P040"
+  },
+  {
+   "index": 41,
+   "qid": "FIQH_004",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/8544/%D8%AD%D9%83%D9%85-%D8%A7%D9%83%D9%84-%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D8%AE%D9%8A%D9%84",
+   "chars": 1195,
+   "sha256": "d2ce7f7a0fa220c368999a196e7428aa3ef9eae194d21b437ba039672fd368a6",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P041"
+  },
+  {
+   "index": 42,
+   "qid": "FIQH_004",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/8544/%D8%AD%D9%83%D9%85-%D8%A7%D9%83%D9%84-%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D8%AE%D9%8A%D9%84",
+   "chars": 551,
+   "sha256": "1096d4b24e77bb5520d09c8ec7a9813d7ac4ef7eced4cb6e269efece15b85a31",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P042"
+  },
+  {
+   "index": 43,
+   "qid": "FIQH_004",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/8626/%D8%A7%D9%83%D9%84-%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D8%AE%D9%8A%D9%84-%D8%AD%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A7-%D8%A7%D8%B0%D8%A7-%D8%A7%D8%AD%D8%AA%D9%8A%D8%AC-%D8%A7%D9%84%D9%8A%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF",
+   "chars": 1186,
+   "sha256": "d72d330247eee78dd119c9918932b2951580a62a47f665daf4d461a3c45f014e",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P043"
+  },
+  {
+   "index": 44,
+   "qid": "FIQH_004",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/8626/%D8%A7%D9%83%D9%84-%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D8%AE%D9%8A%D9%84-%D8%AD%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A7-%D8%A7%D8%B0%D8%A7-%D8%A7%D8%AD%D8%AA%D9%8A%D8%AC-%D8%A7%D9%84%D9%8A%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF",
+   "chars": 1008,
+   "sha256": "f64706a4606f1f6d7aceaa5341019ac5ef261589d9264f7c3d1a08802755a167",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P044"
+  },
+  {
+   "index": 45,
+   "qid": "FIQH_004",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/12633",
+   "chars": 1181,
+   "sha256": "3b1be36aefe8fdab93613c7a5439350cff3b81cf7289fa4d3d33a931ff78a238",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P045"
+  },
+  {
+   "index": 46,
+   "qid": "FIQH_004",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/12633",
+   "chars": 405,
+   "sha256": "8c51f0d772c01d7fb80cd973f063b13b59116fe48ef15d7ee7f2002271b08a01",
+   "shared": false,
+   "qids": [
+    "FIQH_004"
+   ],
+   "pid": "P046"
+  },
+  {
+   "index": 47,
+   "qid": "FIQH_005",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/449386/%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%81%D9%82%D9%87%D9%8A%D8%A9-%D9%84%D8%A7-%D8%A3%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9",
+   "chars": 1014,
+   "sha256": "61db09d2c5086bda1441b2af6d294d6bc908a894400456029707a80d0ac52ccf",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P047"
+  },
+  {
+   "index": 48,
+   "qid": "FIQH_005",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/449386/%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%81%D9%82%D9%87%D9%8A%D8%A9-%D9%84%D8%A7-%D8%A3%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9",
+   "chars": 1109,
+   "sha256": "5092f9e7f77b805206924f4d98800bb35b45fcc6118e1c850651ba45119a3207",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P048"
+  },
+  {
+   "index": 49,
+   "qid": "FIQH_005",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/449386/%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%81%D9%82%D9%87%D9%8A%D8%A9-%D9%84%D8%A7-%D8%A3%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9",
+   "chars": 1063,
+   "sha256": "d9906160a4141bc42a721199e0d4bb561d02273c38ffcce4d4d0e0d2cdfdf4c3",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P049"
+  },
+  {
+   "index": 50,
+   "qid": "FIQH_005",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/449386/%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%81%D9%82%D9%87%D9%8A%D8%A9-%D9%84%D8%A7-%D8%A3%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9",
+   "chars": 428,
+   "sha256": "bad3851d885a8a68ec5db53e887b8ad418f3a7928a62ceab7b91feac756ad558",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P050"
+  },
+  {
+   "index": 51,
+   "qid": "FIQH_005",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430exp_bu/9692",
+   "chars": 1154,
+   "sha256": "b8109a1480cb1fff74eed038ada3244b38918175d8e0586cdaff9331b394163c",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P051"
+  },
+  {
+   "index": 52,
+   "qid": "FIQH_005",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430exp_bu/9692",
+   "chars": 499,
+   "sha256": "7432becff39c3c99568bb8446351e2e50d18be9c195665ab2770cf0545d55acb",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P052"
+  },
+  {
+   "index": 53,
+   "qid": "FIQH_005",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/6110/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%B1%D9%8A%D8%A9",
+   "chars": 1188,
+   "sha256": "579d5e51a73c8a6daf4d28936efdc0fcf9d95ce8b6716effb877cb6f7c0de6d8",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P053"
+  },
+  {
+   "index": 54,
+   "qid": "FIQH_005",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/6110/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%B1%D9%8A%D8%A9",
+   "chars": 752,
+   "sha256": "417049d3bb46320e626888eb2a471076b8f4061f6176d71a377197a859f5cd6a",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P054"
+  },
+  {
+   "index": 55,
+   "qid": "FIQH_005",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/10392/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+   "chars": 671,
+   "sha256": "d365ea3be00ff0b24e7b9683580483e57cddea4154e70a23289e1baa4d0e95f2",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P055"
+  },
+  {
+   "index": 56,
+   "qid": "FIQH_005",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/10392/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+   "chars": 1073,
+   "sha256": "8f21a1b1aa711955b7988ccfc1c7e5e67c1aeaadac26ae08133ac6a041e783cd",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P056"
+  },
+  {
+   "index": 57,
+   "qid": "FIQH_005",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/10392/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+   "chars": 969,
+   "sha256": "f9034d94d09837e3ec200a5073f28fb55c34434290e877139995bbebf13a6bd0",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P057"
+  },
+  {
+   "index": 58,
+   "qid": "FIQH_005",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/10392/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B3%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+   "chars": 1186,
+   "sha256": "7d6b98bbc1fef64cf9c2d87c8aa00b36cedd2a8eb4984cfa9f64df682e9ed070",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P058"
+  },
+  {
+   "index": 59,
+   "qid": "FIQH_005",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7808",
+   "chars": 1043,
+   "sha256": "9949cfae0547b74f44befb62e4f258bb30fadfed4727348bcf0bc414f2591a97",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P059"
+  },
+  {
+   "index": 60,
+   "qid": "FIQH_005",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7808",
+   "chars": 1200,
+   "sha256": "6003b8c73cd31bc76de8a8941f0f6ca8406c6111a1606090f21e0237ce21b7c3",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P060"
+  },
+  {
+   "index": 61,
+   "qid": "FIQH_005",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7808",
+   "chars": 1193,
+   "sha256": "1038a91ad9040047a6370400953c73d0fd29cbfe51501d6ad089e178b1fe35d5",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P061"
+  },
+  {
+   "index": 62,
+   "qid": "FIQH_005",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7808",
+   "chars": 431,
+   "sha256": "db6fcb9799f6379dc0a79ee8d8b83b99e9513b80ba6d746de4b1ae9f8280cc75",
+   "shared": false,
+   "qids": [
+    "FIQH_005"
+   ],
+   "pid": "P062"
+  },
+  {
+   "index": 63,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/474607/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%AA%D8%B2%D9%88%D8%AC%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D9%88%D8%A8%D8%BA%D9%8A%D8%B1-%D9%88%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%B4%D9%87%D9%88%D8%AF",
+   "chars": 748,
+   "sha256": "949852fcd2064738be8dba885b666ea1e351108d06880df863ecc4e7be477b76",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P063"
+  },
+  {
+   "index": 64,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/474607/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%AA%D8%B2%D9%88%D8%AC%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D9%88%D8%A8%D8%BA%D9%8A%D8%B1-%D9%88%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%B4%D9%87%D9%88%D8%AF",
+   "chars": 1022,
+   "sha256": "86b577cf416957302abf91057ae9a5362c15a3ee4d779f8b8ba44c4072a7aa81",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P064"
+  },
+  {
+   "index": 65,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/474607/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%AA%D8%B2%D9%88%D8%AC%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D9%88%D8%A8%D8%BA%D9%8A%D8%B1-%D9%88%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%B4%D9%87%D9%88%D8%AF",
+   "chars": 1083,
+   "sha256": "435f7a5377cd7c4583378ebb053e8aab1edaa07770cdcae4a78372c9f8145c5c",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P065"
+  },
+  {
+   "index": 66,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/474607/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%AA%D8%B2%D9%88%D8%AC%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D9%88%D8%A8%D8%BA%D9%8A%D8%B1-%D9%88%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%B4%D9%87%D9%88%D8%AF",
+   "chars": 1018,
+   "sha256": "65c6716421a8c3db9c5c8b10f6219a028467a60e3460b0fd9e7d1243f25303cd",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P066"
+  },
+  {
+   "index": 67,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/474607/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%AA%D8%B2%D9%88%D8%AC%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D9%88%D8%A8%D8%BA%D9%8A%D8%B1-%D9%88%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%B4%D9%87%D9%88%D8%AF",
+   "chars": 212,
+   "sha256": "21af1fc91f1c92b7064b0df74f69a94079ac7be82a0d7f6f203f88ff2534bd3a",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P067"
+  },
+  {
+   "index": 68,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/38056/1074",
+   "chars": 1014,
+   "sha256": "d568b1d9bbf9cdcd84fb1fd1b7dd56493b4bec142f0fc2edc1ea96a7f2bba186",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P068"
+  },
+  {
+   "index": 69,
+   "qid": "FIQH_006",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/12666/%D8%AD%D9%83%D9%85-%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D9%88%D9%84%D9%8A",
+   "chars": 1071,
+   "sha256": "41ec6cf057c4a35e5b435cda7e3f606fad177352b8e00bd5f267f6762dd90f18",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P069"
+  },
+  {
+   "index": 70,
+   "qid": "FIQH_006",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/12666/%D8%AD%D9%83%D9%85-%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D9%88%D9%84%D9%8A",
+   "chars": 1179,
+   "sha256": "6021660df63ebaa591cc8b530d2586af56ed21dae7ae55b128fa6d51b2830bc9",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P070"
+  },
+  {
+   "index": 71,
+   "qid": "FIQH_006",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/7804/%D8%AD%D9%83%D9%85-%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D9%87%D8%AF%D9%8A%D9%86-%D8%A7%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%88%D9%84%D9%8A",
+   "chars": 869,
+   "sha256": "77db49a8dc56f7021df7d6d3508341024607a90597aac73727fac7589ed6583b",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P071"
+  },
+  {
+   "index": 72,
+   "qid": "FIQH_006",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/7804/%D8%AD%D9%83%D9%85-%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D9%87%D8%AF%D9%8A%D9%86-%D8%A7%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%88%D9%84%D9%8A",
+   "chars": 1200,
+   "sha256": "f6e18ef13ee8cf2b2755c6096d7bbd1f8dee73529316bb4c5e672c4687578d2d",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P072"
+  },
+  {
+   "index": 73,
+   "qid": "FIQH_006",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/7804/%D8%AD%D9%83%D9%85-%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D9%87%D8%AF%D9%8A%D9%86-%D8%A7%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%88%D9%84%D9%8A",
+   "chars": 1174,
+   "sha256": "6bab39093f5c7e26b46a3a50b7f73af90a2e957ffc55028b84244b1dda9a8422",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P073"
+  },
+  {
+   "index": 74,
+   "qid": "FIQH_006",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/10707",
+   "chars": 909,
+   "sha256": "5b3415f75c86ad2152bb033b250c0dadc2c2d3da6136ea90a019c4550dcb4ab1",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P074"
+  },
+  {
+   "index": 75,
+   "qid": "FIQH_006",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/10707",
+   "chars": 1071,
+   "sha256": "0a8354801012c1ef4d8c2a7d19085ecde809498ba500cc4a1ad009d08a3aa71c",
+   "shared": false,
+   "qids": [
+    "FIQH_006"
+   ],
+   "pid": "P075"
+  },
+  {
+   "index": 76,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php?page=TreeCategory&ID=6601",
+   "chars": 1197,
+   "sha256": "fbfc84f331774e641e1401df6913618676a664257da36503d3ffb1309b3265f9",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P076"
+  },
+  {
+   "index": 77,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php?page=TreeCategory&ID=6601",
+   "chars": 1195,
+   "sha256": "3f6b84faf55bfe6140b25c0b6fe20595abe7be722339bed0dc928737e33d504b",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P077"
+  },
+  {
+   "index": 78,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php?page=TreeCategory&ID=6601",
+   "chars": 1155,
+   "sha256": "c98fe63ad589c67c8161354b1844047bba4c420420af333d891ad2f4348ff546",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P078"
+  },
+  {
+   "index": 79,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php?page=TreeCategory&ID=6601",
+   "chars": 1140,
+   "sha256": "c5c538588faf0b4eaefb699440cbe5c0dc78d03367288d10b793148a4c992271",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P079"
+  },
+  {
+   "index": 80,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php?page=TreeCategory&ID=6601",
+   "chars": 1187,
+   "sha256": "d97e35329e5845a5ed9d4e93262ee8703ec7ccb5e74b31e617a294f1925f1db3",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P080"
+  },
+  {
+   "index": 81,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php?page=TreeCategory&ID=6601",
+   "chars": 329,
+   "sha256": "eea604a55bdc4738c7a30c720bc18b06787e9a2766ef3eedf49e1ecf671d203b",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P081"
+  },
+  {
+   "index": 82,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%252029/12230",
+   "chars": 995,
+   "sha256": "ed95f0209bf412b07bd99bd47c9c5a4d6e56a8bc9343d68a91997de8b245b9e2",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P082"
+  },
+  {
+   "index": 83,
+   "qid": "FIQH_007",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%252029/12230",
+   "chars": 257,
+   "sha256": "97ba6e25f1e0e7cabda01150253db7513bb1ce393c23688b365a0b564175d996",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P083"
+  },
+  {
+   "index": 84,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/5916/%D8%AD%D9%83%D9%85-%D8%AE%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D9%84%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A8%D8%A7%D9%89%D8%B9",
+   "chars": 1069,
+   "sha256": "14650743258bd642e486988cefc2d9121ac9e1914667684bf296090f14279f9c",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P084"
+  },
+  {
+   "index": 85,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 615,
+   "sha256": "d5ee53df8656394a752b444df607f83152f92cd74b21c521da26e58ffe6d0dd9",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P085"
+  },
+  {
+   "index": 86,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 1047,
+   "sha256": "f90973c8c11de5cc4f35cf012e24706fb94f1600a4ed21debdad7c20fc344212",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P086"
+  },
+  {
+   "index": 87,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 1180,
+   "sha256": "1c7f0eb4fe089062c99daa0ccb4079ea9a55292234f9db980e636f6bb66eca3a",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P087"
+  },
+  {
+   "index": 88,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 1125,
+   "sha256": "6b751af7bae9dc422abce15862f88bf79ea5681c799dc5243d093b18e49f2764",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P088"
+  },
+  {
+   "index": 89,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 1184,
+   "sha256": "e95fea15e76c7214c3f569f2bf26bbd9333813b157e6ef4e9907cb5492805330",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P089"
+  },
+  {
+   "index": 90,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 1157,
+   "sha256": "01fcb49a9214b2c29c6604c859b9532e48833bb855263fb4546c4c2e9231860d",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P090"
+  },
+  {
+   "index": 91,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 841,
+   "sha256": "c98d97ade827f9ba3e0295a7aa9243f49f9e3a7428b010828682c2e3e3e5fbb0",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P091"
+  },
+  {
+   "index": 92,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 830,
+   "sha256": "d6ce3c850da5e0784b4e047847e2aa857991ba69822179e40098de26968bfcce",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P092"
+  },
+  {
+   "index": 93,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 1163,
+   "sha256": "508c7f3ccc7a936f0dc76b5a57a7c3ed6b7aff073db0e123c616e44f4fc360bc",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P093"
+  },
+  {
+   "index": 94,
+   "qid": "FIQH_007",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/3336/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%81%D8%B1%D9%82%D8%A7",
+   "chars": 775,
+   "sha256": "322439f156932e0275755b258019ad782c0d3bf16c5f29e783c3c2f1fc36ddc2",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P094"
+  },
+  {
+   "index": 95,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/12190",
+   "chars": 870,
+   "sha256": "8046a0214dc2ec6b394c2609417efdfab4328dc257ed93670145a2acd27f9337",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P095"
+  },
+  {
+   "index": 96,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/12190",
+   "chars": 1196,
+   "sha256": "b697473b64dac809ff60dfcadfd5021f65e232cf2ec07992cac379aeac5fe415",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P096"
+  },
+  {
+   "index": 97,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 1092,
+   "sha256": "2e134035e200cc70776090283ea04e1afad2148e455d1985479815a33b8bd061",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P097"
+  },
+  {
+   "index": 98,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 1021,
+   "sha256": "984a09c47134038d24678216a2be8199b08ca87df1ee480b73683d2e4b473686",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P098"
+  },
+  {
+   "index": 99,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 1184,
+   "sha256": "d8bcd8c52b72be91bc5d428aa524a81487069555fcba5436b41d79f6c68ff5ad",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P099"
+  },
+  {
+   "index": 100,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 1174,
+   "sha256": "581a32ab2d05d9fae11131dd47580c97fa43e70755c52f27ddc9a1b55b136a0b",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P100"
+  },
+  {
+   "index": 101,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 1197,
+   "sha256": "e2b50722706c994ca0c434031d87335724d81650e2b95d2e398f672d9c953fd2",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P101"
+  },
+  {
+   "index": 102,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 1191,
+   "sha256": "49481fb3748543ba22ed39a465523c2f989feb365ca66a52c021dee8a22c6fe4",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P102"
+  },
+  {
+   "index": 103,
+   "qid": "FIQH_007",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/",
+   "chars": 317,
+   "sha256": "694185cbadc857c09c480a862902fd15a1fffb5e2898ec14cf95fb0bb3615533",
+   "shared": true,
+   "qids": [
+    "FIQH_007",
+    "FIQH_009"
+   ],
+   "pid": "P103"
+  },
+  {
+   "index": 104,
+   "qid": "FIQH_007",
+   "source": "lajna_daima",
+   "url": "http://www.alifta.gov.sa/",
+   "chars": 1192,
+   "sha256": "365d9a5b7e06477eab852312cea5d151b884f20bda9a26b35912097d966ae5af",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P104"
+  },
+  {
+   "index": 105,
+   "qid": "FIQH_007",
+   "source": "lajna_daima",
+   "url": "http://www.alifta.gov.sa/",
+   "chars": 1187,
+   "sha256": "112f1e333a6cafe9b90509f358d6ca5ca312ebacee634c31946c19f359995edd",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P105"
+  },
+  {
+   "index": 106,
+   "qid": "FIQH_007",
+   "source": "lajna_daima",
+   "url": "http://www.alifta.gov.sa/",
+   "chars": 131,
+   "sha256": "b0dbc26b7d643681f45bd18aa9e353931a0a8f93ec8218f62ec0b35cf344e048",
+   "shared": false,
+   "qids": [
+    "FIQH_007"
+   ],
+   "pid": "P106"
+  },
+  {
+   "index": 107,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/98347/%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%AC%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%A8%D8%A7%D8%A8",
+   "chars": 1072,
+   "sha256": "36bbeb8308c62f14a4402576e9442a9977c5dd66adc53446502117ee24eaa498",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P107"
+  },
+  {
+   "index": 108,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/98347/%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%AC%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%A8%D8%A7%D8%A8",
+   "chars": 944,
+   "sha256": "e0b8c73e6e7c4c3a2c152f9ee328cec6949659463bb154a1494f84448cacc754",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P108"
+  },
+  {
+   "index": 109,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/38056/144",
+   "chars": 1148,
+   "sha256": "83578f6df335fe3eaa4b4734c4fbc0b407c9644575f6878c6fa4c12eaa5c7ca3",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P109"
+  },
+  {
+   "index": 110,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/38056/144",
+   "chars": 1045,
+   "sha256": "daffd7d3e3cb0cf21d6f116b679a99b8b34435ed03d724fd99081930a60f77bd",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P110"
+  },
+  {
+   "index": 111,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/38056/144",
+   "chars": 440,
+   "sha256": "521fd9a5b969e523fd6a24d7e190d4a3bcd94a30a373c7a8d203b4a7af05ec69",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P111"
+  },
+  {
+   "index": 112,
+   "qid": "FIQH_008",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/5020/%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D8%B1",
+   "chars": 865,
+   "sha256": "2f0c54ee0d1486449bb129ca724952e6f95172911e809be18d7abaf8b711a832",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P112"
+  },
+  {
+   "index": 113,
+   "qid": "FIQH_008",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/5020/%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D8%B1",
+   "chars": 1199,
+   "sha256": "be700f4fd9ba2a96698e48af87022c6cc9f6a1bc177b89347c311ec7d5d897ea",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P113"
+  },
+  {
+   "index": 114,
+   "qid": "FIQH_008",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/5020/%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D8%B1",
+   "chars": 570,
+   "sha256": "85ecede8d0dfec7591680767738531178e8e2121e0e385dc9bb4f2e4e7cd3ea3",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P114"
+  },
+  {
+   "index": 115,
+   "qid": "FIQH_008",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/16734/%D9%85%D8%AF%D8%A9-%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1",
+   "chars": 1138,
+   "sha256": "37746f71828c4a89fb45136c094a038ca5f48a98824d9939ba93704ad756a474",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P115"
+  },
+  {
+   "index": 116,
+   "qid": "FIQH_008",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/16734/%D9%85%D8%AF%D8%A9-%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1",
+   "chars": 1176,
+   "sha256": "c628b1edcebf8215afc290caffdb26b782c93ea5d23523fc3208c860ee79e46b",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P116"
+  },
+  {
+   "index": 117,
+   "qid": "FIQH_008",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/11899",
+   "chars": 796,
+   "sha256": "f01f5c9cf27ebb31bbdade48853a566ac37b3e6879fe6766695a0fca0590bdfb",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P117"
+  },
+  {
+   "index": 118,
+   "qid": "FIQH_008",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/11899",
+   "chars": 1197,
+   "sha256": "acd394770a9135adfb63cdab18c947eab1527c1ec809ba8faa1dedae875e1964",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P118"
+  },
+  {
+   "index": 119,
+   "qid": "FIQH_008",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/11899",
+   "chars": 150,
+   "sha256": "d83aedb4d69df849812322c18a6190c87cf2e729e1ae0a13da71d33f16ad729b",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P119"
+  },
+  {
+   "index": 120,
+   "qid": "FIQH_009",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php/index.php?page=listing&ID=762",
+   "chars": 1197,
+   "sha256": "9b678f6a35e76dcb5a74dc36c9f0276a23c62fdb162a8ce55eb7988cc8667539",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P120"
+  },
+  {
+   "index": 121,
+   "qid": "FIQH_009",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/index.php/index.php?page=listing&ID=762",
+   "chars": 488,
+   "sha256": "68dc794d1c9743fd80e8ed2607da1ee266788f3e99e296fc94f2e83d45aa4350",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P121"
+  },
+  {
+   "index": 122,
+   "qid": "FIQH_009",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/22337",
+   "chars": 913,
+   "sha256": "fbbec1a755cbeec9bca3f55cf8fa1b543db14020c5b20e6e3b76b9c127a608ad",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P122"
+  },
+  {
+   "index": 123,
+   "qid": "FIQH_009",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/22337",
+   "chars": 394,
+   "sha256": "774710f1dd2685840b04395840638785d30a8dd0655c00a6dd96b6eaafa6b641",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P123"
+  },
+  {
+   "index": 124,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/1243/%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D8%AC%D8%A7%D8%B2-%D8%B3%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D8%BA%D9%86%D8%A7%D8%A1-%D9%88%D9%82%D8%A7%D9%84-%D8%A8%D8%B7%D9%87%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%84%D8%A8",
+   "chars": 970,
+   "sha256": "0011e6c9e8c1d4aa3e7fee901e080652d91f22f92920ca6cc1f99070ea5bf902",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P124"
+  },
+  {
+   "index": 125,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/1243/%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D8%AC%D8%A7%D8%B2-%D8%B3%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D8%BA%D9%86%D8%A7%D8%A1-%D9%88%D9%82%D8%A7%D9%84-%D8%A8%D8%B7%D9%87%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%84%D8%A8",
+   "chars": 1024,
+   "sha256": "9055ad586d3ba8d15d543e78f9d4260c775f4ed66db17d52be1351ee5d50c5ab",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P125"
+  },
+  {
+   "index": 126,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1191,
+   "sha256": "8b16945619b657b23b9a266afca1cd408a3c54a8d803aa131726ebbb4673b68a",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P126"
+  },
+  {
+   "index": 127,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1115,
+   "sha256": "00bb69fa6f8f26158576ad88df47c2e0106e4b229b50bf7366ced3085478102e",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P127"
+  },
+  {
+   "index": 128,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1148,
+   "sha256": "73f2538f444b7c7b6a317a4cdfb0b6c58da6e287e0e40942a1ef83dd07def996",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P128"
+  },
+  {
+   "index": 129,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1173,
+   "sha256": "0f6e29005a22ce7396d7fb2a275d24151cbb77e6ad49a936beb1a6ede4e0aba5",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P129"
+  },
+  {
+   "index": 130,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1191,
+   "sha256": "e835d595229014798f8942baa81e09518013a11bb048db4e2b894311b7a9c740",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P130"
+  },
+  {
+   "index": 131,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1014,
+   "sha256": "0b0e0f9b5584f6363c22f8c555da5a0f37fb29b279d60b9c452fc9a450bc500d",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P131"
+  },
+  {
+   "index": 132,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1162,
+   "sha256": "7f4f91809f6b689e0c03b43a209d4eb6ff305618922053247fa614ff74960219",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P132"
+  },
+  {
+   "index": 133,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 1185,
+   "sha256": "fe73133d9853065edcac36504137813674a74d96322e4fe8f3d356b077afab28",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P133"
+  },
+  {
+   "index": 134,
+   "qid": "FIQH_009",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/audios/7/2--%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B7%D9%87%D9%88%D8%B1-%D8%A7%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AF%D9%83%D9%85-%D8%A7%D8%B0%D8%A7-%D9%88%D9%84%D8%BA-%D9%81%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%84%D8%A8-%D8%A7%D9%86-%D9%8A%D8%BA%D8%B3%D9%84%D9%87-%D8%B3%D8%A8%D8%B9-%D9%85%D8%B1%D8%A7%D8%AA",
+   "chars": 691,
+   "sha256": "e057bbcc09ec63f727e96b78bab406c5c3937dae043c193e42df533e72e037ba",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P134"
+  },
+  {
+   "index": 135,
+   "qid": "FIQH_009",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/s/D08R7Pq2",
+   "chars": 1144,
+   "sha256": "6e0906016a37875b384daf29a2d54f5cac6ac5bc337ef45f71a98297dd93edc1",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P135"
+  },
+  {
+   "index": 136,
+   "qid": "FIQH_009",
+   "source": "ibn_uthaymin",
+   "url": "https://binothaimeen.net/s/D08R7Pq2",
+   "chars": 412,
+   "sha256": "d940e125d61c996a9b4302e1a3513ee66c6e6f543e8a4d4ca8fd754006979e90",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P136"
+  },
+  {
+   "index": 137,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/283858/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%88%D8%B9%D8%AF%D9%85%D9%87%D8%A7-%D8%A3%D8%AF%D9%84%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A3%D8%AD%D9%83%D8%A7%D9%85",
+   "chars": 1118,
+   "sha256": "9e27e020521693a649f0b515cb3a23b27d5adab790dfbd2fb8472a4813716c60",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P137"
+  },
+  {
+   "index": 138,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/283858/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%88%D8%B9%D8%AF%D9%85%D9%87%D8%A7-%D8%A3%D8%AF%D9%84%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A3%D8%AD%D9%83%D8%A7%D9%85",
+   "chars": 985,
+   "sha256": "2c5b5cc5e246e842b2f71a131ede2cea5ae7cf78902035bec09ebb1c5d9ebadf",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P138"
+  },
+  {
+   "index": 139,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/283858/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%88%D8%B9%D8%AF%D9%85%D9%87%D8%A7-%D8%A3%D8%AF%D9%84%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A3%D8%AD%D9%83%D8%A7%D9%85",
+   "chars": 883,
+   "sha256": "91420ec2646eba09c82f1b4926aa306c54190210c18124b5b8b3be0849e222ed",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P139"
+  },
+  {
+   "index": 140,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/283858/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%88%D8%B9%D8%AF%D9%85%D9%87%D8%A7-%D8%A3%D8%AF%D9%84%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A3%D8%AD%D9%83%D8%A7%D9%85",
+   "chars": 1063,
+   "sha256": "75b058653ec0f18042a2aeebb81874d96023abe5a76e0ed662c85b8bc915a7d5",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P140"
+  },
+  {
+   "index": 141,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/283858/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%88%D8%B9%D8%AF%D9%85%D9%87%D8%A7-%D8%A3%D8%AF%D9%84%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A3%D8%AD%D9%83%D8%A7%D9%85",
+   "chars": 997,
+   "sha256": "20740f0657d790956f3995a8598e3ceeb8f9207329d8638bec8e84fe2f65e65a",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P141"
+  },
+  {
+   "index": 142,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/20883",
+   "chars": 1070,
+   "sha256": "19854d7970e760451f628646cee3bbfb04b724e48b1839eef14eb4885dd01651",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P142"
+  },
+  {
+   "index": 143,
+   "qid": "FIQH_010",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430bu/20883",
+   "chars": 514,
+   "sha256": "62cf6954ba4a614111acfe4b4ae8cb328f3ae41304b79bb33f6cf1cbfd2e9c31",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P143"
+  },
+  {
+   "index": 144,
+   "qid": "FIQH_010",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/19935/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D9%84%D9%84%D9%85%D8%A7%D9%85%D9%88%D9%85-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85",
+   "chars": 785,
+   "sha256": "d6a040a67433917c8ac7449e14eda87dea118e33afc34717893d913209e6b2cb",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P144"
+  },
+  {
+   "index": 145,
+   "qid": "FIQH_010",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/19935/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D9%84%D9%84%D9%85%D8%A7%D9%85%D9%88%D9%85-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85",
+   "chars": 1194,
+   "sha256": "3b6fb99bab341fa80acaa0e2b9affa5e7d14aea8513bd94cdbcd750904cc9765",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P145"
+  },
+  {
+   "index": 146,
+   "qid": "FIQH_010",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/19935/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D9%84%D9%84%D9%85%D8%A7%D9%85%D9%88%D9%85-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85",
+   "chars": 925,
+   "sha256": "817ec4226439b6c7adf73fc4a5638f9f2b9d6ee8008548c0ae2fb7b9a3b60202",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P146"
+  },
+  {
+   "index": 147,
+   "qid": "FIQH_010",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/16874/%D9%87%D9%84-%D9%8A%D8%AC%D8%A8-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85",
+   "chars": 1181,
+   "sha256": "8aa2bca129bd1d7e1fd4565a9efe0a5f543acc32edc883ff518e9a3f9179f873",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P147"
+  },
+  {
+   "index": 148,
+   "qid": "FIQH_010",
+   "source": "ibn_baz",
+   "url": "https://binbaz.org.sa/fatwas/16874/%D9%87%D9%84-%D9%8A%D8%AC%D8%A8-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85",
+   "chars": 944,
+   "sha256": "cc44f6c4c9ee7e58916e33e3ac8c2344ceb2e8dfec098c3150cd391f87096cec",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P148"
+  },
+  {
+   "index": 149,
+   "qid": "FIQH_010",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/9782",
+   "chars": 741,
+   "sha256": "490a57ead25c67e217f23b4452e08826aff845cab8b149f6229b806010b03b1b",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P149"
+  },
+  {
+   "index": 150,
+   "qid": "FIQH_010",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/9782",
+   "chars": 1092,
+   "sha256": "4da59bde76ebbbce2021997947558b8184bbbf8fadc5206c53774a881cfc48fc",
+   "shared": false,
+   "qids": [
+    "FIQH_010"
+   ],
+   "pid": "P150"
+  },
+  {
+   "index": 151,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/print.php?id=78187",
+   "chars": 728,
+   "sha256": "8bf54757e5016634cdcff603b91dd30b717d87749b31563ca222a3c1cb1d65d7",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P151"
+  },
+  {
+   "index": 152,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252029/10540",
+   "chars": 917,
+   "sha256": "299cca7d072ad9e39a970ba4ddaaaac63135be71d2be290efb991681b647387e",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P152"
+  },
+  {
+   "index": 153,
+   "qid": "FIQH_003",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252029/10540",
+   "chars": 725,
+   "sha256": "00c4e9b59a19bc7726b9640e174dae894ca2182c626c8192b11d6ad62754841b",
+   "shared": false,
+   "qids": [
+    "FIQH_003"
+   ],
+   "pid": "P153"
+  },
+  {
+   "index": 154,
+   "qid": "FIQH_006",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430.",
+   "chars": 720,
+   "sha256": "86e7d211bb786104291f3123a5cd2f2b2e791dec1b63ac90fec54f4aa95c2b11",
+   "shared": true,
+   "qids": [
+    "FIQH_006",
+    "FIQH_C01",
+    "FIQH_C04"
+   ],
+   "pid": "P154"
+  },
+  {
+   "index": 155,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/print.php?id=128379",
+   "chars": 994,
+   "sha256": "25cf2c6f6cd746f17590639ac39c588368d00b797313920f418757006647c727",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P155"
+  },
+  {
+   "index": 156,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/print.php?id=128379",
+   "chars": 1094,
+   "sha256": "2033740d5ecb877dec96399f44f0d05fe78c2f29b353c303023e97bc15493ae0",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P156"
+  },
+  {
+   "index": 157,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/fatwa/print.php?id=128379",
+   "chars": 396,
+   "sha256": "bad6ac368371dd52d76dd558ffc79c2800f819b5bd08654a6f57246618382b8a",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P157"
+  },
+  {
+   "index": 158,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252029/17137",
+   "chars": 1080,
+   "sha256": "f9a1de1281e52b23f6fc190ddfc1d42b62648ad5c2c766d1fce6d868aef5d287",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P158"
+  },
+  {
+   "index": 159,
+   "qid": "FIQH_008",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252029/17137",
+   "chars": 192,
+   "sha256": "df94176c66ff4221ca88f081fcef72fe8cb203b25a7a2226c138ef046ec37567",
+   "shared": false,
+   "qids": [
+    "FIQH_008"
+   ],
+   "pid": "P159"
+  },
+  {
+   "index": 160,
+   "qid": "FIQH_009",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7502",
+   "chars": 793,
+   "sha256": "4b97e6f955c58647f7ab2cfd95ae922b94079771a537c4dc12d03325fd59a901",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P160"
+  },
+  {
+   "index": 161,
+   "qid": "FIQH_009",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7502",
+   "chars": 1164,
+   "sha256": "772ed3844ab5fcb9b87c713425062b2d60888f784586b04cbf2305bfd8223eba",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P161"
+  },
+  {
+   "index": 162,
+   "qid": "FIQH_009",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7502",
+   "chars": 1193,
+   "sha256": "bf3441fa4b5250358891b45dc74bb293037e72890f86fbe24670cddcd61ced79",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P162"
+  },
+  {
+   "index": 163,
+   "qid": "FIQH_009",
+   "source": "ibn_uthaymin",
+   "url": "https://old.binothaimeen.net/content/7502",
+   "chars": 214,
+   "sha256": "b970c4a9bef11c6931772b1393c9728be615b0ffd774565ca71acb600003366e",
+   "shared": false,
+   "qids": [
+    "FIQH_009"
+   ],
+   "pid": "P163"
+  },
+  {
+   "index": 164,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1195,
+   "sha256": "2a46866e407d42fbe4a8c1c440a3dd8790f0343ca237a18f979010a5f5bde2d7",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P164"
+  },
+  {
+   "index": 165,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1180,
+   "sha256": "6011a8feb956e470b362066d96e67a174def3d54e09a9dbcc76df2612b2550bb",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P165"
+  },
+  {
+   "index": 166,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1185,
+   "sha256": "061b1397858c38376865a7385539604c5f589881ef3bad66258d1c9a81b50339",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P166"
+  },
+  {
+   "index": 167,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1193,
+   "sha256": "9c071e10f240ced31b1d1a64c98096def41f95961eda0c8851830236cbb0bebc",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P167"
+  },
+  {
+   "index": 168,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1188,
+   "sha256": "9523cf54592b8e4d1e2c649f22ae3dd11aacfd9ba4ac134684ec36e9989a645a",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P168"
+  },
+  {
+   "index": 169,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1121,
+   "sha256": "16fe66afbe35cf648814c807f6e8a2831d3f6d913cfa89dc79b89851fc26316a",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P169"
+  },
+  {
+   "index": 170,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 977,
+   "sha256": "400a5331cfd08a985202c9d266aeba60962bbf234a4e4f821e237c9f1f4189bb",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P170"
+  },
+  {
+   "index": 171,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 1066,
+   "sha256": "317a3012bd434b162543535bbec49d40df192b807c308bcf0b4c69322a17403b",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P171"
+  },
+  {
+   "index": 172,
+   "qid": "FIQH_C01",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/212/91/%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%B2%D9%8A%D8%B1",
+   "chars": 641,
+   "sha256": "d1f0b606c54f8462a4fd5ab155ca1c47231589c818ce7a33cc88d1c7f98315ba",
+   "shared": false,
+   "qids": [
+    "FIQH_C01"
+   ],
+   "pid": "P172"
+  },
+  {
+   "index": 173,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/75/309/%D8%A8%D8%A7%D8%A8-%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A3%D9%86-%D9%84%D8%A7-%D9%81%D8%B1%D8%B6-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D8%B3",
+   "chars": 1135,
+   "sha256": "0cb10375c78777317e31c17010fe73c5461cf5190f140ae31ffa330e66220e8b",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P173"
+  },
+  {
+   "index": 174,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/75/309/%D8%A8%D8%A7%D8%A8-%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A3%D9%86-%D9%84%D8%A7-%D9%81%D8%B1%D8%B6-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D8%B3",
+   "chars": 1186,
+   "sha256": "18e41660a39209335cbf1ffa5ce55fa2e6f0dcd8057b71a96c2d3b1930ef3b9d",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P174"
+  },
+  {
+   "index": 175,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/75/309/%D8%A8%D8%A7%D8%A8-%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A3%D9%86-%D9%84%D8%A7-%D9%81%D8%B1%D8%B6-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D8%B3",
+   "chars": 1156,
+   "sha256": "8c0a1f042ca4e3c97e12ead04d2a42275ad80d5dfe9377742b4bdf8b8a8081db",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P175"
+  },
+  {
+   "index": 176,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/75/309/%D8%A8%D8%A7%D8%A8-%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A3%D9%86-%D9%84%D8%A7-%D9%81%D8%B1%D8%B6-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D8%B3",
+   "chars": 1158,
+   "sha256": "639b5dfd4fda62e79e8442a0e0473d81c8c50c118df9f921661d6ab0a419ae62",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P176"
+  },
+  {
+   "index": 177,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/75/309/%D8%A8%D8%A7%D8%A8-%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A3%D9%86-%D9%84%D8%A7-%D9%81%D8%B1%D8%B6-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D8%B3",
+   "chars": 1124,
+   "sha256": "5a0ea768396d34a7da0eb0c6da5449c824dd9df609a651f24191c537cbed60a6",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P177"
+  },
+  {
+   "index": 178,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%252029/16711",
+   "chars": 1003,
+   "sha256": "50ee3b2e23d58ead6f387055bc9a5dfa3a0b769c3ae5786d91fd10a660367b43",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P178"
+  },
+  {
+   "index": 179,
+   "qid": "FIQH_C02",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%252029/16711",
+   "chars": 682,
+   "sha256": "925d70370eca95174144d9fec56d25da130b9bc333df4269393737c755a74d34",
+   "shared": false,
+   "qids": [
+    "FIQH_C02"
+   ],
+   "pid": "P179"
+  },
+  {
+   "index": 180,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/0/1796/%D8%A8%D8%A7%D8%A8-%D9%88%D8%AC%D9%88%D8%A8-%D8%B5%D9%88%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
+   "chars": 1196,
+   "sha256": "52a2ffc0c29197d6c09a118be68053e2575c169b5073da4b47396ce0c7bbaced",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P180"
+  },
+  {
+   "index": 181,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/0/1796/%D8%A8%D8%A7%D8%A8-%D9%88%D8%AC%D9%88%D8%A8-%D8%B5%D9%88%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
+   "chars": 1170,
+   "sha256": "cc983e23625d19ccb89fbd518d1bcf4f746dcf88b9828cb2d28361b9e627efb3",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P181"
+  },
+  {
+   "index": 182,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/0/1796/%D8%A8%D8%A7%D8%A8-%D9%88%D8%AC%D9%88%D8%A8-%D8%B5%D9%88%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
+   "chars": 1189,
+   "sha256": "3c7fd5ea53dac5055dfebb87a24ee9e7f4b2b034916a4f697be6ea46fd9a2688",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P182"
+  },
+  {
+   "index": 183,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/0/1796/%D8%A8%D8%A7%D8%A8-%D9%88%D8%AC%D9%88%D8%A8-%D8%B5%D9%88%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
+   "chars": 1104,
+   "sha256": "cb63953abaed0ab77955b1c75457a9a9586ec9433f34f775012f7b010a6d85e7",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P183"
+  },
+  {
+   "index": 184,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/0/1796/%D8%A8%D8%A7%D8%A8-%D9%88%D8%AC%D9%88%D8%A8-%D8%B5%D9%88%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
+   "chars": 527,
+   "sha256": "d02a354abfcc593eadbbfc8cf78f99dbb7daa9ebd39113484b6a445911c10bbf",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P184"
+  },
+  {
+   "index": 185,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%2525252029/22973",
+   "chars": 1159,
+   "sha256": "4b4d40ad27b1278c6a441c70a74dacf0e116d32e099f21be4743c5e784895073",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P185"
+  },
+  {
+   "index": 186,
+   "qid": "FIQH_C03",
+   "source": "kuwait_mawsua",
+   "url": "https://shamela.ws/book/11430%2525252029/22973",
+   "chars": 546,
+   "sha256": "7883deb91a414c432234644330e440114b976ad9e64af0a0cee479796595a695",
+   "shared": false,
+   "qids": [
+    "FIQH_C03"
+   ],
+   "pid": "P186"
+  },
+  {
+   "index": 187,
+   "qid": "FIQH_C04",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/133/189/%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%88%D8%AC%D9%88%D8%A8-%D8%A7%D9%84%D8%AD%D8%AC-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9-%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%B1",
+   "chars": 1188,
+   "sha256": "e90d9b112504b33ebd8cbf333066ee96636591595d8d29ee580989e462063481",
+   "shared": false,
+   "qids": [
+    "FIQH_C04"
+   ],
+   "pid": "P187"
+  },
+  {
+   "index": 188,
+   "qid": "FIQH_C04",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/133/189/%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%88%D8%AC%D9%88%D8%A8-%D8%A7%D9%84%D8%AD%D8%AC-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9-%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%B1",
+   "chars": 1106,
+   "sha256": "74ad1b737bfdba0546736bdc940d766cbe30ccefd071cf5df072112382ef688c",
+   "shared": false,
+   "qids": [
+    "FIQH_C04"
+   ],
+   "pid": "P188"
+  },
+  {
+   "index": 189,
+   "qid": "FIQH_C04",
+   "source": "kuwait_mawsua",
+   "url": "https://islamweb.net/ar/library/content/133/189/%D9%85%D8%B3%D8%A3%D9%84%D8%A9-%D9%88%D8%AC%D9%88%D8%A8-%D8%A7%D9%84%D8%AD%D8%AC-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9-%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%B1",
+   "chars": 1038,
+   "sha256": "6b5c3aeec1319bd5c9bae37b424b52ba6ca7b2fb53685ec3811612e67c7b7d1f",
+   "shared": false,
+   "qids": [
+    "FIQH_C04"
+   ],
+   "pid": "P189"
+  }
+ ]
+}

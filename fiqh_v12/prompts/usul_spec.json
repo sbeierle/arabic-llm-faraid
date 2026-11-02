@@ -1,0 +1,97 @@
+[
+ {
+  "id": "USUL_001",
+  "work": "جامع المسائل لابن تيمية (4/344)",
+  "url_substr": "library/content/416/458",
+  "start": "أما لحم الخيل فهو مباح",
+  "end": "وأما ألبانها",
+  "question_ar": "كيف يرد ابن تيمية على من استدل بآية سورة النحل (والخيل والبغال والحمير لتركبوها وزينة) على تحريم أكل لحم الخيل؟",
+  "criteria_de": [
+   "Koran zeigt kein Verbot: Vers nennt den üblichen Nutzen (Gunstbezeugung), nicht ein Essverbot",
+   "Vers ist mekkanisch",
+   "Sahaba aßen nach der Offenbarung noch Eselfleisch bis zum Verbot bei Khaybar -> Vers kann kein Verbot enthalten",
+   "(Zusatz) Abu Hanifa: Karaha tahrim bzw. tanzih; Abu Yusuf/Muhammad erlauben"
+  ]
+ },
+ {
+  "id": "USUL_002",
+  "work": "الاختيار لتعليل المختار / بداية المجتهد (islamweb fatwa 168401)",
+  "url_substr": "fatwa/168401",
+  "start": "قال ابن رشد:",
+  "end": "والله أعلم.",
+  "question_ar": "ما الأدلة والأوجه التي ذكرها الحنفية في (الاختيار) لتصحيح تزويج المرأة البالغة نفسها، وكيف ردوا على حديث (أيما امرأة نكحت نفسها بغير إذن وليها)؟",
+  "criteria_de": [
+   "Zuschreibung von Nikah/Handeln an die Frauen selbst (Q 2:230, 2:234, 2:240) -> eigenständige Rechtsfähigkeit",
+   "Qiyas auf freie Verfügung über ihr Vermögen",
+   "Muṭlaq auf Muqayyad: Variante 'ayyuma amatin' (Sklavin)",
+   "Zuhri-Bericht: Zuhri kannte ihn selbst nicht -> Ablehnung wegen Rāwī-Inkār"
+  ]
+ },
+ {
+  "id": "USUL_003",
+  "work": "أحكام القرآن للجصاص (1/153-154)",
+  "url_substr": "library/content/212/91",
+  "start": "باب تحريم الخنزير قال الله تعالى",
+  "end": "واختلف أهل العلم في خنزير الماء",
+  "question_ar": "لماذا خص الله تعالى (لحم) الخنزير بالذكر مع أن المراد تحريم جميع أجزائه عند الجصاص؟ وما حكم الانتفاع بشعره للخرز عند أبي حنيفة ومحمد ولماذا؟",
+  "criteria_de": [
+   "Fleisch genannt, weil es der Hauptnutzen ist; gemeint sind alle Teile (Analogien: Jagdtötung im Ihram, Verkauf beim Freitagsruf)",
+   "Abu Hanifa und Muhammad erlauben Nutzung der Borsten zum Nähen; Abu Yusuf: makruh/rivāya erlaubt",
+   "Begründung: Istihsān, weil Salaf/Gelehrte den Schuhmachern die Nutzung ohne Widerspruch ließen (Konsens durch Schweigen); Analogien Hammam, Istisnā'",
+   "Alternative Erklärung al-Jassas: Haar ohne Leben fällt nicht unter das Verbot (wie Haar der Maita)"
+  ]
+ },
+ {
+  "id": "USUL_004",
+  "work": "أحكام القرآن للجصاص (1/154)",
+  "url_substr": "library/content/212/91",
+  "start": "واختلف أهل العلم في خنزير الماء",
+  "end": null,
+  "question_ar": "كيف يستدل الجصاص على تحريم (خنزير الماء) ردا على من قال إن اسم الخنزير عند الإطلاق ينصرف إلى خنزير البر؟",
+  "criteria_de": [
+   "Wortlaut 'laḥm al-khinzīr' umfasst beide wegen Namensgleichheit (shumūl al-ism)",
+   "Ist es dasselbe Aussehen, ändert das Wasser den Status nicht",
+   "Niemand hat die Bezeichnung als Fehler gerügt -> Name trifft im eigentlichen Sinn zu"
+  ]
+ },
+ {
+  "id": "USUL_005",
+  "work": "بدائع الصنائع للكاساني (1/91)",
+  "url_substr": "library/content/12/215",
+  "start": "وأما عددها",
+  "end": "التالي",
+  "question_ar": "كيف استنبط الكاساني من قوله تعالى (حافظوا على الصلوات والصلاة الوسطى) أن الصلوات المفروضة خمس؟ وكيف يجيب عن إشكال إيجاب أبي حنيفة للوتر؟",
+  "criteria_de": [
+   "Salawāt = Plural, Wusṭā ist per 'Aṭf von ihm verschieden -> es braucht einen Plural mit Mitte",
+   "Mitte braucht zwei gleiche Ränder -> gerade Zahlen (4, 6) scheiden aus",
+   "3 scheidet aus (Mitte ausgenommen blieben 2 = kein echter Plural); 5 = kleinste Zahl",
+   "Witr: Abu Hanifa sagt wājib, nicht farḍ; Unterschied wājib/farḍ"
+  ]
+ },
+ {
+  "id": "USUL_006",
+  "work": "فتح الباري لابن حجر (4/124)",
+  "url_substr": "library/content/52/3460",
+  "start": "وقد اختلف السلف هل فرض على الناس صيام قبل رمضان",
+  "end": "الخدمات العلمية",
+  "question_ar": "ما الخلاف الذي ذكره ابن حجر بين الشافعية والحنفية في هل فُرض صيام قبل رمضان (عاشوراء)، وما دليل كل فريق، وما المسألة التي بنوها على هذا الخلاف؟",
+  "criteria_de": [
+   "Jumhur/Schafiiten: vor Ramadan nie ein Pflichtfasten; Beleg Hadith Mu'awiya 'lam yaktub Allāh 'alaykum ṣiyāmahu'",
+   "Hanafiten: Aschura war zuerst Pflicht, durch Ramadan abrogiert; Beleg: Befehlswortlaut (Ibn Umar, Aischa, Rubayyi', Maslama)",
+   "Folgefrage: Ist beim Pflichtfasten eine Absicht aus der Nacht (niyya min al-layl) Bedingung?"
+  ]
+ },
+ {
+  "id": "USUL_007",
+  "work": "شرح عمدة الفقه لابن تيمية (2/104-107)",
+  "url_substr": "library/content/133/188",
+  "start": "وقد أطلق أحمد القول بأن العمرة واجبة",
+  "end": "التالي",
+  "question_ar": "ما الطرق الثلاث لأصحاب الإمام أحمد في الجمع بين قوله بوجوب العمرة وقوله (أهل مكة ليس عليهم عمرة)؟",
+  "criteria_de": [
+   "Weg 1: eine Riwāya (Pflicht auch für Mekkaner); 'keine Umra' = keine Mutʿa in der Hadsch-Zeit (früher Qāḍī; als schwach bezeichnet)",
+   "Weg 2: zwei Riwāyāt zur Pflicht für Mekkaner (später Qāḍī, Ibn ʿAqīl, Großvater Majd)",
+   "Weg 3: eine Riwāya = keine Pflicht für Mekkaner; Mutlaq auf Muqayyad, Mujmal auf Mufassar (Abu Bakr, Ibn Qudāma)"
+  ]
+ }
+]
