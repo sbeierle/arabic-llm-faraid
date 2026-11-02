@@ -1,4 +1,4 @@
-﻿# Arabic LLMs in Practice: Jais-3 vs. Qwen on Islamic inheritance law (Fara'id)
+# Arabic LLMs in Practice: Jais-3 vs. Qwen on Islamic inheritance law (Fara'id)
 
 Code, task files, scoring and results behind the preprint
 **"Arabic LLMs in Practice: Jais-3 vs. Qwen on Islamic Inheritance Law (Fara'id), Scriptural Traps and Tokenizer Economics"**
@@ -17,7 +17,7 @@ Comparison of dense and mixture-of-experts architectures against ground-truth in
 ---
 
 ### 2. Breakdown by Juristic Rule Group
-Performance across specific inheritance mechanics (*'Awl*, *Radd*, *Hajb*, *'Asaba*, and the *'UmarÄ«* cases)[cite: 10, 11, 13].
+Performance across specific inheritance mechanics (*'Awl*, *Radd*, *Hajb*, *'Asaba*, and the *'Umarī* cases)[cite: 10, 11, 13].
 
 ![Rule Groups Breakdown](assets/img/02_rule_groups.png)
 
@@ -93,7 +93,7 @@ Reference setup of the reported runs: one NVIDIA H200, vLLM 0.32.0, transformers
 
 ## Round 2 (v1.2): fiqh disagreement and context test
 
-Extension 5 is new in v1.2 and lives in [`fiqh_v12/`](fiqh_v12/README.md). Ten disputed fiqh questions were asked for the four Sunni schools, Ibn BÄz and Ibn Ê¿UthaymÄ«n to Jais-3-MoVA-36B-A4B and Qwen3-30B-A3B (3 runs, T 0.7). Without source text Jais-3-MoVA is right in 118 of 144 graded cells (82%) and Qwen3 in 65 of 121 (54%). With the matching passage in the prompt both reach 94 to 96%; that is reading a passage the answer key comes from, not evidence that retrieval closes the gap. Given passages for other questions, Qwen3 answers 45 of 162 slots, Jais-3-MoVA 13 of 162.
+Extension 5 is new in v1.2 and lives in [`fiqh_v12/`](fiqh_v12/README.md). Ten disputed fiqh questions were asked for the four Sunni schools, Ibn Bāz and Ibn ʿUthaymīn to Jais-3-MoVA-36B-A4B and Qwen3-30B-A3B (3 runs, T 0.7). Without source text Jais-3-MoVA is right in 118 of 144 graded cells (82%) and Qwen3 in 65 of 121 (54%). With the matching passage in the prompt both reach 94 to 96%; that is reading a passage the answer key comes from, not evidence that retrieval closes the gap. Given passages for other questions, Qwen3 answers 45 of 162 slots, Jais-3-MoVA 13 of 162.
 
 Sample evaluation, not a benchmark. The answer key was built by the author with Claude and not scored blind; no scholar and no native speaker reviewed it. Anyone who wants to check or add questions is welcome (see `fiqh_v12/README.md`). Recompute all tables without a GPU: `bash fiqh_v12/reproduce_scoring.sh`.
 
@@ -101,7 +101,7 @@ Sample evaluation, not a benchmark. The answer key was built by the author with 
 
 - Small samples (n = 20 to 75 tasks); Wilson intervals are wide.
 - Each model ran with its model-card sampling values, not under equal conditions.
-- The six answer-key variants are not assigned to schools; the two `Ê¿UmarÄ«` cases follow the majority position (Ibn Qudama, al-Mughni, vol. 6, around p. 172, read online, not in a printed edition).
+- The six answer-key variants are not assigned to schools; the two `ʿUmarī` cases follow the majority position (Ibn Qudama, al-Mughni, vol. 6, around p. 172, read online, not in a printed edition).
 - The GPT-4o snapshot was not recorded: the run script stored only the requested identifier `gpt-4o` (run on 25 October 2026, about 22:17 local time).
 - `results/extension/jais3-mova/faraid_s42.*` is a copy of the main-run file (see `faraid_s42.herkunft`).
 
@@ -114,4 +114,3 @@ Sample evaluation, not a benchmark. The answer key was built by the author with 
 ## Citation
 
 See `CITATION.cff`.
-
