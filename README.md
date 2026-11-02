@@ -2,7 +2,7 @@
 
 Code, task files, scoring and results behind the preprint
 **"Arabic LLMs in Practice: Jais-3 vs. Qwen on Islamic Inheritance Law (Fara'id), Scriptural Traps and Tokenizer Economics"**
-(Stefan Beierle, 2026, Zenodo, DOI 10.5281/zenodo.23897695).
+(Stefan Beierle, 2026, Zenodo, DOI 10.5281/zenodo.23660452).
 
 Status: preprint companion, not peer reviewed. Not a fatwa. The Fara'id answer keys were **not reviewed by a scholar**.
 The work was prepared with Claude (Anthropic) as an agent under the author's direction; errors are possible and are listed in the report.
